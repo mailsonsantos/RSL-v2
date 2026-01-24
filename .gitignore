@@ -15,8 +15,7 @@ ENV/
 # Data and large files
 arquivos_processados/
 artigos_baixados/
-*.xls
-*.xlsx
+
 
 # Local configuration
 .idea/
