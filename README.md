@@ -2,122 +2,93 @@
 
 O **RSL-AI Governance Accelerator** é um sistema avançado desenvolvido para acelerar e automatizar a etapa de **Avaliação de Qualidade (Quality Assessment - QA)** em Revisões Sistemáticas de Literatura (RSL). 
 
-Este acelerador foi projetado especificamente para lidar com o volume massivo de dados acadêmicos (neste caso, **370 artigos**) sobre a temática de **Governança de Dados para Sistemas de IA**, transformando um processo que levaria semanas de esforço manual em uma operação automatizada, auditável e rápida.
+Este acelerador foi projetado para transformar o processo manual de análise de artigos acadêmicos em uma operação automatizada, auditável e escalável, utilizando o poder da Inteligência Artificial Generativa através do framework **Langflow**.
 
 ---
 
-## 📋 Visão Geral
+## 📋 Visão Geral do Sistema
 
-O sistema utiliza uma **Arquitetura Cliente-Servidor** para garantir eficiência em hardware modesto (ex: Beelink):
+O sistema opera em uma **Arquitetura Cliente-Servidor** otimizada para eficiência e baixo consumo de recursos no cliente:
 
-*   **Servidor (Langflow)**: Responsável pelas tarefas pesadas de extração de texto (via **Docling**), orquestração de fluxos de IA e interface com o LLM (**GPT-4o-mini** da OpenAI).
-*   **Cliente (Python Scripts/Dashboard)**: Atua apenas como orquestrador leve de chamadas de API, monitoramento e persistência de resultados.
-
-### Pilares do Projeto:
-*   **Automação Inteligente**: Extração de texto via servidor e análise semântica estruturada.
-*   **Escalabilidade**: Processamento em lote (Batch Processing) para otimização de recursos.
-*   **Monitoramento em Tempo Real**: Interface Streamlit para acompanhamento do progresso.
+*   **Servidor (Langflow)**: Camada de processamento pesado. Utiliza o componente **Docling** para extração de texto de PDFs e o modelo **GPT-4o-mini** da OpenAI para análise semântica.
+*   **Cliente (Python Local)**: Camada de orquestração. Gerencia o envio dos arquivos, controle de lotes (batch processing), persistência local e interface de monitoramento.
 
 ---
 
-## 🛠️ Processo de Instalação
+## 🛠️ Artefatos Principais (Core)
 
-### Requisitos Prévios
-*   **Python 3.10+** (Ambiente Cliente leve).
-*   **Langflow** rodando em um servidor/local (deve ter o componente **Docling** instalado internamente).
-*   Chave de API da OpenAI configurada no Langflow.
+Estes são os componentes essenciais para a execução do fluxo de análise:
 
-### Passo a Passo
+### 🎮 Interface e Orquestração
+*   **[dashboard.py](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/dashboard.py)**: Interface visual em Streamlit. Oferece monitoramento em tempo real, métricas de progresso, logs ao vivo e inspeção dos JSONs gerados.
+*   **[rsl_paper_analyzer.py](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/rsl_paper_analyzer.py)**: Versão CLI (Command Line Interface) do motor de processamento. Ideal para execuções em segundo plano ou automações simples via terminal.
 
-1. **Clonar o repositório e criar ambiente virtual:**
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate  # No Windows: .venv\Scripts\activate
-   ```
-
-3. **Instalar dependências do cliente:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Configuração do Langflow (Servidor):**
-   > [!IMPORTANT]
-   > O Langflow deve estar rodando com o componente `Docling` configurado. A extração de PDF ocorre no servidor, não no cliente Python. Certifique-se de que o componente ID no script corresponde ao do seu flow (ex: `DoclingInline-jzcAF`).
+### 📂 Estrutura de Dados
+*   **`arquivos_baixados/`**: Diretório de entrada (Input) onde devem ser depositados os artigos em formato PDF.
+*   **`arquivos_processados/`**: Diretório de saída (Output) onde o sistema salva os resultados individuais em formato JSON.
+*   **[.env](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/.env)**: Arquivo de configuração para chaves de API e URLs de endpoint.
+*   **[requirements.txt](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/requirements.txt)**: Lista de dependências Python necessárias para rodar o cliente.
 
 ---
 
-## ⚙️ Processo de Configuração
+## ⚖️ Regras de Negócio e Critérios de Qualidade (QA)
 
-### 1. Variáveis de Ambiente
-Crie um arquivo `.env` na raiz do projeto com a seguinte chave:
-```env
-LANGFLOW_API_KEY=your_api_key_here
-```
+A análise realizada pelo LLM segue **5 critérios fundamentais** definidos para o domínio de Governança de Dados para IA. Cada artigo é avaliado individualmente, gerando respostas estruturadas:
 
-### 2. Integração com Langflow
-O sistema se comunica com o endpoint local do Langflow. Verifique no script `rsl_paper_analyzer.py` ou `dashboard.py` se a constante `API_URL` aponta para o ID correto do seu fluxo carregado no Langflow (ex: `http://localhost:7860/api/v1/run/...`).
+1.  **Framework de Governança**: Define claramente um framework ou modelo de governança de dados?
+2.  **Ética e Regulação**: Aborda desafios éticos ou regulatórios da IA?
+3.  **Rigor Metodológico**: A metodologia de pesquisa é adequada e reproduzível?
+4.  **Validação de Resultados**: Houve validação por especialistas ou aplicação experimental?
+5.  **Lacunas e Limitações**: Identifica limitações específicas na gestão de dados para IA?
 
-### 3. Estrutura de Pastas
-O projeto espera a seguinte organização de arquivos:
-*   `arquivos_baixados/`: Pasta contendo os PDFs originais do levantamento (Input).
-*   `arquivos_processados/`: Pasta onde serão salvos os JSONs gerados após a análise (Output).
+> [!NOTE]
+> Cada critério recebe uma classificação: **SIM**, **PARCIALMENTE** ou **NÃO**, acompanhada de uma justificativa concisa de até 5 linhas.
 
 ---
 
-## 🚀 Processo de Execução
+## ⚙️ Configuração e Instalação
 
-### Modo 1: Dashboard de Monitoramento (Recomendado)
-Para uma experiência visual com métricas, logs e inspeção de resultados:
+1.  **Ambiente Virtual:**
+    ```bash
+    python -m venv .venv
+    source .venv/bin/activate
+    pip install -r requirements.txt
+    ```
+
+2.  **Variáveis de Ambiente:** Configure seu `.env` com a `LANGFLOW_API_KEY`.
+
+3.  **Dependência de Servidor:** O Langflow deve estar ativo e com o fluxo devidamente configurado (utilizando o componente `Docling` para leitura de arquivos).
+
+---
+
+## 🚀 Como Executar
+
+O fluxo recomendado é através do Dashboard Visual:
+
 ```bash
 streamlit run dashboard.py
 ```
-**Fluxo no Dashboard:**
-1. Verifique se o Langflow está ativo.
-2. Defina o **Batch Size** (Lote) na barra lateral (Padrão: 3).
-3. Clique em `Iniciar Processamento`.
-4. Monitore o progresso, tempo decorrido e eventuais falhas.
 
-### Modo 2: Script de Automação (CLI)
-Para execução direta via terminal:
-```bash
-python rsl_paper_analyzer.py
-```
+No painel, você poderá ajustar o **Batch Size** (quantidade de arquivos processados simultaneamente) para otimizar o uso da CPU do servidor.
 
 ---
 
-## ⚖️ Regras de Negócio (Critérios de Qualidade)
+## 🛠️ Ferramentas de Apoio e Transformação
 
-A inteligência do acelerador avalia cada artigo com base em **5 critérios fundamentais** de governança e rigor metodológico. O LLM deve responder obrigatoriamente para cada item: **SIM**, **PARCIALMENTE** ou **NÃO**.
+Estes arquivos **não fazem parte do fluxo principal de execução**, mas foram criados para apoiar a preparação dos dados, limpeza do ambiente e validações pontuais.
 
-1.  **Framework de Governança**: O estudo define claramente um framework ou modelo de governança de dados?
-2.  **Ética e Regulação**: Aborda explicitamente desafios éticos ou regulatórios da IA?
-3.  **Rigor Metodológico**: A metodologia de pesquisa está descrita de forma adequada e reproduzível?
-4.  **Validação de Resultados**: Houve validação por especialistas ou aplicação em ambiente real/experimental?
-5.  **Lacunas e Limitações**: O artigo identifica limitações ou lacunas específicas na gestão de dados para IA?
+| Arquivo | Função |
+| :--- | :--- |
+| **[match_articles.py](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/match_articles.py)** | Cruza a lista oficial de artigos (`.xls`) com os arquivos físicos na pasta `artigos_baixados`, identificando faltas e sobras. |
+| **[cleanup_artigos.py](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/cleanup_artigos.py)** | Utilitário para limpar a pasta de PDFs, mantendo apenas os arquivos validados em listas de controle. |
+| **[teste.py](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/teste.py)** | Script de teste rápido para validar conexões e pequenos trechos de lógica. |
+| **[erros.log](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/erros.log)** | Arquivo gerado automaticamente para rastrear falhas de comunicação ou processamento durante a execução. |
 
-> [!IMPORTANT]
-> **Regra de Processamento em Lote**: Devido às restrições de CPU (foco em máquinas locais tipo Beelink), o sistema processa os artigos em lotes de 3. Isso garante estabilidade e evita gargalos na conversão de PDF via Docling.
-
----
-
-## 📄 Formato de Saída
-
-Cada artigo processado gera um arquivo `.json` enriquecido. Abaixo um exemplo da estrutura gerada:
-
-```json
-{
-    "criterio_1": "SIM",
-    "criterio_2": "PARCIALMENTE",
-    "criterio_3": "SIM",
-    "criterio_4": "NÂO",
-    "criterio_5": "SIM",
-    "justificativa": "O artigo apresenta um modelo robusto, mas falha em detalhar a fase de validação experimental.",
-    "file_source": "/caminho/completo/do/arquivo/artigo_01.pdf"
-}
-```
-
-*   **justificativa**: Limitada a no máximo 5 linhas para manter a concisão.
-*   **file_source**: Chave inserida via script para rastreabilidade total da fonte original.
+### Ativos de Dados (Suporte)
+*   **`articles.xls`**: Lista original de artigos exportada das bases de dados.
+*   **`articles_preenchido_comQA.xlsx`**: Resultado consolidado (XLS) após o cruzamento de dados.
+*   **`artigos_nao_listados.txt`**: Relatório de arquivos PDF encontrados que não constam na lista oficial.
 
 ---
-*Desenvolvido como parte de pesquisa de doutorado em Governança de Dados aplicada à Inteligência Artificial.*
+*Este projeto integra a pesquisa de doutorado focada em Governança de Dados aplicada à Inteligência Artificial.*
+
