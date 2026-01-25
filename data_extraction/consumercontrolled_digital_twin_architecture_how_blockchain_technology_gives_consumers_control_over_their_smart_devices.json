@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "Consumer-controlled digital twin architecture: How blockchain technology gives consumers control over their smart devices’ digital twins and data",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Portugal",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Consumidores",
+        "nome_framework_modelo": "Consumer-Controlled Digital Twin Architecture (C2DTA)",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O C2DTA utiliza blockchain para garantir a integridade e a segurança dos dados, permitindo que os consumidores tenham controle sobre seus dados pessoais e sobre a gestão de suas identidades digitais.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A pesquisa identifica a falta de controle dos consumidores sobre seus dados pessoais e a necessidade de soluções que promovam a equidade na gestão de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Consumer-Controlled Digital Twin Architecture How blockchain technology gives consumers control over their smart devices.pdf"
+}

@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Artificial intelligence in tobacco control: A systematic scoping review of applications, challenges, and ethical implications",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United Kingdom",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde Pública",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de avaliações abrangentes que examinem a integração de tecnologias de IA em programas de controle do tabaco e as implicações éticas e de interferência da indústria.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Artificial intelligence in tobacco control A systematic scoping review of applications, challenges, and ethical implicat.pdf"
+}

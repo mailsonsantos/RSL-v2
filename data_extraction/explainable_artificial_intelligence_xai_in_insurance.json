@@ -1,0 +1,27 @@
+{
+    "dados_extraidos": {
+        "titulo": "Explainable Artificial Intelligence (XAI) in Insurance",
+        "ano_publicacao": 2022,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Ireland",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Indústria de Seguros",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas",
+            "Metadados"
+        ],
+        "mecanismos_conformidade": "A pesquisa discute a necessidade de conformidade com regulamentações como o GDPR, que exige transparência e explicabilidade em sistemas de IA.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de um consenso sobre definições de XAI e a avaliação da explicabilidade nos métodos de IA aplicados na indústria de seguros.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Explainable Artificial Intelligence (XAI) in Insurance.pdf"
+}

@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Dr.Aid: Supporting Data-governance Rule Compliance for Decentralized Collaboration in an Automated Way",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "UK",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Pesquisa científica",
+        "nome_framework_modelo": "Dr.Aid",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O sistema automatiza o manuseio de regras de governança de dados, permitindo que as partes interessadas cumpram as políticas de uso de dados de forma mais eficiente.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de métodos automatizados para especificação e conformidade de regras de uso de dados em contextos descentralizados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Dr.Aid Supporting Data-governance Rule Compliance for Decentralized Collaboration in an Automated Way.pdf"
+}

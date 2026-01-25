@@ -1,0 +1,21 @@
+{
+    "dados_extraidos": {
+        "titulo": "Implementing Vertical Federated Learning Using Autoencoders: Practical Application, Generalizability, and Utility Study",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Republic of Korea",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Autoencoder-based ML model",
+        "componentes_governanca": [
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Uso de métodos como k-anonymity, l-diversity, t-closeness e privacidade diferencial para proteger dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade"
+        ],
+        "lacunas_identificadas": "Necessidade de resultados mais rigorosos usando validação cruzada e explicabilidade do modelo.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Implementing Vertical Federated Learning Using Autoencoders Practical Application, Generalizability, and Utility Study.pdf"
+}

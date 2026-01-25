@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Artificial intelligence in Chinese healthcare: a review of applications and future prospects",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "China",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "MedAgent-Zero",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "PIPL requer consentimento explícito para o processamento de dados de saúde e impõe restrições à transferência de dados sensíveis.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Desafios na transparência dos algoritmos, governança de dados transfronteiriços e coordenação regulatória internacional.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Artificial intelligence in Chinese healthcare a review of applications_and future prospects.pdf"
+}

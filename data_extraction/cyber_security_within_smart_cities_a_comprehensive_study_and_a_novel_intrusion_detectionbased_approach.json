@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "Cyber Security within Smart Cities: A Comprehensive Study and a Novel Intrusion Detection-Based Approach",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Tunisia",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Cidades Inteligentes",
+        "nome_framework_modelo": "AI-based framework for intrusion detection",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Proposta de um framework de IA para documentar tentativas de penetração e detectar desvios de padrões de segurança.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Desafios na gestão de dados pessoais e riscos de segurança cibernética em cidades inteligentes.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Cyber Security within Smart Cities A Comprehensive Study and a Novel Intrusion Detection-Based Approach.pdf"
+}

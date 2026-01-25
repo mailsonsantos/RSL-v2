@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Connected Health Innovation: Data Access Challenges in the Interface of AI Companies and Hospitals",
+        "ano_publicacao": 2019,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Finland",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O estudo discute a necessidade de diretrizes claras para o uso e acesso a dados em hospitais, além de enfatizar a importância da transparência sobre como os dados serão utilizados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de diretrizes e processos organizacionais claros para o uso de dados, além de incertezas sobre regulamentações de privacidade de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Connected Health Innovation Data Access Challenges in the Interface of_AI Companies and Hospitals.pdf"
+}

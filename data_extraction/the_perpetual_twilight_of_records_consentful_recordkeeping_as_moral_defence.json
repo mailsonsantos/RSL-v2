@@ -1,0 +1,26 @@
+{
+    "dados_extraidos": {
+        "titulo": "The perpetual twilight of records: consentful recordkeeping as moral defence",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Australia",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Governança de Dados, Arquivologia, Ética em IA",
+        "nome_framework_modelo": "VALID",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo propõe um sistema de consentimento dinâmico que respeita a dignidade e a agência dos indivíduos representados nos dados.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de práticas de consentimento significativo e a necessidade de abordar preconceitos de representação nos conjuntos de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/The perpetual twilight of records consentful recordkeeping as moral_defence.pdf"
+}

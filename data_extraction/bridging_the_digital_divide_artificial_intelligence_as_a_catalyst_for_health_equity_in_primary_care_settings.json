@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Bridging the digital divide: artificial intelligence as a catalyst for health equity in primary care settings",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United Kingdom",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Desenvolvimento de AI centrado na equidade, estratégias robustas de mitigação de viés e programas abrangentes de alfabetização digital.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de representação em conjuntos de dados de treinamento, viés algorítmico e exclusão digital de populações vulneráveis.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Bridging the digital divide artificial intelligence as a catalyst for health equity in primary care settings.pdf"
+}

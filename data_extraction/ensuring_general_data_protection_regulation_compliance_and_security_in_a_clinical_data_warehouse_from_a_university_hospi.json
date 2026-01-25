@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Ensuring General Data Protection Regulation Compliance and Security in a Clinical Data Warehouse From a University Hospital: Implementation Study",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "France",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "CDW framework",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "A pesquisa foi autorizada pela CNIL e seguiu um checklist de conformidade com 116 critérios, avaliando a implementação do CDW e propondo ajustes para facilitar a pesquisa.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Desafios na implementação de medidas de segurança e conformidade com a GDPR, especialmente em relação à gestão de dados genéticos e à proteção da privacidade dos pacientes.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Ensuring General Data Protection Regulation Compliance and Security in a Clinical Data Warehouse From a University Hospi.pdf"
+}

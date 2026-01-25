@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Next-Generation Big Data Federation Access Control: A Reference Model",
+        "ano_publicacao": 2019,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Spain",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Big Data",
+        "nome_framework_modelo": "Federated Access Control Reference Model (FACRM)",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O modelo proposto aborda limitações de segurança e privacidade em ambientes de federação de dados, utilizando um broker de acesso para controle centralizado.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de um modelo padrão para unificar o acesso de usuários/aplicações a recursos, serviços e dados em plataformas de Big Data.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Next-generation big data federation access control A reference model.pdf"
+}

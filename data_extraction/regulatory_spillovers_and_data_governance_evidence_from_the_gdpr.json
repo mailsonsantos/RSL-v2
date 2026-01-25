@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Regulatory Spillovers and Data Governance: Evidence from the GDPR",
+        "ano_publicacao": 2022,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Switzerland",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Web Technology Industry",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a conformidade com a GDPR e os riscos de conformidade associados à responsabilidade conjunta entre websites e provedores de tecnologia.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A pesquisa identifica a falta de clareza sobre a aplicação territorial da GDPR e os riscos de conformidade para websites fora da UE.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Regulatory Spillovers and Data Governance Evidence from the GDPR.pdf"
+}

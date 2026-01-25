@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Elevating Public Service with Generative AI: Exploring Features and Applications",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Indonesia",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Setor Público",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de clareza sobre o papel e a compreensão da IA generativa, bem como recomendações para a implementação futura da IA generativa no setor público.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Public Service with Generative AI Exploring Features and Applications.pdf"
+}

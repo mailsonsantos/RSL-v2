@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Unlocking Health Data for Research: Legal, Technical, and Organisational Lessons from a Belgian Interdisciplinary Case Study",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Bélgica",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a necessidade de conformidade com o Regulamento Geral sobre a Proteção de Dados (GDPR) e a legislação nacional, além de mencionar a importância de estruturas de governança robustas e coordenação institucional.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A falta de infraestrutura harmonizada e a capacidade limitada das Comissões de Ética em Pesquisa para avaliar pesquisas baseadas em dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Unlocking Health Data for Research Legal, Technical, and Organisational_Lessons from a Belgian Interdisciplinary Case St.pdf"
+}

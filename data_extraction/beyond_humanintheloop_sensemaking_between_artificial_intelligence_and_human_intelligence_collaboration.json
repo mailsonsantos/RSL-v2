@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Beyond human-in-the-loop: Sensemaking between artificial intelligence and human intelligence collaboration",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United Kingdom",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Operações e Gestão da Cadeia de Suprimentos",
+        "nome_framework_modelo": "Sociotechnical system",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Mecanismos reflexivos de governança para apoiar a tomada de decisão humana-máquina adaptativa, interpretável e responsável.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de compreensão sobre como a IA e a HI interagem e co-funcionam em contextos operacionais do mundo real.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Beyond human-in-the-loop Sensemaking between artificial intelligence and human intelligence collaboration.pdf"
+}

@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "F-BIDS: Federated-Blending based Intrusion Detection System",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "France",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Segurança da Informação",
+        "nome_framework_modelo": "F-BIDS",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O modelo F-BIDS utiliza aprendizado federado para preservar a privacidade dos dados dos usuários, evitando a transferência de dados sensíveis.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A necessidade de melhorar a segurança e a privacidade em sistemas de detecção de intrusões baseados em aprendizado federado.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/F-BIDS Federated-Blending based Intrusion Detection System.pdf"
+}

@@ -1,0 +1,26 @@
+{
+    "dados_extraidos": {
+        "titulo": "Designing an ML Auditing Criteria Catalog as Starting Point for the Development of a Framework",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "ML Auditing Core Criteria Catalog",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo propõe um catálogo de critérios de auditoria para garantir a conformidade ética e regulatória na implementação de algoritmos de ML na saúde.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de um framework comum para auditoria de sistemas de IA e a necessidade de melhores práticas e ferramentas para acelerar a adoção de ML na saúde.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Designing an ML Auditing Criteria Catalog as Starting Point for the Development of a Framework.pdf"
+}

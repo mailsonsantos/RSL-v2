@@ -1,0 +1,26 @@
+{
+    "dados_extraidos": {
+        "titulo": "Adaptive structural audit processes as shaped by emerging technologies",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "South Africa",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Auditoria",
+        "nome_framework_modelo": "Adaptive Audit Ecosystem (AAE)",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Dual data governance frameworks between auditors and clients ensure data integrity, privacy compliance, and regulatory alignment.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Regulatory lag and dual data governance frameworks challenges hinder the seamless adoption of data-centric audit practices.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Adaptive structural audit processes as shaped by emerging technologies.pdf"
+}

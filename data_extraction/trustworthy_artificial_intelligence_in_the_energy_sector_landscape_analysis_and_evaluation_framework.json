@@ -1,0 +1,26 @@
+{
+    "dados_extraidos": {
+        "titulo": "Trustworthy artificial intelligence in the energy sector: Landscape analysis and evaluation framework",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Greece",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Setor de Energia",
+        "nome_framework_modelo": "E-TAI",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O framework E-TAI propõe diretrizes para a identificação e gestão de riscos éticos durante o ciclo de vida de desenvolvimento de sistemas de IA, incluindo a conformidade com a legislação da UE e diretrizes éticas.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de diretrizes claras e abrangentes para a implementação de IA confiável no setor de energia, especialmente em relação à conformidade ética e regulatória.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Trustworthy Artificial Intelligence in the Energy Sector Landscape Analysis and Evaluation Framework.pdf"
+}

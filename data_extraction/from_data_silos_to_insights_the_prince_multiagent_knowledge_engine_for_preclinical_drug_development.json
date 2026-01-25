@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "From data silos to insights: the PRINCE multi-agent knowledge engine for preclinical drug development",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Indústria farmacêutica",
+        "nome_framework_modelo": "PRINCE",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Sistema de controle de acesso para garantir conformidade com classificações de dados internas.",
+        "dimensoes_eticas_abordadas": [
+            "Transparência",
+            "Explicabilidade"
+        ],
+        "lacunas_identificadas": "Necessidade de plataformas de dados integrados para superar desafios de fragmentação de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/From data silos to insights the PRINCE multi-agent knowledge engine for_preclinical drug development.pdf"
+}

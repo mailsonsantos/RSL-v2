@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Rapid Response to Drive COVID-19 Research in a Learning Health Care System: Rationale and Design of the Houston Methodist COVID-19 Surveillance and Outcomes Registry (CURATOR)",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United States",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "CURATOR",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Governança e regulação pelo IRB do Houston Methodist, com auditorias anuais e revisão de políticas de governança de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Necessidade de infraestrutura de dados robusta e validação de dados em tempo real para suportar decisões clínicas e de pesquisa.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Rapid Response to Drive COVID-19 Research in a Learning Health Care System Rationale and Design of the Houston Methodist.pdf"
+}

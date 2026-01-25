@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "A Versatile Data Fabric for Advanced IoT-Based Remote Health Monitoring",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "USA",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde Digital",
+        "nome_framework_modelo": "Data Fabric",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Cumprimento de obrigações regulatórias e contratuais.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Necessidade de suporte a catálogo de dados e linhagem de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A Versatile Data Fabric for Advanced IoT-Based Remote Health Monitoring.pdf"
+}

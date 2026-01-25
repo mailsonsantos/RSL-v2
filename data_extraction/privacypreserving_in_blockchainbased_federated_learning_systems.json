@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Privacy-preserving in Blockchain-based Federated Learning Systems",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "India",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde, Indústria 5.0, Internet das Coisas",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a integração de Blockchain com Federated Learning para garantir a privacidade e segurança dos dados, abordando ataques e contramedidas para a proteção de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A necessidade de otimização de consumo de gás em sistemas baseados em criptografia e a vulnerabilidade a ataques de colusão.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Privacy-preserving in Blockchain-based Federated Learning systems.pdf"
+}

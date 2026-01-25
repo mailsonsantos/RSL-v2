@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "D-VRE: From a Jupyter-enabled private research environment to decentralized collaborative research ecosystem",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Netherlands",
+        "metodo_pesquisa": "Experimento",
+        "publico_alvo_setor": "Comunidades de pesquisa científica",
+        "nome_framework_modelo": "D-VRE",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Integração de contratos inteligentes para garantir conformidade com políticas de compartilhamento e identidade descentralizada.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de suporte robusto para modos de cooperação descentralizados e desafios na gestão de ativos de pesquisa devido a barreiras de geolocalização e regulamentos de confidencialidade locais.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/D-VRE From a Jupyter-enabled private research environment to decentralized collaborative research ecosystem.pdf"
+}

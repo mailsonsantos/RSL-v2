@@ -1,0 +1,27 @@
+{
+    "dados_extraidos": {
+        "titulo": "Software engineering practices for machine learning: adoption, effects, and team assessment",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "The Netherlands",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Práticas de confiança tendem a ser negligenciadas.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Software engineering practices for machine learning — Adoption, effects, and team assessment.pdf"
+}

@@ -1,0 +1,26 @@
+{
+    "dados_extraidos": {
+        "titulo": "The N3C governance ecosystem: A model socio-technical partnership for the future of collaborative analytics at scale",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "USA",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "N3C governance ecosystem",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Implementação de um acordo de uso de dados e um comitê de acesso a dados para garantir a conformidade com as normas éticas e regulatórias.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Necessidade de superar barreiras técnicas, operacionais e culturais para o compartilhamento de dados sensíveis de saúde.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/The N3C governance ecosystem A model socio-technical partnership for_the future of collaborative analytics at scale.pdf"
+}

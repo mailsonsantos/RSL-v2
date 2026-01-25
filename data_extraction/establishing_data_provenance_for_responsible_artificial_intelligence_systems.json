@@ -1,0 +1,29 @@
+{
+    "dados_extraidos": {
+        "titulo": "Data Provenance for Responsible AI",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Data Provenance Framework for Responsible AI",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Linhagem",
+            "Metadados",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Estabelecimento de governança de dados organizacional, exigência de rastreabilidade de dados e aproveitamento de avanços tecnológicos, como IA explicável.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de rastreabilidade de dados e governança de dados organizacional, o que compromete a qualidade e a responsabilidade dos sistemas de IA.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Establishing Data Provenance for Responsible Artificial Intelligence Systems.pdf"
+}

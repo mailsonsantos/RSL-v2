@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Global norms and regional innovation: GDPR, evolution of data protection in ASEAN and the legal trajectory of AI in Vietnam",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Vietnam",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Policymakers, businesses and scholars",
+        "nome_framework_modelo": "V-PDPL",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O estudo analisa como os estados membros da ASEAN estão respondendo às pressões globais, enquanto abordam os desafios distintos da governança de dados e da integração regional de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de direitos específicos para decisões automatizadas e coordenação entre ministérios relevantes.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Global norms and regional innovation GDPR, evolution of data_protection in ASEAN and the legal trajectory of AI in Vietn.pdf"
+}

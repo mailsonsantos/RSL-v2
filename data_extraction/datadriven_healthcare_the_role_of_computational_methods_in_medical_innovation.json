@@ -1,0 +1,19 @@
+{
+    "dados_extraidos": {
+        "titulo": "Data-Driven Healthcare: The Role of Computational Methods in Medical Innovation",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "India",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade"
+        ],
+        "lacunas_identificadas": "Necessidade de colaboração interdisciplinar e desenvolvimento de modelos computacionais mais robustos e escaláveis.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Data-Driven Healthcare The Role of Computational Methods in Medical Innovation.pdf"
+}

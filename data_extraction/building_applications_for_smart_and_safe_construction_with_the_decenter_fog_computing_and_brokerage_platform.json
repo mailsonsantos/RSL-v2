@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "Building applications for smart and safe construction with the DECENTER Fog Computing and Brokerage Platform",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Slovenia",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Construção",
+        "nome_framework_modelo": "DECENTER Fog Computing and Brokerage Platform",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Uso de Smart Contracts para garantir a conformidade com regulamentos de privacidade e segurança.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A integração de métodos de IA em aplicações do mundo real ainda não é satisfatória, especialmente em domínios industriais como a construção.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Building applications for smart and safe construction with the DECENTER Fog Computing and Brokerage Platform.pdf"
+}

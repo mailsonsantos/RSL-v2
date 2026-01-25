@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Ethics, Data and Privacy Management for AI Solutions in Manufacturing at SMEs (AIRISE)",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Netherlands",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Manufacturing SMEs",
+        "nome_framework_modelo": "AIRISE",
+        "componentes_governanca": [
+            "Políticas",
+            "Metadados"
+        ],
+        "mecanismos_conformidade": "Compliance with AI act and GDPR through an ethics manual and advisory committee.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Lack of experience in ethical management in AI and manufacturing.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Ethics, Data and Privacy Management for AI Solutions in Manufacturing at_SMEs (AIRISE).pdf"
+}

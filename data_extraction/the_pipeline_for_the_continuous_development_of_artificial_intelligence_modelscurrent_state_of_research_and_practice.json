@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "The Pipeline for the Continuous Development of Artificial Intelligence Models - Current State of Research and Practice",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Austria",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Não mencionado",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/The pipeline for the continuous development of artificial intelligence models—Current state of research and practice.pdf"
+}

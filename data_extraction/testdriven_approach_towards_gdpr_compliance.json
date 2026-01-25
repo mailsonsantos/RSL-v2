@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "Test-Driven Approach Towards GDPR Compliance",
+        "ano_publicacao": 2019,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Ireland",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "A abordagem utiliza representações semânticas de processos para manter a conformidade contínua com o GDPR, gerando e verificando restrições para aderência aos requisitos do GDPR.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Não mencionado",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Test-Driven Approach Towards GDPR Compliance.pdf"
+}

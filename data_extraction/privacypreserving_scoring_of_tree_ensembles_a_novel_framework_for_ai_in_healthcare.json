@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Privacy-Preserving Scoring of Tree Ensembles: A Novel Framework for AI in Healthcare",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "USA",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "KenSci ML platform",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O uso de computação multipartidária segura (SMC) para permitir a classificação de dados criptografados sem expor informações pessoais.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de clareza nas políticas que regem o uso de dados pessoais em aplicações de aprendizado de máquina.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Privacy-Preserving Scoring of Tree Ensembles A Novel Framework for AI_in Healthcare.pdf"
+}

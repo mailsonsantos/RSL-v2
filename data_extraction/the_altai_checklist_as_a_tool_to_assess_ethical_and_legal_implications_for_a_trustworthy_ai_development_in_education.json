@@ -1,0 +1,26 @@
+{
+    "dados_extraidos": {
+        "titulo": "The ALTAI checklist as a tool to assess ethical and legal implications for a trustworthy AI development in education",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Italy",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Educação",
+        "nome_framework_modelo": "ALTAI",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O checklist ALTAI serve como uma ferramenta de autoavaliação durante a fase de design de sistemas de IA, destacando fraquezas frequentemente negligenciadas.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de evidências sobre como a IA está afetando a educação e seu impacto em estudantes, professores e na sociedade mais ampla.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/The ALTAI checklist as a tool to assess ethical and legal implications for a trustworthy AI development in education.pdf"
+}

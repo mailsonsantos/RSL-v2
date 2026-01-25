@@ -1,0 +1,27 @@
+{
+    "dados_extraidos": {
+        "titulo": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
+        "ano_publicacao": 2019,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Spain",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas",
+            "Metadados"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de um consenso sobre o que constitui a explicabilidade e a necessidade de métricas objetivas para medi-la.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Explainable Artificial Intelligence (XAI) Concepts, taxonomies, opportunities and challenges toward responsible AI.pdf"
+}

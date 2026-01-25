@@ -1,0 +1,26 @@
+{
+    "dados_extraidos": {
+        "titulo": "Trustworthiness Assurance Assessment for High-Risk AI-Based Systems",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Automotivo, Saúde, Finanças, Agricultura, Mobilidade",
+        "nome_framework_modelo": "Trustworthiness Assurance Framework",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a necessidade de conformidade com a legislação da UE, incluindo a aplicação de requisitos de segurança e ética ao longo do ciclo de vida da IA.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de padrões harmonizados para a avaliação de competências comportamentais e a necessidade de uma abordagem de classificação de risco mais robusta.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Trustworthiness Assurance Assessment for High-Risk AI-Based Systems.pdf"
+}

@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "A Blockchain-Assisted Distributed Edge Intelligence for Privacy-Preserving Vehicular Networks",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Coreia do Sul",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Intelligent Transportation Systems",
+        "nome_framework_modelo": "Distributed Edge Intelligence Framework",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Utilização de blockchain para garantir a privacidade e segurança dos dados dos usuários, além de mecanismos de privacidade diferencial para proteger dados durante transações.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Necessidade de um framework robusto que priorize a performance dos VNets e forneça garantias de privacidade e segurança.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A Blockchain-Assisted Distributed Edge Intelligence for Privacy-Preserving Vehicular Networks.pdf"
+}

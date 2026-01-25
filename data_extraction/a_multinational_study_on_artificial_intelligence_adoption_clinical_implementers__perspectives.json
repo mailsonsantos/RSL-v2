@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "A multinational study on artificial intelligence adoption: Clinical implementers’ perspectives",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Norway",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Necessidade de melhor suporte para conformidade regulatória e aprovação ética dos projetos de IA.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de clareza nas regulamentações e procedimentos de acesso a dados, além da necessidade de validação clínica adequada.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A multinational study on artificial intelligence adoption Clinical implementers_ perspectives.pdf"
+}

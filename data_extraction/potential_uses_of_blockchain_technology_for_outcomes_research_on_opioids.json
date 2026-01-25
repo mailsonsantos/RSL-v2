@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Potential Uses of Blockchain Technology for Outcomes Research on Opioids",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United States",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Blockchain pode atuar como um facilitador na gestão de dados de saúde, oferecendo uma solução mais eficiente, segura e que preserva a privacidade para a troca de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A literatura publicada foi limitada, levando a uma dependência da literatura cinza, que também era limitada em sua discussão sobre os aspectos técnicos da implementação.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Potential Uses of Blockchain Technology for Outcomes Research on Opioids.pdf"
+}

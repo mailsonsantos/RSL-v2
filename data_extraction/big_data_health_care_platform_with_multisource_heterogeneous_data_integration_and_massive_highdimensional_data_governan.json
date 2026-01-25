@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Big Data Health Care Platform With Multisource Heterogeneous Data Integration and Massive High-Dimensional Data Governance for Large Hospitals: Design, Development, and Application",
+        "ano_publicacao": 2022,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "China",
+        "metodo_pesquisa": "Design Science Research",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "WCH-BDP",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O WCH-BDP utiliza um sistema de controle de segurança de dados 5S, que inclui segurança de dados, segurança de aplicativos, segurança de uso, segurança de gerenciamento e segurança de propriedade.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A utilização de dados de saúde na China ainda está em estágio inicial, necessitando de melhorias na governança de dados de saúde.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Big Data Health Care Platform With Multisource Heterogeneous Data Integration and Massive High-Dimensional Data Governan.pdf"
+}

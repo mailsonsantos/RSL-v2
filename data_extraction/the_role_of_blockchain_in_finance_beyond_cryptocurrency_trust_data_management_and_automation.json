@@ -1,0 +1,27 @@
+{
+    "dados_extraidos": {
+        "titulo": "The Role of Blockchain in Finance Beyond Cryptocurrency: Trust, Data Management, and Automation",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "China",
+        "metodo_pesquisa": "Survey",
+        "publico_alvo_setor": "Finance",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Blockchain can be integrated as an external service that facilitates AML compliance by adapting the inherent transparent and immutable ledger of transactions while maintaining consumer due diligence.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "The significant challenges of financial regulation and global collaboration due to complexity.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/The Role of Blockchain in Finance Beyond Cryptocurrency Trust, Data Management, and Automation.pdf"
+}

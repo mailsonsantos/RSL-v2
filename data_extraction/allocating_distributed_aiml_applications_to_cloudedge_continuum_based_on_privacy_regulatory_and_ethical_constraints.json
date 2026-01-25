@@ -1,0 +1,26 @@
+{
+    "dados_extraidos": {
+        "titulo": "Allocating distributed AI/ML applications to cloud-edge continuum based on privacy, regulatory, and ethical constraints",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Finland",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Arquitetura de Orquestração Ética",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O sistema fornece informações detalhadas sobre os riscos associados a modelos e fontes de dados, além de monitorar e avaliar continuamente a conformidade com as regulamentações.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de uma abordagem sistemática para a orquestração ética de aplicações de IA/ML que atenda às preocupações regulatórias e éticas.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Allocating distributed AIML applications to cloud–edge continuum based on privacy, regulatory, and ethical constraints.pdf"
+}

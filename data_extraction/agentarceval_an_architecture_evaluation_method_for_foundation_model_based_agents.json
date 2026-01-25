@@ -1,0 +1,27 @@
+{
+    "dados_extraidos": {
+        "titulo": "AGENTARCEVAL: AN ARCHITECTURE EVALUATION METHOD FOR FOUNDATION MODEL BASED AGENTS",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Australia",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Agentes de IA",
+        "nome_framework_modelo": "AgentArcEval",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O método incorpora mecanismos para avaliação contínua da arquitetura e evolução adaptativa, garantindo a conformidade com as necessidades de governança.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de métodos de avaliação de arquitetura adaptados para sistemas de agentes, especialmente em relação à autonomia e evolução contínua.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/AgentArcEval An architecture evaluation method for foundation model based agents.pdf"
+}

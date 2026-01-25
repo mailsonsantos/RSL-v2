@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Industry 4.0 for smart transport systems: Foundations and applications",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United Kingdom",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Transporte",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A ausência de uma visão de fundamentos e aplicações que vincule as capacidades da Smart Grid aos ITS sob a perspectiva da Indústria 4.0.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Industry 4.0 for smart transport systems Foundations and applications.pdf"
+}

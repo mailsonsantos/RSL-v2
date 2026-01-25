@@ -1,0 +1,26 @@
+{
+    "dados_extraidos": {
+        "titulo": "HUMAN CAPITAL DEVELOPMENT IN THE TRANSITION FROM INDUSTRY 4.0 TO INDUSTRY 5.0: ETHICAL, EDUCATIONAL, REGULATORY PERSPECTIVES",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Ukraine",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Indústria",
+        "nome_framework_modelo": "Conceitual de confiança em IA",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Mecanismos de auditoria de decisões automatizadas, abordando viés e garantindo que padrões éticos sejam aplicados consistentemente.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Desafios na integração de tecnologias, incluindo governança de dados, explicabilidade de processos, confiança em sistemas de IA e responsabilidade por decisões automatizadas.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/HUMAN CAPITAL DEVELOPMENT IN THE TRANSITION FROM INDUSTRY 4.0 TO_INDUSTRY 5.0 ETHICAL, EDUCATIONAL, REGULATORY PERSPECTI.pdf"
+}

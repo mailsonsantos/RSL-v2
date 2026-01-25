@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "An Ecosystem Approach to Ethical AI and Data Use: Experimental Reflections",
+        "ano_publicacao": 2020,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Singapore",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Desenvolvedores de IA",
+        "nome_framework_modelo": "Modelo de Governança de Inteligência Artificial",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de envolvimento dos praticantes de IA na formulação de abordagens éticas significativas.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/An Ecosystem Approach to Ethical AI and Data Use Experimental Reflections.pdf"
+}

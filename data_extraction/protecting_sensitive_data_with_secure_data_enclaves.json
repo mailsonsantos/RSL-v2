@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Protecting Sensitive Data with Secure Data Enclaves",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "USA",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Setor Público",
+        "nome_framework_modelo": "Secure Data Enclave",
+        "componentes_governanca": [
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O modelo de uso de dados permite que o proprietário dos dados mantenha a custódia dos dados e controle total sobre o acesso e uso, garantindo auditoria e transparência.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Desafios na aplicação de métodos de IA e aprendizado de máquina em dados sensíveis devido a riscos de compartilhamento de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Protecting Sensitive Data with Secure Data Enclaves.pdf"
+}

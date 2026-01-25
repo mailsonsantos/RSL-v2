@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "AI governance in the public sector: Three tales from the frontiers of automated decision-making in democratic settings",
+        "ano_publicacao": 2020,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "USA",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Setor Público",
+        "nome_framework_modelo": "AuroraAI",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Diretiva sobre Decisões Automatizadas no Canadá, que inclui Avaliações de Impacto Algorítmico e padrões de transparência.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de um quadro comum para avaliar o impacto do uso de IA no setor público e a necessidade de garantir que os direitos dos cidadãos sejam respeitados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/AI governance in the public sector Three tales from the frontiers of automated decision-making in democratic settings.pdf"
+}

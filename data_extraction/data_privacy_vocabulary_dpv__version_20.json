@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Data Privacy Vocabulary (DPV) — Version 2.0",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Irlanda",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Tecnologia da Informação",
+        "nome_framework_modelo": "Data Privacy Vocabulary (DPV)",
+        "componentes_governanca": [
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O DPV fornece uma estrutura de vocabulário interoperável para descrever o processamento de dados pessoais, apoiando a conformidade com legislações como o GDPR e o AI Act.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de vocabulários e ontologias para descrever e trocar informações sobre atividades envolvendo dados pessoais.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Data Privacy Vocabulary (DPV) - Version 2.0.pdf"
+}

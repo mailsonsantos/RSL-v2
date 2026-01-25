@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Benchmarking OpenAI’s APIs and other Large Language Models for Repeatable and Efficient Question Answering Across Multiple Documents",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Macedonia",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Educação",
+        "nome_framework_modelo": "LangChain, RAG",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Avaliação da conformidade com a GDPR através de perguntas específicas sobre políticas de privacidade.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Necessidade de soluções escaláveis para análise de documentos que garantam a conformidade com a GDPR.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Benchmarking OpenAI’s APIs and other Large Language Models for Repeatable and Efficient Question Answering Across Multip.pdf"
+}

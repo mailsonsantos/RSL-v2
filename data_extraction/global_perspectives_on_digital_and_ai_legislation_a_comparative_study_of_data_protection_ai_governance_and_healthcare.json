@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Global Perspectives on Digital and AI Legislation: A Comparative Study of Data Protection, AI Governance, and Healthcare Innovations with a Focus on Romania",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Romania",
+        "metodo_pesquisa": "Mixed-methods",
+        "publico_alvo_setor": "Healthcare",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Compliance with GDPR and AI Act, focusing on public-private collaboration and regulatory adaptation.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Gap in research examining the interplay between data protection and AI governance in diverse regional contexts.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Global Perspectives on Digital and AI Legislation A Comparative Study_of Data Protection, AI Governance, and Healthcare.pdf"
+}

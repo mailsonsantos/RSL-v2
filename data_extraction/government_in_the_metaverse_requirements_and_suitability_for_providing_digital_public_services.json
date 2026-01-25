@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Government in the metaverse: Requirements and suitability for providing digital public services",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Czech Republic",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Setor público",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de uma classificação adequada de requisitos relacionados ao metaverso e sua aplicabilidade na entrega de serviços públicos digitais.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Government in the metaverse Requirements and suitability for providing digital public services.pdf"
+}

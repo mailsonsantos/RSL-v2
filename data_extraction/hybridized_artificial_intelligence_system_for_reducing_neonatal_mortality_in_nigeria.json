@@ -1,0 +1,20 @@
+{
+    "dados_extraidos": {
+        "titulo": "Hybridized artificial intelligence system for reducing neonatal mortality in Nigeria",
+        "ano_publicacao": 2026,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Nigeria",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "LSTM-ANN",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Aprovação ética obtida de cinco comitês de ética independentes para a coleta de dados clínicos.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade"
+        ],
+        "lacunas_identificadas": "Ausência de sistemas de classificação AI integrados treinados em dados clínicos locais no contexto de saúde nigeriano.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Hybridized artificial intelligence system for reducing neonatal mortality in Nigeria.pdf"
+}

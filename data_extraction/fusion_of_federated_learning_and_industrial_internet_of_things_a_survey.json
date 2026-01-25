@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Fusion of Federated Learning and Industrial Internet of Things: A Survey",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "India",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Indústria",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a preservação da privacidade dos dados e a segurança através da aprendizagem federada, evitando a transferência de dados sensíveis para servidores centrais.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de uma pesquisa abrangente que forneça uma visão geral da aprendizagem federada e da Internet Industrial das Coisas (IIoT) e suas aplicações.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Fusion of Federated Learning and Industrial Internet of Things A survey.pdf"
+}

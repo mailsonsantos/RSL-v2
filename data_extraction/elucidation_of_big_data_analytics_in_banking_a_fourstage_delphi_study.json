@@ -1,0 +1,17 @@
+{
+    "dados_extraidos": {
+        "titulo": "Elucidation of Big Data Analytics in Banking: a Four-stage Delphi Study",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Não mencionado",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Bancos",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [],
+        "lacunas_identificadas": "Menos tentativas sistemáticas foram feitas para descobrir as principais aplicações e questões do big data na indústria bancária.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Elucidation of big data analytics in banking a four-stage Delphi study.pdf"
+}

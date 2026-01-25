@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Digital Business Ecosystems: Organizational Model, Roles, and Governance Towards Flexibility",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "França",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Setor Bancário",
+        "nome_framework_modelo": "Modelo Organizacional de DBE",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O modelo propõe a comunicação de regras como GDPR e a supervisão da conformidade com essas regras dentro da rede.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A pesquisa identifica a falta de um modelo organizacional que una fornecedores e clientes por meio de vínculos de criação e captura de valor.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Digital Business Ecosystems Organizational Model, Roles, and Governance Towards Flexibility.pdf"
+}

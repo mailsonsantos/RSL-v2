@@ -1,0 +1,17 @@
+{
+    "dados_extraidos": {
+        "titulo": "Explainable Deep Reinforcement Learning: State of the Art and Challenges",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Greece",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Inteligência Artificial",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [],
+        "lacunas_identificadas": "Falta de compreensão sobre as qualidades de boas explicações para agentes de RL.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Explainable Deep Reinforcement Learning State of the Art and Challenges.pdf"
+}

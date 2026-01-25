@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "Innovative use of data sources: a cross-sectional study of data linkage and artificial intelligence practices across European countries",
+        "ano_publicacao": 2020,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "França",
+        "metodo_pesquisa": "Survey",
+        "publico_alvo_setor": "Saúde Pública",
+        "nome_framework_modelo": "Euro-REACH Framework",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Leis complexas e regulamentos de proteção de dados que bloqueiam a vinculação entre diferentes fontes de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de recursos humanos e capacidades/competências dentro dos institutos de saúde pública.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Innovative use of data sources a cross-sectional study of data linkage_and artificial intelligence practices across Euro.pdf"
+}

@@ -1,0 +1,27 @@
+{
+    "dados_extraidos": {
+        "titulo": "Exploring the Assessment List for Trustworthy AI in the Context of Advanced Driver-Assistance Systems",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Sweden",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Automotivo",
+        "nome_framework_modelo": "Assessment List for Trustworthy AI (ALTAI)",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "A conformidade com ALTAI é garantida através de práticas de engenharia de segurança e certificações de segurança automotiva, como ISO 26262 e ISO 21448.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A necessidade de adaptações específicas do domínio e a falta de diretrizes claras para a interação entre sistemas de IA e usuários humanos.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Exploring the Assessment List for Trustworthy AI in the Context of Advanced Driver-Assistance Systems.pdf"
+}

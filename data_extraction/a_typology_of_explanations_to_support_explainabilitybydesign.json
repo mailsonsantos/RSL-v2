@@ -1,0 +1,27 @@
+{
+    "dados_extraidos": {
+        "titulo": "A Typology of Explanations for Explainability-by-Design",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Belgium",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Finance and Education",
+        "nome_framework_modelo": "Explainability-by-Design Typology",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O artigo discute a necessidade de um engenheiro legal que atua na interface entre as equipes de conformidade e engenharia para garantir que os requisitos de explicação sejam atendidos.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de um consenso sobre as métricas para avaliar métodos de explicação e a necessidade de uma abordagem sistemática para a geração de explicações para conformidade com o GDPR.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A typology of explanations to support Explainability-by-Design.pdf"
+}

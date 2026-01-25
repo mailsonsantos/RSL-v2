@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Operationalizing health data governance for AI innovation in low-resource government health systems: a practical implementation perspective from Zanzibar",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Tanzania",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade"
+        ],
+        "lacunas_identificadas": "A falta de compreensão sobre a gestão de dados e a necessidade de consentimento informado em contextos de baixa renda.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Operationalizing health data governance for AI innovation in_low-resource government health systems a practical implemen.pdf"
+}

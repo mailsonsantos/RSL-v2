@@ -1,6 +1,6 @@
 # 🚀 RSL-AI Governance Accelerator
 
-O **RSL-AI Governance Accelerator** é um sistema avançado desenvolvido para acelerar e automatizar a etapa de **Avaliação de Qualidade (Quality Assessment - QA)** em Revisões Sistemáticas de Literatura (RSL). 
+O **RSL-AI Governance Accelerator** é um sistema avançado desenvolvido para acelerar e automatizar as etapas de **Avaliação de Qualidade (Quality Assessment - QA)** e **Resumo Automático (Automatic Summarization)** em Revisões Sistemáticas de Literatura (RSL). 
 
 Este acelerador foi projetado para transformar o processo manual de análise de artigos acadêmicos em uma operação automatizada, auditável e escalável, utilizando o poder da Inteligência Artificial Generativa através do framework **Langflow**.
 
@@ -10,39 +10,39 @@ Este acelerador foi projetado para transformar o processo manual de análise de 
 
 O sistema opera em uma **Arquitetura Cliente-Servidor** otimizada para eficiência e baixo consumo de recursos no cliente:
 
-*   **Servidor (Langflow)**: Camada de processamento pesado. Utiliza o componente **Docling** para extração de texto de PDFs e o modelo **GPT-4o-mini** da OpenAI para análise semântica.
-*   **Cliente (Python Local)**: Camada de orquestração. Gerencia o envio dos arquivos, controle de lotes (batch processing), persistência local e interface de monitoramento.
+*   **Servidor (Langflow)**: Camada de processamento pesado. Utiliza o componente **Docling** para extração de texto de PDFs e modelos como **GPT-4o-mini** ou outros configurados no Langflow para análise semântica e resumo.
+*   **Cliente (Python Local)**: Camada de orquestração. Gerencia o envio dos arquivos, controle de lotes (batch processing), persistência local e interface de monitoramento via Streamlit.
 
 ---
 
 ## 🛠️ Artefatos Principais (Core)
 
-Estes são os componentes essenciais para a execução do fluxo de análise:
+O sistema é dividido em dois fluxos principais:
 
-### 🎮 Interface e Orquestração
-*   **[dashboard.py](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/dashboard.py)**: Interface visual em Streamlit. Oferece monitoramento em tempo real, métricas de progresso, logs ao vivo e inspeção dos JSONs gerados.
-*   **[rsl_paper_analyzer.py](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/rsl_paper_analyzer.py)**: Versão CLI (Command Line Interface) do motor de processamento. Ideal para execuções em segundo plano ou automações simples via terminal.
+### 1. Fluxo de Análise (QA)
+*   **[dashboard.py](file:///Users/mailsonsantos/Documents/git/RSL-v2/dashboard.py)**: Interface visual em Streamlit para monitoramento da análise de QA.
+*   **[rsl_paper_analyzer.py](file:///Users/mailsonsantos/Documents/git/RSL-v2/rsl_paper_analyzer.py)**: CLI para execução da análise de QA em segundo plano.
 
-### 📂 Estrutura de Dados
-*   **`arquivos_baixados/`**: Diretório de entrada (Input) onde devem ser depositados os artigos em formato PDF.
-*   **`arquivos_processados/`**: Diretório de saída (Output) onde o sistema salva os resultados individuais em formato JSON.
-*   **[.env](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/.env)**: Arquivo de configuração para chaves de API e URLs de endpoint.
-*   **[requirements.txt](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/requirements.txt)**: Lista de dependências Python necessárias para rodar o cliente.
+### 2. Fluxo de Resumo (Resumer) [NOVO]
+*   **[dashboard_resumer.py](file:///Users/mailsonsantos/Documents/git/RSL-v2/dashboard_resumer.py)**: Interface visual dedicada ao monitoramento do processo de resumo dos artigos.
+*   **[rsl_paper_resumer.py](file:///Users/mailsonsantos/Documents/git/RSL-v2/rsl_paper_resumer.py)**: CLI para geração de resumos em lote via terminal.
+
+### 📂 Estrutura de Pastas e Dados
+*   **`artigos_baixados/`**: Diretório de entrada onde devem ser depositados os artigos PDF.
+*   **`arquivos_processados/`**: Resultados da análise de QA (JSON).
+*   **`resumos/`**: Resultados do processo de resumo automático (JSON).
+*   **[.env](file:///Users/mailsonsantos/Documents/git/RSL-v2/.env)**: Chaves de API e URLs de endpoint.
+*   **[requirements.txt](file:///Users/mailsonsantos/Documents/git/RSL-v2/requirements.txt)**: Dependências Python do cliente.
 
 ---
 
-## ⚖️ Regras de Negócio e Critérios de Qualidade (QA)
+## ⚖️ Critérios de Análise e Resumo
 
-A análise realizada pelo LLM segue **5 critérios fundamentais** definidos para o domínio de Governança de Dados para IA. Cada artigo é avaliado individualmente, gerando respostas estruturadas:
+### Avaliação de Qualidade (QA)
+A análise segue critérios fundamentais de Governança de Dados para IA, classificando cada artigo como **SIM**, **PARCIALMENTE** ou **NÃO** em dimensões como Framework de Governança, Ética, Rigor Metodológico e Validação.
 
-1.  **Framework de Governança**: Define claramente um framework ou modelo de governança de dados?
-2.  **Ética e Regulação**: Aborda desafios éticos ou regulatórios da IA?
-3.  **Rigor Metodológico**: A metodologia de pesquisa é adequada e reproduzível?
-4.  **Validação de Resultados**: Houve validação por especialistas ou aplicação experimental?
-5.  **Lacunas e Limitações**: Identifica limitações específicas na gestão de dados para IA?
-
-> [!NOTE]
-> Cada critério recebe uma classificação: **SIM**, **PARCIALMENTE** ou **NÃO**, acompanhada de uma justificativa concisa de até 5 linhas.
+### Resumo Automático
+O fluxo de resumo processa o texto completo extraído pelo Docling para gerar resumos executivos focados nos pontos chave da pesquisa, facilitando a triagem e leitura rápida.
 
 ---
 
@@ -57,37 +57,37 @@ A análise realizada pelo LLM segue **5 critérios fundamentais** definidos para
 
 2.  **Variáveis de Ambiente:** Configure seu `.env` com a `LANGFLOW_API_KEY`.
 
-3.  **Dependência de Servidor:** O Langflow deve estar ativo e com o fluxo devidamente configurado (utilizando o componente `Docling` para leitura de arquivos).
+3.  **Dependência de Servidor:** O Langflow deve estar ativo com os fluxos configurados nos endpoints especificados nos scripts.
 
 ---
 
 ## 🚀 Como Executar
 
-O fluxo recomendado é através do Dashboard Visual:
-
+### Para Análise de QA:
 ```bash
 streamlit run dashboard.py
+# OU via CLI
+python rsl_paper_analyzer.py
 ```
 
-No painel, você poderá ajustar o **Batch Size** (quantidade de arquivos processados simultaneamente) para otimizar o uso da CPU do servidor.
+### Para Resumo de Artigos:
+```bash
+streamlit run dashboard_resumer.py
+# OU via CLI
+python rsl_paper_resumer.py
+```
 
 ---
 
-## 🛠️ Ferramentas de Apoio e Transformação
-
-Estes arquivos **não fazem parte do fluxo principal de execução**, mas foram criados para apoiar a preparação dos dados, limpeza do ambiente e validações pontuais.
+## 🛠️ Ferramentas de Apoio
 
 | Arquivo | Função |
 | :--- | :--- |
-| **[match_articles.py](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/match_articles.py)** | Cruza a lista oficial de artigos (`.xls`) com os arquivos físicos na pasta `artigos_baixados`, identificando faltas e sobras. |
-| **[cleanup_artigos.py](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/cleanup_artigos.py)** | Utilitário para limpar a pasta de PDFs, mantendo apenas os arquivos validados em listas de controle. |
-| **[teste.py](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/teste.py)** | Script de teste rápido para validar conexões e pequenos trechos de lógica. |
-| **[erros.log](file:///home/mailson/Documentos/Doutorado/RSL_FINDER/erros.log)** | Arquivo gerado automaticamente para rastrear falhas de comunicação ou processamento durante a execução. |
-
-### Ativos de Dados (Suporte)
-*   **`articles.xls`**: Lista original de artigos exportada das bases de dados.
-*   **`articles_preenchido_comQA.xlsx`**: Resultado consolidado (XLS) após o cruzamento de dados.
-*   **`artigos_nao_listados.txt`**: Relatório de arquivos PDF encontrados que não constam na lista oficial.
+| **[cleanup_approved.py](file:///Users/mailsonsantos/Documents/git/RSL-v2/cleanup_approved.py)** | Filtra a pasta de entrada mantendo apenas artigos aprovados. |
+| **[match_articles.py](file:///Users/mailsonsantos/Documents/git/RSL-v2/match_articles.py)** | Cruza lista oficial com arquivos físicos. |
+| **[cleanup_artigos.py](file:///Users/mailsonsantos/Documents/git/RSL-v2/cleanup_artigos.py)** | Utilitário de limpeza de pastas de PDFs. |
+| **[erros.log](file:///Users/mailsonsantos/Documents/git/RSL-v2/erros.log)** | Logs do motor de análise. |
+| **[erros_resumo.log](file:///Users/mailsonsantos/Documents/git/RSL-v2/erros_resumo.log)** | Logs do motor de resumo. |
 
 ---
 *Este projeto integra a pesquisa de doutorado focada em Governança de Dados aplicada à Inteligência Artificial.*

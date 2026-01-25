@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Transforming B2B platforms through interconnected digital twins: Enhancing situation awareness for decision-making",
+        "ano_publicacao": 2026,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Manufacturing",
+        "nome_framework_modelo": "Endsley’s Situation Awareness Theory",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Adoção de padrões de IDT para garantir a conformidade regulatória e a transparência de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de integração de dados em tempo real e a necessidade de estruturas de governança para facilitar a colaboração interorganizacional.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Transforming B2B platforms through interconnected digital twins Enhancing situation awareness for decision-making.pdf"
+}

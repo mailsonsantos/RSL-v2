@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "Implementing ISO/IEC TS 27560:2023 Consent Records and Receipts for GDPR and DGA",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Ireland",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Privacidade e Proteção de Dados",
+        "nome_framework_modelo": "ISO/IEC TS 27560:2023",
+        "componentes_governanca": [
+            "Políticas",
+            "Metadados"
+        ],
+        "mecanismos_conformidade": "O artigo discute a implementação de registros de consentimento e recibos que atendem aos requisitos do GDPR e do DGA, utilizando a estrutura proposta pelo ISO/IEC TS 27560:2023.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A necessidade de um padrão comum para formulários de consentimento que sejam legíveis por máquinas e humanos, e a falta de requisitos legais claros para recibos de consentimento.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Implementing ISOIEC TS 275602023 Consent Records and Receipts for GDPR_and DGA.pdf"
+}

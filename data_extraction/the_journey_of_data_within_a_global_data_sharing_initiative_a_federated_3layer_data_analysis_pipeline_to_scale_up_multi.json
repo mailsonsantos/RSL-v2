@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "The Journey of Data Within a Global Data Sharing Initiative: A Federated 3-Layer Data Analysis Pipeline to Scale Up Multiple Sclerosis Research",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Belgium",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "GDSI Data Analysis Pipeline",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Aprovação ética do comitê de ética da Hasselt University (aprovação CME2020/025).",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A ausência de um framework holístico para a gestão de dados reais, que aborde todos os aspectos do processo de gestão de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/The Journey of Data Within a Global Data Sharing Initiative A Federated 3-Layer Data Analysis Pipeline to Scale Up Multi.pdf"
+}

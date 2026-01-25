@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "Assessing the institutional readiness and capacity for AI adoption in public audit institutions in developing countries: evidence from Ghana",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Ghana",
+        "metodo_pesquisa": "Survey",
+        "publico_alvo_setor": "Public sector auditing",
+        "nome_framework_modelo": "Technology-Organization-Environment (TOE) framework",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O estudo destaca a importância de incentivos regulatórios externos e a capacidade institucional interna para a adoção de IA.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Desafios sistêmicos, inércia organizacional, falta de expertise técnica, governança de dados fraca e incerteza regulatória.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Assessing the institutional readiness and capacity for AI adoption in public audit institutions in developing countries.pdf"
+}

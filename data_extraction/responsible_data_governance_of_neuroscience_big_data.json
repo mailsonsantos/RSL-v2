@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "Responsible Data Governance of Neuroscience Big Data",
+        "ano_publicacao": 2019,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United Kingdom",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Neuroscience",
+        "nome_framework_modelo": "Responsible Data Governance",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O projeto HBP implementa um processo de verificação ética que envolve diálogos contínuos entre a equipe de ética, pesquisadores e especialistas em dados para garantir a conformidade com as regulamentações éticas e legais.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de um modelo unificado de governança de dados que integre aspectos éticos e a necessidade de um diálogo inclusivo e contínuo sobre as questões éticas que surgem ao longo do ciclo de vida dos dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Responsible Data Governance of Neuroscience Big Data.pdf"
+}

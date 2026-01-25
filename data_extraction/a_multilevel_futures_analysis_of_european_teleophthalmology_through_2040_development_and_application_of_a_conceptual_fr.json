@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "A multi‑level futures analysis of European teleophthalmology through 2040: development and application of a conceptual framework for healthcare transformation",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Turkey",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Multi-Level Framework",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Desafios na implementação de teleoftalmologia, incluindo questões de equidade em saúde, governança de dados e adaptação profissional.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A multi-level futures analysis of European teleophthalmology through_2040 development and application of a conceptual fr.pdf"
+}

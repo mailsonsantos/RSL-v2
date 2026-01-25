@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "How Should We Support Designing Privacy-Friendly Apps for Children? Using a Research through Design Process to Understand Developers’ Needs and Challenges",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Não mencionado",
+        "metodo_pesquisa": "Research through Design",
+        "publico_alvo_setor": "Desenvolvedores de aplicativos para crianças",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Os mecanismos de conformidade ética ou regulatória incluem a necessidade de diretrizes práticas e acessíveis, suporte de organizações confiáveis e a normalização de características de design amigáveis à privacidade.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Os desenvolvedores enfrentam barreiras sistêmicas e práticas que dificultam a adoção de práticas de desenvolvimento amigáveis à privacidade, incluindo a falta de ferramentas práticas e a pressão de modelos de monetização existentes.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/How Can We Design Privacy-Friendly Apps for Children Using a Research through Design Process to Understand Developers_ N.pdf"
+}

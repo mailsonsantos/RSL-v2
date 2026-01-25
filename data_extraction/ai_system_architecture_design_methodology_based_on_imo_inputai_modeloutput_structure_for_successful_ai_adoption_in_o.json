@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "AI system architecture design methodology based on IMO (Input-AI Model-Output) structure for successful AI adoption in organizations",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Republic of Korea",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Organizações",
+        "nome_framework_modelo": "IMO (Input-AI Model-Output)",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de pesquisa sobre metodologias para concretizar requisitos técnicos para adoção de IA.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/AI system architecture design methodology based on IMO (Input-AI Model-Output) structure for successful AI adoption in o.pdf"
+}

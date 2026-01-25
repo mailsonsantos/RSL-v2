@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Health Data Sharing towards Knowledge Creation",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Portugal",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Information Sharing Infrastructure (ISI)",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O framework incorpora Acordos de Compartilhamento de Dados (DSAs) que estabelecem regulamentos para o compartilhamento e gerenciamento de dados, incluindo preferências de privacidade e requisitos contratuais.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Desafios relacionados à proteção de dados e privacidade no compartilhamento de dados de saúde.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Health Data Sharing towards Knowledge Creation.pdf"
+}

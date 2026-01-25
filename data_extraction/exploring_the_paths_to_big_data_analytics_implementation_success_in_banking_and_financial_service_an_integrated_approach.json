@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "Exploring the paths to big data analytics implementation success in banking and financial service: an integrated approach",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Não mencionado",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Bancário e Serviços Financeiros",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de compreensão sobre os fatores que facilitam a implementação de BDA e suas inter-relações.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Exploring the paths to big data analytics implementation success in banking and financial service an integrated approach.pdf"
+}

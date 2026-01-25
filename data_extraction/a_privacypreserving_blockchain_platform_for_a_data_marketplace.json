@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "A privacy-preserving blockchain platform for a data marketplace",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "UK",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Data Marketplace",
+        "nome_framework_modelo": "Blockchain Framework for Data Marketplace",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O framework garante que os dados ainda pertencem ao usuário que os gerou, permitindo que os usuários optem por sair do marketplace e revoguem todas as sequências de acesso.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A necessidade de um sistema de marketplace descentralizado que permita a troca de dados de forma privada e segura, garantindo a propriedade dos dados pelos usuários.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A Privacy-Preserving Blockchain Platform for a Data Marketplace.pdf"
+}

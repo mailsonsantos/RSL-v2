@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Open Data Ecosystems – an empirical investigation into an emerging industry collaboration concept",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Sweden",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de pesquisa sobre os aspectos técnicos do compartilhamento de dados entre corporações como meio de fomentar inovação aberta.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Open Data Ecosystems — An empirical investigation into an emerging industry collaboration concept.pdf"
+}

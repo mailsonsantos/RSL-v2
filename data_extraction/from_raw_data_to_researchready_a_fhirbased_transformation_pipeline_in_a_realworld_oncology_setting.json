@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "From raw data to research-ready: A FHIR-based transformation pipeline in a real-world oncology setting",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Italy",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Oncologia",
+        "nome_framework_modelo": "Cancer Virtual Lab",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O projeto CVL foi aprovado pelo Conselho Científico do IRST em 2024-02-13, incluindo anonimização de dados e limpeza de inconsistências.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A necessidade de validação mais ampla e benchmarking de desempenho, além de limitações na aplicação atual a um único conjunto de dados de pacientes falecidos.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/From raw data to research-ready A FHIR-based transformation pipeline in a real-world oncology setting.pdf"
+}

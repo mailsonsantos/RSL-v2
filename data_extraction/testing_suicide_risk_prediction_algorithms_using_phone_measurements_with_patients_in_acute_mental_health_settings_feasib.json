@@ -1,0 +1,19 @@
+{
+    "dados_extraidos": {
+        "titulo": "Testing Suicide Risk Prediction Algorithms Using Phone Measurements With Patients in Acute Mental Health Settings: Feasibility Study",
+        "ano_publicacao": 2020,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United Kingdom",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde Mental",
+        "nome_framework_modelo": "Strength Within Me",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Os procedimentos foram aprovados pela Health Research Authority na Inglaterra e pelo North West–Liverpool East Research Ethics Committee.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade"
+        ],
+        "lacunas_identificadas": "A necessidade de métodos não clínicos para avaliar o risco de suicídio e a falta de dados longitudinais para validação.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Testing Suicide Risk Prediction Algorithms Using Phone Measurements With Patients in Acute Mental Health Settings Feasib.pdf"
+}

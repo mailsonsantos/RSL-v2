@@ -1,0 +1,22 @@
+{
+    "dados_extraidos": {
+        "titulo": "Barriers encountered with clinical data warehouses: Recommendations from a focus group",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "França",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "SEIPS 2.0",
+        "componentes_governanca": [
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Implicar a instituição reguladora desde o início do projeto, explicando quais dados de saúde serão utilizados e para quais objetivos de pesquisa.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de compreensão e aceitação do projeto por profissionais de saúde, dificuldades de acesso a dados e questões de qualidade de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Barriers encountered with clinical data warehouses Recommendations from a focus group.pdf"
+}

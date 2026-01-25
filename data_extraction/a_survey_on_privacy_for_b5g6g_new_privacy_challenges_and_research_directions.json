@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "A Survey on Privacy for B5G/6G: New Privacy Challenges, and Research Directions",
+        "ano_publicacao": 2022,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Ireland",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Telecomunicações",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A falta de discussão aprofundada sobre aspectos de privacidade nas redes B5G/6G e a necessidade de mais pesquisas sobre as implicações éticas e de privacidade das tecnologias emergentes.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A survey on privacy for B5G6G New privacy challenges, and research directions.pdf"
+}

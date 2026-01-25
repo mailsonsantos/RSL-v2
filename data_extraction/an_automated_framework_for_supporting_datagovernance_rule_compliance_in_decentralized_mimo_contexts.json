@@ -1,0 +1,21 @@
+{
+    "dados_extraidos": {
+        "titulo": "An Automated Framework for Supporting Data-Governance Rule Compliance in Decentralized MIMO Contexts",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Não mencionado",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Dr.Aid",
+        "componentes_governanca": [
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O agente simbólico automatiza a verificação de conformidade com as regras de governança de dados, facilitando a aplicação das políticas desejadas.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade"
+        ],
+        "lacunas_identificadas": "A pesquisa anterior foi desenvolvida sob suposições restritas, como ter um único contexto e um único estágio de processamento.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/An Automated Framework for Supporting Data-Governance Rule Compliance in_Decentralized MIMO Contexts.pdf"
+}

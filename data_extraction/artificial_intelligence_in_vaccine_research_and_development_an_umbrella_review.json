@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "Artiﬁcial intelligence in vaccine research and development: an umbrella review",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Saudi Arabia",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde Pública",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Desafios persistentes como heterogeneidade de dados, viés algorítmico, estruturas regulatórias limitadas e preocupações éticas sobre transparência e equidade.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Artificial intelligence in vaccine research and development an umbrella_review.pdf"
+}

@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Evaluating the Risk of Disclosure and Utility in a Synthetic Dataset",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Taiwan",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "FinTech",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a necessidade de conformidade com regulamentos como CCPA e GDPR, mas não detalha mecanismos específicos.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A falta de recomendações claras sobre técnicas de anonimização que preservem a privacidade enquanto oferecem abertura.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Evaluating the Risk of Disclosure and Utility in a Synthetic Dataset.pdf"
+}

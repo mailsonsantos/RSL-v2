@@ -1,0 +1,27 @@
+{
+    "dados_extraidos": {
+        "titulo": "Explainable artificial intelligence (XAI) in finance: a systematic literature review",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Lithuania",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Finance",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas",
+            "Metadados"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de novas técnicas de XAI, ausência de métricas de avaliação de explicabilidade, e segurança das informações fornecidas aos modelos de XAI.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Explainable artificial intelligence in electrocardiography A systematic review.pdf"
+}

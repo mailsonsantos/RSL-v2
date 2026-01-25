@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "Software Systems Compliance with the AI Act: Lessons Learned from an International Challenge",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Workshop",
+        "pais_origem": "Italy",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Engenharia de Software e Comunidade de IA",
+        "nome_framework_modelo": "Cap-AI",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a necessidade de conformidade com a AI Act, incluindo a implementação de um sistema de gestão de qualidade e auditorias contínuas.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Desafios na implementação de requisitos legais para sistemas socio-técnicos complexos e a necessidade de uma abordagem mais clara para sistemas de IA de uso geral.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Software Systems Compliance with the AI Act  Lessons Learned from an International Challenge.pdf"
+}

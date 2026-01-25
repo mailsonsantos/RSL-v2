@@ -1,0 +1,25 @@
+{
+    "dados_extraidos": {
+        "titulo": "Is Trust Correlated with Explainability In AI? A Meta-Analysis",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Canada",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde e Justiça",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A pesquisa destaca a necessidade de uma abordagem multifacetada que inclua considerações éticas, gestão de viés e compreensão sociotécnica.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Is Trust Correlated With Explainability in AI A Meta-Analysis.pdf"
+}

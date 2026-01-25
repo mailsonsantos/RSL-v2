@@ -1,0 +1,22 @@
+{
+    "dados_extraidos": {
+        "titulo": "Implementation of a Business Intelligence System in the Brazilian Nuclear Industry: An Action Research",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Brazil",
+        "metodo_pesquisa": "Action Research",
+        "publico_alvo_setor": "Nuclear Industry",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O BIS desenvolvido utilizou dados disponíveis e coletados no local, gerando relatórios de forma pública para melhor tomada de decisão e priorização de recursos de investigação.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A literatura existente sobre BIS foca predominantemente em contextos organizacionais gerais, e as necessidades e complexidades únicas enfrentadas por indústrias regulamentadas, como o domínio nuclear, receberam atenção limitada.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Implementation of a Business Intelligence System in the Brazilian Nuclear Industry An Action Research.pdf"
+}

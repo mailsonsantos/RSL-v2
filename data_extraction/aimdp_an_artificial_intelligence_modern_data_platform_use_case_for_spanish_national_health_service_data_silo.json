@@ -1,0 +1,24 @@
+{
+    "dados_extraidos": {
+        "titulo": "AIMDP: An Artificial Intelligence Modern Data Platform. Use case for Spanish national health service data silo",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Spain",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Artificial Intelligence Modern Data Platform (AIMDP)",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "A plataforma implementa uma camada de segurança e governança de dados que permite manter a integridade e privacidade das bases de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A incapacidade dos sistemas atuais de aproveitar os dados gerados pode desperdiçar boas oportunidades para analisar e extrair informações dos dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/AIMDP An Artificial Intelligence Modern Data Platform. Use case for Spanish national health service data silo.pdf"
+}

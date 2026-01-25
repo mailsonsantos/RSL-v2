@@ -1,0 +1,23 @@
+{
+    "dados_extraidos": {
+        "titulo": "Decentralized Inverse Transparency With Blockchain",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Trabalho",
+        "nome_framework_modelo": "Kovacs",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O sistema Kovacs garante a conformidade com a GDPR através da geração de pseudônimos e do protocolo de nova utilização, que assegura a não-repudiação e a confidencialidade dos dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A necessidade de garantir a não-repudiação em ambientes descentralizados e a conformidade com a legislação de privacidade, como a GDPR.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Decentralized Inverse Transparency with Blockchain.pdf"
+}

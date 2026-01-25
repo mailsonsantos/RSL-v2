@@ -1,0 +1,20 @@
+{
+    "dados_extraidos": {
+        "titulo": "Machine Learning and Transformers for Thyroid Carcinoma Diagnosis",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Algeria",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de dados rotulados e bem anotados, desafios na coleta e validação de dados relacionados ao câncer de tireoide.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Machine learning and transformers for thyroid carcinoma diagnosis.pdf"
+}
