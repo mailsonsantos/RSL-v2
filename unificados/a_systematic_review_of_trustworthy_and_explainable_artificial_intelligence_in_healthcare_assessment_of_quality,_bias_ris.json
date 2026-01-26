@@ -1,0 +1,28 @@
+{
+    "id": 28,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A systematic review of trustworthy and explainable artificial intelligence in healthcare Assessment of quality, bias ris.pdf",
+    "resumo": "1. **A systematic review of trustworthy and explainable artificial intelligence in healthcare: Assessment of quality, bias risk, and data fusion (2023)**: O artigo apresenta uma revisão sistemática sobre a confiabilidade e explicabilidade da inteligência artificial (IA) na saúde, utilizando uma abordagem de revisão sistemática para analisar 64 estudos recentes. O foco está na avaliação da qualidade, risco de viés e fusão de dados, categorizando as contribuições em sete áreas: robótica explicável, predição, suporte à decisão, blockchain, transparência, saúde digital confiável e revisões. O estudo destaca a importância de estratégias de governança de dados, como a implementação de políticas de transparência e a consideração de aspectos éticos, incluindo privacidade e viés. Identifica lacunas na gestão de dados e sugere que a maturidade da IA deve ser considerada para garantir a eficácia das aplicações de IA na saúde. O artigo conclui que a integração de técnicas de fusão de dados é crucial para melhorar a precisão e a confiabilidade das decisões médicas, enfatizando a necessidade de regulamentações rigorosas para garantir a confiança nas aplicações de IA.",
+    "data_extraction": {
+        "titulo": "A systematic review of trustworthy and explainable artificial intelligence in healthcare: Assessment of quality, bias risk, and data fusion",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Iraque",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas",
+            "Metadados"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de evidências conclusivas sobre a aplicabilidade de AI confiável e explicável na saúde, especialmente em relação à fusão de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": 18,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/How Can We Design Privacy-Friendly Apps for Children Using a Research through Design Process to Understand Developers_ N.pdf",
+    "resumo": "1. **How Should We Support Designing Privacy-Friendly Apps for Children? Using a Research through Design Process to Understand Developers’ Needs and Challenges**: O artigo apresenta um estudo que utiliza o método Research through Design (RtD) para explorar como apoiar desenvolvedores na criação de aplicativos amigáveis à privacidade para crianças, focando no setor de desenvolvimento de aplicativos. O estudo identifica lacunas na compreensão das diretrizes de privacidade e propõe ferramentas como checklists e bibliotecas de desenvolvimento que simplificam a conformidade com regulamentações como a AADC. Mecanismos de conformidade e ética são abordados, destacando a necessidade de feedback construtivo e credível, além de considerar as preocupações éticas sobre a privacidade infantil. As lacunas na gestão de dados incluem a falta de suporte prático e a pressão econômica que os desenvolvedores enfrentam, enquanto o nível de maturidade da IA é considerado baixo, dado o contexto atual de desenvolvimento de aplicativos.",
+    "data_extraction": {
+        "titulo": "How Should We Support Designing Privacy-Friendly Apps for Children? Using a Research through Design Process to Understand Developers’ Needs and Challenges",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Não mencionado",
+        "metodo_pesquisa": "Research through Design",
+        "publico_alvo_setor": "Desenvolvedores de aplicativos para crianças",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Os mecanismos de conformidade ética ou regulatória incluem a necessidade de diretrizes práticas e acessíveis, suporte de organizações confiáveis e a normalização de características de design amigáveis à privacidade.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Os desenvolvedores enfrentam barreiras sistêmicas e práticas que dificultam a adoção de práticas de desenvolvimento amigáveis à privacidade, incluindo a falta de ferramentas práticas e a pressão de modelos de monetização existentes.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

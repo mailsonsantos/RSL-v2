@@ -1,0 +1,28 @@
+{
+    "id": 5,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/HUMAN CAPITAL DEVELOPMENT IN THE TRANSITION FROM INDUSTRY 4.0 TO_INDUSTRY 5.0 ETHICAL, EDUCATIONAL, REGULATORY PERSPECTI.pdf",
+    "resumo": "1. **Human Capital Development in the Transition from Industry 4.0 to Industry 5.0: Ethical, Educational, Regulatory Perspectives**: O artigo analisa a transição da indústria europeia de Industry 4.0 para Industry 5.0, propondo um framework conceitual de confiança em IA, desenvolvido por meio de uma revisão sistemática da literatura. O público-alvo abrange setores industriais que buscam integrar tecnologias como IA, IoT e big data, enfatizando a colaboração humano-máquina. Os componentes de governança incluem estratégias de transparência, responsabilidade e adaptabilidade, com foco em métricas de avaliação de segurança e supervisão humana. O estudo aborda a conformidade regulatória e questões éticas, como privacidade e viés, destacando a necessidade de estruturas de governança robustas. Identifica lacunas na governança de dados e propõe um modelo de confiança em IA, sugerindo que a maturidade da IA deve ser elevada para garantir uma transição eficaz e sustentável para Industry 5.0.",
+    "data_extraction": {
+        "titulo": "HUMAN CAPITAL DEVELOPMENT IN THE TRANSITION FROM INDUSTRY 4.0 TO INDUSTRY 5.0: ETHICAL, EDUCATIONAL, REGULATORY PERSPECTIVES",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Ukraine",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Indústria",
+        "nome_framework_modelo": "Conceitual de confiança em IA",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Mecanismos de auditoria de decisões automatizadas, abordando viés e garantindo que padrões éticos sejam aplicados consistentemente.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Desafios na integração de tecnologias, incluindo governança de dados, explicabilidade de processos, confiança em sistemas de IA e responsabilidade por decisões automatizadas.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

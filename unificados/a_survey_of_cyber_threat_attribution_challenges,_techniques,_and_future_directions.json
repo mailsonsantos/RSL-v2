@@ -1,0 +1,27 @@
+{
+    "id": 108,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A survey of cyber threat attribution Challenges, techniques, and future directions.pdf",
+    "resumo": "1. **A Survey of Cyber Threat Attribution: Challenges, Techniques, and Future Directions**: O artigo apresenta uma revisão abrangente sobre a atribuição de ameaças cibernéticas, utilizando uma metodologia de pesquisa sistemática conforme o PRISMA-ScR, focando em um público-alvo de profissionais de segurança cibernética e formuladores de políticas. O estudo identifica lacunas na literatura existente, propondo uma nova taxonomia que classifica a pesquisa em atribuição com base em confiança e granularidade, domínios analíticos e motivações adversárias. As estratégias de governança de dados discutidas incluem a necessidade de integração de inteligência de ameaças e técnicas de aprendizado de máquina para melhorar a precisão da atribuição. O artigo também aborda questões de conformidade e ética, como privacidade e viés, destacando a importância de mecanismos que garantam a conformidade regulatória. As lacunas identificadas incluem a falta de um entendimento holístico da atribuição e a necessidade de modelos de maturidade em IA que se adaptem às complexidades das ameaças cibernéticas contemporâneas.",
+    "data_extraction": {
+        "titulo": "A survey of cyber threat attribution: Challenges, techniques, and future directions",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Australia",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Segurança Cibernética",
+        "nome_framework_modelo": "Interdisciplinary Attribution Matrix (IAM)",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de um entendimento holístico da atribuição de ameaças cibernéticas e a necessidade de integrar aspectos técnicos, legais e geopolíticos.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

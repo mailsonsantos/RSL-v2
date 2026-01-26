@@ -1,0 +1,24 @@
+{
+    "id": 43,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/AI_s role in revolutionizing personalized medicine by reshaping pharmacogenomics and drug therapy.pdf",
+    "resumo": "1. **AI’s role in revolutionizing personalized medicine by reshaping pharmacogenomics and drug therapy**: O artigo de Taherdoost e Ghofrani (2024) explora a integração da inteligência artificial (IA) na farmacogenômica, propondo um modelo que utiliza algoritmos de aprendizado de máquina e aprendizado profundo para otimizar a terapia medicamentosa personalizada. O público-alvo abrange profissionais de saúde e pesquisadores na área de medicina personalizada. O estudo discute estratégias de governança de dados, como a integração de dados genômicos e registros eletrônicos de saúde (EHR), visando melhorar a tomada de decisões clínicas e a segurança do paciente. Questões éticas, como privacidade e viés algorítmico, são abordadas, destacando a necessidade de modelos explicáveis e conformidade regulatória. O artigo identifica lacunas na implementação de dados farmacogenômicos na prática clínica e sugere que o nível de maturidade da IA se aplica a contextos de alta complexidade, enfatizando a importância de superar desafios relacionados à análise de grandes volumes de dados e à personalização do tratamento.",
+    "data_extraction": {
+        "titulo": "AI’s role in revolutionizing personalized medicine by reshaping pharmacogenomics and drug therapy",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Canada",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Desafios na integração de dados farmacogenômicos na prática clínica, necessidade de modelos mais relevantes e personalização da terapia.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

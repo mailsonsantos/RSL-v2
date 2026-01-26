@@ -1,0 +1,31 @@
+{
+    "id": 76,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Establishing Data Provenance for Responsible Artificial Intelligence Systems.pdf",
+    "resumo": "1. **Data Provenance for Responsible AI**: O artigo de 2021 propõe um framework para a implementação de proveniência de dados em sistemas de inteligência artificial (IA) responsáveis, utilizando uma abordagem de pesquisa de Design Science. O público-alvo abrange setores que utilizam IA, como saúde e justiça. O estudo destaca componentes de governança, como a necessidade de estratégias de rastreabilidade e auditoria de dados, para garantir conformidade com regulamentações como a GDPR. As dimensões éticas abordadas incluem justiça, responsabilidade, transparência e explicabilidade (FATE), com ênfase em mecanismos para mitigar viés e melhorar a qualidade dos dados. O artigo identifica lacunas na gestão de dados, como a falta de rastreabilidade e a opacidade nos processos de pré-processamento, e sugere que o framework se aplica a sistemas de IA em níveis variados de maturidade, enfatizando a importância de práticas de governança de dados para promover a confiança e a responsabilidade em decisões baseadas em IA.",
+    "data_extraction": {
+        "titulo": "Data Provenance for Responsible AI",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Data Provenance Framework for Responsible AI",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Linhagem",
+            "Metadados",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Estabelecimento de governança de dados organizacional, exigência de rastreabilidade de dados e aproveitamento de avanços tecnológicos, como IA explicável.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de rastreabilidade de dados e governança de dados organizacional, o que compromete a qualidade e a responsabilidade dos sistemas de IA.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

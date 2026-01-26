@@ -1,0 +1,27 @@
+{
+    "id": 112,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/AI governance in the public sector Three tales from the frontiers of automated decision-making in democratic settings.pdf",
+    "resumo": "1. **AI governance in the public sector: Three tales from the frontiers of automated decision-making in democratic settings**: O artigo de Kuziemski e Misuraca (2020) analisa a governança de IA no setor público, utilizando um método de pesquisa baseado em estudos de caso. O foco é em três países democráticos: Canadá, Polônia e Finlândia, abordando a aplicação de sistemas de decisão automatizada em contextos como controle de imigração e serviços de emprego. O estudo destaca a necessidade de um framework comum para avaliar o impacto da IA, enfatizando componentes de governança como transparência, responsabilidade algorítmica e conformidade com regulamentos, incluindo a GDPR. As dimensões éticas discutidas incluem privacidade e a necessidade de evitar viés nos sistemas. O artigo identifica lacunas na gestão de dados e sugere que a maturidade da IA varia entre os países, com a Polônia enfrentando desafios significativos em termos de aceitação pública e eficácia dos sistemas automatizados.",
+    "data_extraction": {
+        "titulo": "AI governance in the public sector: Three tales from the frontiers of automated decision-making in democratic settings",
+        "ano_publicacao": 2020,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "USA",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Setor Público",
+        "nome_framework_modelo": "AuroraAI",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Diretiva sobre Decisões Automatizadas no Canadá, que inclui Avaliações de Impacto Algorítmico e padrões de transparência.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de um quadro comum para avaliar o impacto do uso de IA no setor público e a necessidade de garantir que os direitos dos cidadãos sejam respeitados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

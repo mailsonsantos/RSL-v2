@@ -1,0 +1,27 @@
+{
+    "id": 36,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/From data strategy to implementation to advance cancer research and_cancer care A French comprehensive cancer center exp.pdf",
+    "resumo": "1. **From data strategy to implementation to advance cancer research and cancer care: A French comprehensive cancer center experience**: O artigo apresenta a estratégia de dados do Centre Léon Bérard (CLB), publicada em 2023, utilizando o método de pesquisa Design Science Research. O foco é na aplicação em centros de câncer, visando melhorar a coleta, análise e compartilhamento de dados clínicos, incluindo registros médicos eletrônicos (EMRs) e dados de ensaios clínicos. O modelo propõe políticas de compartilhamento de dados e a utilização de padrões como OSIRIS, FHIR e OMOP para garantir a interoperabilidade e a conformidade com o GDPR, abordando questões éticas como privacidade e transparência. O estudo identifica lacunas na integração de dados moleculares e na digitalização de imagens patológicas, sugerindo que o nível de maturidade da IA se encontra em desenvolvimento, com ênfase na necessidade de melhorar a qualidade dos dados e a estruturação de informações para pesquisas mais eficazes.",
+    "data_extraction": {
+        "titulo": "From data strategy to implementation to advance cancer research and cancer care: A French comprehensive cancer center experience",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "France",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "CONSORE",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Conformidade com o Regulamento Geral sobre a Proteção de Dados (GDPR), incluindo consentimento do paciente e medidas de segurança.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Necessidade de melhorar a completude dos dados histológicos e de biologia molecular, além da digitalização do departamento de patologia.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

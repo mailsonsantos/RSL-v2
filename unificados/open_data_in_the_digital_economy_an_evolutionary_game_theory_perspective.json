@@ -1,0 +1,26 @@
+{
+    "id": 17,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Open Data in the Digital Economy An Evolutionary Game Theory Perspective.pdf",
+    "resumo": "1. **Open Data in the Digital Economy: An Evolutionary Game Theory Perspective**: O artigo apresenta um modelo de jogo evolutivo para analisar a interação entre provedores de dados, usuários e reguladores no contexto de dados abertos, utilizando a metodologia de pesquisa de teoria dos jogos. O público-alvo abrange setores que implementam iniciativas de dados abertos, como governos e empresas. O modelo propõe estratégias de cooperação e defecção entre os stakeholders, abordando a importância da qualidade dos dados e a regulação para garantir a conformidade e a ética, com foco em incentivos e penalidades. As lacunas identificadas incluem a falta de consideração dos reguladores nas pesquisas anteriores, e o nível de maturidade da IA é implícito na análise das estratégias evolutivas. O estudo sugere que a cooperação entre os três grupos é viável sob condições específicas, como custos de fornecimento e aquisição de dados, além de recompensas regulatórias.",
+    "data_extraction": {
+        "titulo": "Open Data in the Digital Economy: An Evolutionary Game Theory Perspective",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "China",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Economia Digital",
+        "nome_framework_modelo": "Modelo de Jogo Evolutivo",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Regulação do uso de dados abertos por reguladores para garantir qualidade e penalizar comportamentos inadequados.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de consideração da interação entre provedores de dados, usuários e reguladores.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

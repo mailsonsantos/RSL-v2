@@ -1,0 +1,19 @@
+## Discussão de Lacunas e Oportunidades
+
+### Introdução
+A análise das lacunas na gestão de dados que impedem a adoção segura de Inteligência Artificial (IA) nas organizações revela um panorama complexo e multifacetado. A partir da revisão de 127 artigos, identificamos 120 lacunas categorizadas em domínios técnicos, organizacionais, regulatórios e de qualidade de dados. As lacunas mais frequentes incluem a falta de padrões e diretrizes claras, desafios na integração de dados e a necessidade de uma governança robusta. Essas lacunas não apenas refletem os obstáculos atuais, mas também representam oportunidades significativas para pesquisas futuras e desenvolvimento de soluções inovadoras.
+
+### 4.4.1 Desafios Técnicos
+Os desafios técnicos são predominantes, com ênfase na falta de consenso sobre definições e métricas de explicabilidade [1, 63], ausência de padrões para avaliação da qualidade dos dados [10, 69], e a necessidade de arquiteturas seguras para dados sensíveis [3, 19]. A falta de um framework holístico para a gestão de dados [78] e a dificuldade em integrar dados em tempo real [54] também foram frequentemente mencionadas. Esses desafios técnicos não apenas comprometem a eficácia dos sistemas de IA, mas também limitam a confiança dos usuários e a conformidade regulatória.
+
+### 4.4.2 Lacunas Organizacionais
+As lacunas organizacionais, como a falta de diretrizes claras para a implementação de IA [4, 32], e a resistência à adoção devido a preocupações éticas [16, 45], são igualmente críticas. A ausência de um modelo unificado de governança de dados [111] e a falta de envolvimento dos praticantes na formulação de abordagens éticas [32] dificultam a aceitação e a eficácia das soluções de IA. Além disso, a falta de uma força de trabalho diversificada e capacitada [72, 100] pode resultar em desigualdades na aplicação de IA, limitando seu impacto positivo.
+
+### 4.4.3 Desafios Regulatórios
+Os desafios regulatórios são evidentes, com a falta de clareza nas políticas de uso de dados pessoais [95, 116] e a necessidade de um quadro comum para avaliar o impacto da IA no setor público [112]. A defasagem regulatória e a complexidade das estruturas de governança de dados [85] também foram identificadas como barreiras significativas. A ausência de diretrizes claras pode levar a práticas inadequadas e à falta de responsabilidade em sistemas de decisão automatizada, comprometendo a confiança do público.
+
+### 4.4.4 Qualidade de Dados
+A qualidade dos dados é uma preocupação central, com lacunas relacionadas à falta de dados rotulados e bem anotados [123], variabilidade na qualidade dos dados [37], e a necessidade de um sistema de marketplace descentralizado para troca de dados [69]. A falta de um controle sistemático de qualidade [126] e a ausência de métricas padronizadas para avaliar a prontidão dos dados para IA [114] podem resultar em decisões baseadas em dados de baixa qualidade, comprometendo a eficácia das soluções de IA.
+
+### Conclusão da QP3
+As lacunas identificadas na gestão de dados representam um desafio significativo para a maturidade atual da Governança de IA nas organizações. A falta de padrões claros, diretrizes e uma governança robusta não apenas limita a adoção segura de IA, mas também impede que as organizações aproveitem plenamente o potencial transformador da tecnologia. A superação dessas lacunas não é apenas uma questão de conformidade regulatória, mas uma oportunidade para inovar e criar soluções que atendam às necessidades éticas e sociais contemporâneas. A pesquisa futura deve se concentrar em desenvolver frameworks integrados que abordem essas lacunas, promovendo uma adoção mais segura e eficaz da IA nas organizações.

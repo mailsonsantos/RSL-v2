@@ -1,0 +1,27 @@
+{
+    "id": 119,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Is Trust Correlated With Explainability in AI A Meta-Analysis.pdf",
+    "resumo": "1. **Is Trust Correlated with Explainability In AI? A Meta-Analysis**: O artigo de Atf e Lewis (2025) realiza uma meta-análise sobre a relação entre a explicabilidade em sistemas de inteligência artificial (IA) e a confiança dos usuários, utilizando o método de pesquisa de revisão sistemática com base no protocolo PRISMA. O público-alvo abrange setores críticos como saúde e justiça, onde a confiança é essencial. O estudo identifica que, embora exista uma correlação positiva moderada (coeficiente de 0,194) entre explicabilidade e confiança, esta não é o único fator determinante. As estratégias de governança de dados discutidas incluem a necessidade de transparência, responsabilidade e mitigação de viés, abordando também questões éticas como privacidade e inclusão. As lacunas na gestão de dados incluem a falta de um entendimento coeso sobre a explicabilidade e a necessidade de um enfoque mais amplo que considere fatores éticos e sociais. O nível de maturidade da IA ao qual o framework se aplica é considerado moderado, sugerindo que a explicabilidade deve ser complementada por práticas éticas e de engajamento do usuário para construir uma confiança robusta e sustentável.",
+    "data_extraction": {
+        "titulo": "Is Trust Correlated with Explainability In AI? A Meta-Analysis",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Canada",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde e Justiça",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A pesquisa destaca a necessidade de uma abordagem multifacetada que inclua considerações éticas, gestão de viés e compreensão sociotécnica.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

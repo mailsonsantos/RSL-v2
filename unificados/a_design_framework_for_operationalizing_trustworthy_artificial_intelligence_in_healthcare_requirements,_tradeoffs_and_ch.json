@@ -1,0 +1,28 @@
+{
+    "id": 4,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A design framework for operationalizing trustworthy artificial intelligence in healthcare Requirements, tradeoffs and ch.pdf",
+    "resumo": "1. **A Design Framework for Operationalizing Trustworthy Artificial Intelligence in Healthcare: Requirements, Tradeoffs and Challenges for its Clinical Adoption**: O artigo propõe um framework para a implementação de Inteligência Artificial Confiável (IA) na saúde, utilizando a metodologia de Design Science Research, focando no setor de saúde. O público-alvo inclui desenvolvedores de IA e stakeholders da saúde, com ênfase em requisitos de governança de dados, como robustez técnica, privacidade, transparência e não discriminação. O framework aborda a conformidade regulatória e questões éticas, como a privacidade e a transparência, propondo mecanismos para garantir a responsabilidade e a auditoria contínua. Identifica lacunas na gestão de dados, como a falta de representatividade em conjuntos de dados, e sugere um nível de maturidade de IA que deve ser alcançado para a adoção clínica efetiva, destacando a necessidade de um equilíbrio entre precisão e justiça nas decisões automatizadas.",
+    "data_extraction": {
+        "titulo": "A Design Framework for operationalizing Trustworthy Artificial Intelligence in Healthcare: Requirements, Tradeoffs and Challenges for its Clinical Adoption",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Finland",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Trustworthy AI (TAI) framework",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O framework propõe a adesão a princípios éticos e regulatórios, como a conformidade com o GDPR e a AI Act da UE, garantindo que os sistemas de IA respeitem a privacidade e a segurança dos dados dos pacientes.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de diretrizes concretas e aplicáveis para a implementação de princípios de IA confiável na prática clínica, além da resistência à adoção de soluções de IA devido a preocupações éticas e de responsabilidade.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

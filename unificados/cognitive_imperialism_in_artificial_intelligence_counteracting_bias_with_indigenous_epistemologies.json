@@ -1,0 +1,26 @@
+{
+    "id": 6,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Cognitive imperialism in artificial intelligence counteracting bias_with indigenous epistemologies.pdf",
+    "resumo": "1. **Cognitive Imperialism in Artificial Intelligence: Counteracting Bias with Indigenous Epistemologies**: O artigo de Yaw Ofosu-Asare (2025) propõe um framework para integrar epistemologias indígenas no desenvolvimento de IA, utilizando uma abordagem de Design Participativo. O público-alvo abrange comunidades indígenas e setores que utilizam IA, como saúde e educação. O framework enfatiza a co-criação com comunidades indígenas e a governança ética de dados, abordando a conformidade com direitos de propriedade intelectual e a necessidade de respeitar a soberania dos dados indígenas. Identifica lacunas na representação de conhecimentos não ocidentais e propõe um modelo que busca mitigar preconceitos e promover a inclusão cultural. O nível de maturidade da IA ao qual o framework se aplica é considerado emergente, com ênfase na necessidade de adaptação de algoritmos e na coleta ética de dados para garantir que as tecnologias de IA sejam culturalmente sensíveis e representativas.",
+    "data_extraction": {
+        "titulo": "Cognitive imperialism in artificial intelligence: counteracting bias with indigenous epistemologies",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Australia",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Inteligência Artificial",
+        "nome_framework_modelo": "Framework for integrating Indigenous epistemologies into AI",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Ética na governança de dados indígenas e protocolos de co-criação.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de representação empírica dos impactos dos vieses da IA em comunidades indígenas e a necessidade de metodologias concretas para a inclusão de epistemologias indígenas.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

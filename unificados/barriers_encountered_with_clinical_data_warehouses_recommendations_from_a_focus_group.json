@@ -1,0 +1,24 @@
+{
+    "id": 97,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Barriers encountered with clinical data warehouses Recommendations from a focus group.pdf",
+    "resumo": "1. **Barriers Encountered with Clinical Data Warehouses: Recommendations from a Focus Group**: O artigo de Lamer et al. (2024) apresenta uma análise das barreiras enfrentadas na implementação de armazéns de dados clínicos (CDW) em instituições de saúde, utilizando a metodologia de grupo focal durante o congresso Medical Informatics Europe. O público-alvo inclui profissionais de saúde e pesquisadores envolvidos em projetos de CDW. O estudo identifica 26 barreiras, categorizadas em aspectos éticos, legislativos, técnicos, humanos e organizacionais, e propõe 15 recomendações práticas que abrangem governança, engajamento de partes interessadas e colaboração interdisciplinar. Mecanismos para garantir conformidade regulatória e questões éticas, como privacidade e transparência, são abordados. As lacunas na gestão de dados incluem a resistência à partilha de dados e a complexidade do processo ETL, enquanto o nível de maturidade da IA aplicado ao framework é considerado inicial, necessitando de desenvolvimento contínuo para otimizar a utilização de dados clínicos em pesquisas e melhorias na qualidade do atendimento.",
+    "data_extraction": {
+        "titulo": "Barriers encountered with clinical data warehouses: Recommendations from a focus group",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "França",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "SEIPS 2.0",
+        "componentes_governanca": [
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Implicar a instituição reguladora desde o início do projeto, explicando quais dados de saúde serão utilizados e para quais objetivos de pesquisa.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de compreensão e aceitação do projeto por profissionais de saúde, dificuldades de acesso a dados e questões de qualidade de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": 126,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Implementing a Biomedical Data Warehouse From Blueprint to Bedside in a Regional French University Hospital Setting Unve.pdf",
+    "resumo": "1. **Implementação de um Armazém de Dados Biomédicos de Blueprint a Leito em um Hospital Universitário Regional Francês**: O artigo apresenta a implementação do Nantes Biomedical Data Warehouse (NBDW) em um hospital universitário francês, publicado em 2024. Utilizando um método de pesquisa descritivo, o estudo aborda a governança de dados e a conformidade regulatória, destacando a importância de políticas de acesso e proteção de dados. O público-alvo inclui pesquisadores e profissionais de saúde, com foco na reutilização de dados clínicos para pesquisa. O NBDW incorpora estratégias de governança que garantem a conformidade com a legislação de proteção de dados, como a LGPD e o GDPR, abordando questões éticas de privacidade e consentimento informado. O estudo identifica lacunas na integração de dados e sugere que o nível de maturidade da IA aplicado é intermediário, enfatizando a necessidade de um controle de qualidade contínuo e a colaboração interdepartamental para otimizar o uso de dados em pesquisas clínicas.",
+    "data_extraction": {
+        "titulo": "Implementing a Biomedical Data Warehouse From Blueprint to Bedside in a Regional French University Hospital Setting: Unveiling Processes, Overcoming Challenges, and Extracting Clinical Insight",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "França",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Nantes Biomedical Data Warehouse (NBDW)",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Acesso a dados é organizado de acordo com requisitos de uso de dados e regulatórios, incluindo consentimento informado e proteção de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Necessidade de um processo sistemático de controle de qualidade para garantir resultados precisos em estudos de saúde.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

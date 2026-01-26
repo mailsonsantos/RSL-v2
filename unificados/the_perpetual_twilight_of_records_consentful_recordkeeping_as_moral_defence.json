@@ -1,0 +1,28 @@
+{
+    "id": 15,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/The perpetual twilight of records consentful recordkeeping as moral_defence.pdf",
+    "resumo": "1. **The Perpetual Twilight of Records: Consentful Recordkeeping as Moral Defence**: O artigo de Rolan e Lewis (2024) propõe o framework VALID, desenvolvido através de um estudo de caso no contexto de práticas de registro consentido, focando na governança de dados em ambientes de inteligência artificial. O público-alvo inclui instituições de pesquisa e agências de aplicação da lei, com ênfase na proteção de dados sensíveis, especialmente em relação a crianças. O framework aborda estratégias de consentimento dinâmico e contínuo, enfatizando a dignidade e a integridade dos indivíduos representados nos registros. Mecanismos de conformidade regulatória são discutidos, com foco em privacidade e ética, visando mitigar a exploração e garantir a transparência. O estudo identifica lacunas na gestão de dados, especialmente na representação e consentimento, e sugere que o nível de maturidade da IA deve ser considerado na implementação de práticas de governança de dados.",
+    "data_extraction": {
+        "titulo": "The perpetual twilight of records: consentful recordkeeping as moral defence",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Australia",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Governança de Dados, Arquivologia, Ética em IA",
+        "nome_framework_modelo": "VALID",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo propõe um sistema de consentimento dinâmico que respeita a dignidade e a agência dos indivíduos representados nos dados.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de práticas de consentimento significativo e a necessidade de abordar preconceitos de representação nos conjuntos de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

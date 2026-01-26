@@ -1,0 +1,25 @@
+{
+    "id": 95,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Privacy-Preserving Scoring of Tree Ensembles A Novel Framework for AI_in Healthcare.pdf",
+    "resumo": "1. **Privacy-Preserving Scoring of Tree Ensembles: A Novel Framework for AI in Healthcare**: O artigo apresenta um framework inovador para classificação privada de ensembles de árvores, desenvolvido através de pesquisa em Ciência da Computação, com aplicação no setor de saúde. O modelo utiliza técnicas de computação multipartidária segura (SMC) para permitir que organizações de saúde realizem previsões de risco sobre dados criptografados, sem expor informações pessoais identificáveis. As estratégias de governança de dados incluem a implementação de protocolos criptográficos que garantem a privacidade e a segurança dos dados durante o processamento. O estudo aborda a conformidade regulatória e as dimensões éticas, como a proteção da privacidade e a transparência, destacando a importância de mitigar riscos de viés e invasão de modelos. Identificam-se lacunas na aplicação prática de soluções de aprendizado de máquina que preservam a privacidade, e o framework é projetado para sistemas de IA com maturidade elevada, visando melhorar os resultados clínicos e a eficiência operacional em ambientes de saúde.",
+    "data_extraction": {
+        "titulo": "Privacy-Preserving Scoring of Tree Ensembles: A Novel Framework for AI in Healthcare",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "USA",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "KenSci ML platform",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O uso de computação multipartidária segura (SMC) para permitir a classificação de dados criptografados sem expor informações pessoais.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de clareza nas políticas que regem o uso de dados pessoais em aplicações de aprendizado de máquina.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

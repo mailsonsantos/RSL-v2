@@ -1,0 +1,25 @@
+{
+    "id": 60,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Next-generation big data federation access control A reference model.pdf",
+    "resumo": "1. **Next-Generation Big Data Federation Access Control: A Reference Model**: O artigo apresenta o modelo de referência denominado Federated Access Control Reference Model (FACRM), desenvolvido por meio de uma pesquisa crítica sobre as limitações de segurança do controle de acesso no Hadoop, utilizando uma abordagem de Design Science Research. O público-alvo abrange organizações que utilizam plataformas de Big Data, especialmente no contexto de federações de dados. O modelo propõe estratégias de gestão de dados que incluem a implementação de um broker de acesso federado, visando melhorar a segurança e a conformidade regulatória, abordando questões éticas como privacidade e auditoria. O estudo identifica lacunas na governança de dados, como a complexidade do controle de acesso e a falta de um modelo padronizado, e sugere que o FACRM se aplica a um nível de maturidade de IA que busca integrar soluções de segurança em ambientes de Big Data.",
+    "data_extraction": {
+        "titulo": "Next-Generation Big Data Federation Access Control: A Reference Model",
+        "ano_publicacao": 2019,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Spain",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Big Data",
+        "nome_framework_modelo": "Federated Access Control Reference Model (FACRM)",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O modelo proposto aborda limitações de segurança e privacidade em ambientes de federação de dados, utilizando um broker de acesso para controle centralizado.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de um modelo padrão para unificar o acesso de usuários/aplicações a recursos, serviços e dados em plataformas de Big Data.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": 38,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/AI system architecture design methodology based on IMO (Input-AI Model-Output) structure for successful AI adoption in o.pdf",
+    "resumo": "1. **AI System Architecture Design Methodology Based on IMO Structure**: O artigo apresenta uma metodologia de design de arquitetura de sistemas de IA baseada na estrutura IMO (Input-AI Model-Output), publicada em 2024. O método de pesquisa utilizado é o Estudo de Caso, focado na adoção bem-sucedida de IA em organizações. O público-alvo inclui setores industriais que buscam integrar IA em suas operações. A metodologia propõe três etapas: definição do problema, solução de sistema de IA e solução técnica de IA, visando identificar requisitos técnicos essenciais, como dados e algoritmos necessários. A pesquisa aborda componentes de governança, como a necessidade de estratégias claras para a coleta e uso de dados, e enfatiza a conformidade com normas éticas, incluindo transparência e responsabilidade. Lacunas na gestão de dados são identificadas, e a metodologia se aplica a um nível de maturidade de IA que busca concretizar requisitos técnicos de forma prática, contribuindo para a adoção eficaz de IA nas organizações.",
+    "data_extraction": {
+        "titulo": "AI system architecture design methodology based on IMO (Input-AI Model-Output) structure for successful AI adoption in organizations",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Republic of Korea",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Organizações",
+        "nome_framework_modelo": "IMO (Input-AI Model-Output)",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de pesquisa sobre metodologias para concretizar requisitos técnicos para adoção de IA.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

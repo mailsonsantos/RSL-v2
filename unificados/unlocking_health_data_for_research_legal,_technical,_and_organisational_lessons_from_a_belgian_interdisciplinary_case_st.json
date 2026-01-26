@@ -1,0 +1,25 @@
+{
+    "id": 103,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Unlocking Health Data for Research Legal, Technical, and Organisational_Lessons from a Belgian Interdisciplinary Case St.pdf",
+    "resumo": "1. **Unlocking Health Data for Research: Legal, Technical, and Organisational Lessons from a Belgian Interdisciplinary Case Study**: O artigo analisa os desafios enfrentados na reutilização de dados clínicos para pesquisa, utilizando o estudo de caso do TumorScope, uma iniciativa interdisciplinar na Bélgica. O método de pesquisa é um estudo de caso que explora a integração de dados multimodais para pesquisa sobre glioblastoma. O público-alvo inclui profissionais de saúde e pesquisadores na área de oncologia. O estudo identifica barreiras legais, éticas e técnicas, como a complexidade da pseudonimização e a falta de interoperabilidade, além de estruturas de governança pouco claras. Mecanismos de conformidade com a GDPR e questões éticas, como privacidade e transparência, são discutidos. O artigo destaca lacunas na gestão de dados e sugere que a maturidade da IA deve ser considerada para a implementação de um framework robusto de governança de dados, enfatizando a necessidade de coordenação institucional e investimento em infraestrutura para facilitar a reutilização responsável de dados de saúde.",
+    "data_extraction": {
+        "titulo": "Unlocking Health Data for Research: Legal, Technical, and Organisational Lessons from a Belgian Interdisciplinary Case Study",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Bélgica",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a necessidade de conformidade com o Regulamento Geral sobre a Proteção de Dados (GDPR) e a legislação nacional, além de mencionar a importância de estruturas de governança robustas e coordenação institucional.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A falta de infraestrutura harmonizada e a capacidade limitada das Comissões de Ética em Pesquisa para avaliar pesquisas baseadas em dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

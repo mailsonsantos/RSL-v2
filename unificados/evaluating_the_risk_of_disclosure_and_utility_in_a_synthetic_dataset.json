@@ -1,0 +1,25 @@
+{
+    "id": 53,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Evaluating the Risk of Disclosure and Utility in a Synthetic Dataset.pdf",
+    "resumo": "1. **Evaluating the Risk of Disclosure and Utility in a Synthetic Dataset**: O artigo apresenta um modelo para avaliar o risco de divulgação (RoD) e a utilidade de conjuntos de dados sintéticos, utilizando a técnica de privacidade diferencial (DP) e um método de pesquisa baseado em Design Science Research. O público-alvo é o setor de FinTech, onde a proteção de dados dos usuários é crítica. O estudo discute estratégias de governança de dados, como a definição de um orçamento de privacidade (ϵ) que equilibre privacidade e utilidade, e aborda questões éticas relacionadas à transparência e ao viés. As lacunas identificadas incluem a falta de métricas claras para o RoD e a dificuldade em escolher o valor de ϵ, sugerindo que o framework se aplica a um nível de maturidade de IA que ainda está em desenvolvimento. A pesquisa propõe métodos para quantificar o RoD e a utilidade, facilitando a compreensão para usuários leigos e promovendo a conformidade com regulamentações como GDPR e CCPA.",
+    "data_extraction": {
+        "titulo": "Evaluating the Risk of Disclosure and Utility in a Synthetic Dataset",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Taiwan",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "FinTech",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a necessidade de conformidade com regulamentos como CCPA e GDPR, mas não detalha mecanismos específicos.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A falta de recomendações claras sobre técnicas de anonimização que preservem a privacidade enquanto oferecem abertura.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

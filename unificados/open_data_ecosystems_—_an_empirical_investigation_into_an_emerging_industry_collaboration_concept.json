@@ -1,0 +1,25 @@
+{
+    "id": 125,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Open Data Ecosystems — An empirical investigation into an emerging industry collaboration concept.pdf",
+    "resumo": "1. **Open Data Ecosystems – an empirical investigation into an emerging industry collaboration concept**: O artigo apresenta um modelo conceitual inicial para Ecossistemas de Dados Abertos (ODE), desenvolvido por meio de um estudo de caso e grupos focais com 27 participantes de 22 organizações, incluindo empresas e instituições públicas. O foco da pesquisa é a colaboração em dados entre atores comerciais, destacando a importância da abertura e do valor dos dados. Os componentes de governança abordados incluem a aquisição de dados, a qualidade e a legalidade, com ênfase na conformidade com a GDPR. O estudo identifica lacunas na maturidade dos ODEs, sugerindo que a colaboração deve ser impulsionada por um valor claro e que a confiança entre os participantes é crucial. As dimensões éticas, como privacidade e transparência, são discutidas, assim como a necessidade de modelos de dados padronizados para facilitar a troca de informações. O artigo conclui que os ODEs estão em uma fase inicial e requerem mais pesquisa para integrar práticas de governança e modelos de negócios.",
+    "data_extraction": {
+        "titulo": "Open Data Ecosystems – an empirical investigation into an emerging industry collaboration concept",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Sweden",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de pesquisa sobre os aspectos técnicos do compartilhamento de dados entre corporações como meio de fomentar inovação aberta.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

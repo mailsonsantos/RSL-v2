@@ -1,0 +1,25 @@
+{
+    "id": 65,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Data Privacy Vocabulary (DPV) - Version 2.0.pdf",
+    "resumo": "1. **Data Privacy Vocabulary (DPV) — Version 2.0**: O artigo apresenta a versão 2.0 do Data Privacy Vocabulary (DPV), desenvolvido pelo W3C Data Privacy Vocabularies and Controls Community Group (DPVCG) em 2023, utilizando uma abordagem de Design Science Research. O DPV é direcionado a setores que lidam com dados pessoais, visando facilitar a conformidade com legislações como o GDPR da UE e o Data Governance Act. O framework inclui componentes de governança de dados, como ontologias e taxonomias para descrever atividades de processamento de dados pessoais, e aborda estratégias de gestão de consentimento e direitos dos titulares. Mecanismos de conformidade regulatória são integrados, com ênfase em privacidade, transparência e mitigação de viés. O estudo identifica lacunas na interoperabilidade de dados e propõe um modelo que se aplica a um nível de maturidade de IA em evolução, permitindo a adaptação a diferentes jurisdições e regulamentações emergentes.",
+    "data_extraction": {
+        "titulo": "Data Privacy Vocabulary (DPV) — Version 2.0",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Irlanda",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Tecnologia da Informação",
+        "nome_framework_modelo": "Data Privacy Vocabulary (DPV)",
+        "componentes_governanca": [
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O DPV fornece uma estrutura de vocabulário interoperável para descrever o processamento de dados pessoais, apoiando a conformidade com legislações como o GDPR e o AI Act.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de vocabulários e ontologias para descrever e trocar informações sobre atividades envolvendo dados pessoais.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

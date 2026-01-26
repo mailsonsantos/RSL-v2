@@ -1,0 +1,25 @@
+{
+    "id": 99,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/F-BIDS Federated-Blending based Intrusion Detection System.pdf",
+    "resumo": "1. **F-BIDS: Federated-Blending based Intrusion Detection System**: O artigo apresenta o framework F-BIDS, publicado em 2023, que utiliza um modelo de aprendizado federado e blending para sistemas de detecção de intrusões (IDS) voltados para a Internet das Coisas (IoT) e IoT Industrial (IIoT). A pesquisa adota uma abordagem de Design Science Research, focando em melhorar a privacidade e a eficiência na detecção de ataques. O público-alvo inclui setores que utilizam IoT, onde a privacidade de dados é crítica. O modelo incorpora estratégias de aprendizado federado e técnicas de ensemble, como Decision Trees e Random Forests, para gerar metadados que são utilizados por um meta-classificador baseado em Redes Neurais. O artigo discute mecanismos de conformidade com a GDPR, abordando questões éticas como privacidade e viés. Identifica lacunas na proteção contra ataques de inferência de membros e sugere que o nível de maturidade de IA do framework é adequado para aplicações de alta complexidade, destacando a necessidade de soluções que equilibrem privacidade e desempenho.",
+    "data_extraction": {
+        "titulo": "F-BIDS: Federated-Blending based Intrusion Detection System",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "France",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Segurança da Informação",
+        "nome_framework_modelo": "F-BIDS",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O modelo F-BIDS utiliza aprendizado federado para preservar a privacidade dos dados dos usuários, evitando a transferência de dados sensíveis.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A necessidade de melhorar a segurança e a privacidade em sistemas de detecção de intrusões baseados em aprendizado federado.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

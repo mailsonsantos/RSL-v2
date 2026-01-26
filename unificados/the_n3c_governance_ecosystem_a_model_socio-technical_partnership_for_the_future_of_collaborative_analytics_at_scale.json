@@ -1,0 +1,28 @@
+{
+    "id": 35,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/The N3C governance ecosystem A model socio-technical partnership for_the future of collaborative analytics at scale.pdf",
+    "resumo": "1. **The N3C Governance Ecosystem: A Model Socio-Technical Partnership for the Future of Collaborative Analytics at Scale**: O artigo apresenta o modelo de governança N3C, desenvolvido por meio de uma parceria público-privada durante a pandemia de COVID-19, utilizando a metodologia de pesquisa Design Science Research. O público-alvo abrange instituições de saúde e pesquisadores envolvidos em análises colaborativas de dados de saúde. O modelo incorpora estratégias de governança compartilhada, enfatizando a proteção de dados e a conformidade com normas como a HIPAA e os princípios FAIR. Mecanismos éticos são abordados, incluindo privacidade e transparência, com foco na segurança dos dados e na atribuição justa de autoria. O estudo identifica lacunas na gestão de dados e sugere que o nível de maturidade da IA aplicado é elevado, destacando a importância de um framework que promova a colaboração e a confiança entre os stakeholders, além de ser um modelo replicável para futuras iniciativas de compartilhamento de dados.",
+    "data_extraction": {
+        "titulo": "The N3C governance ecosystem: A model socio-technical partnership for the future of collaborative analytics at scale",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "USA",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "N3C governance ecosystem",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Implementação de um acordo de uso de dados e um comitê de acesso a dados para garantir a conformidade com as normas éticas e regulatórias.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Necessidade de superar barreiras técnicas, operacionais e culturais para o compartilhamento de dados sensíveis de saúde.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

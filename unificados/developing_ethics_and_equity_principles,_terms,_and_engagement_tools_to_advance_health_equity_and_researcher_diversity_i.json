@@ -1,0 +1,26 @@
+{
+    "id": 72,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Developing Ethics and Equity Principles, Terms, and Engagement Tools to Advance Health Equity and Researcher Diversity i.pdf",
+    "resumo": "1. **Developing Ethics and Equity Principles, Terms, and Engagement Tools to Advance Health Equity and Researcher Diversity in AI and Machine Learning: Modified Delphi Approach**: O artigo apresenta o desenvolvimento de princípios éticos e de equidade, um glossário e ferramentas de engajamento pela Ethics and Equity Workgroup (EEWG) do AIM-AHEAD, utilizando a abordagem Delphi modificada. O foco é a aplicação em comunidades historicamente sub-representadas no setor de saúde. Os componentes de governança incluem cinco princípios centrais que abordam a construção de confiança, a co-criação com comunidades, e a necessidade de um desenvolvimento intencional de IA e ML. O estudo enfatiza a conformidade com normas éticas, abordando questões de viés, transparência e privacidade. Lacunas identificadas incluem a falta de diversidade na força de trabalho e a necessidade de engajamento significativo com as comunidades. O nível de maturidade da IA abordado é inicial, com ênfase na construção de capacidades e na superação de desigualdades no acesso a tecnologias de IA e ML.",
+    "data_extraction": {
+        "titulo": "Developing Ethics and Equity Principles, Terms, and Engagement Tools to Advance Health Equity and Researcher Diversity in AI and Machine Learning: Modified Delphi Approach",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United States",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O EEWG desenvolveu princípios e um glossário para garantir que a ética e a equidade estejam na vanguarda das aplicações de IA e ML, promovendo a inclusão e a representação de comunidades historicamente sub-representadas.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de uma força de trabalho diversificada, infraestrutura de dados adequada, engajamento comunitário e supervisão, governança e responsabilidade adequadas.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

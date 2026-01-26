@@ -1,0 +1,26 @@
+{
+    "id": 32,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/An Ecosystem Approach to Ethical AI and Data Use Experimental Reflections.pdf",
+    "resumo": "1. **An Ecosystem Approach to Ethical AI and Data Use: Experimental Reflections**: O artigo de 2020 propõe a metodologia de \"Shared Fairness\", desenvolvida por meio de um estudo experimental, visando o setor de desenvolvimento de inteligência artificial. O foco é na inclusão de praticantes de IA na discussão ética, abordando a necessidade de um diálogo que una a linguagem operacional dos desenvolvedores com princípios éticos abstratos. O estudo destaca componentes de governança como a responsabilidade compartilhada e a necessidade de um entendimento contextualizado da ética em decisões operacionais. Mecanismos para garantir conformidade regulatória são discutidos, enfatizando a importância da transparência e da justiça, enquanto as dimensões éticas de responsabilidade e atribuição são exploradas. O artigo identifica lacunas na prática ética e sugere que o nível de maturidade da IA se relaciona com a capacidade de internalizar a responsabilidade ética, propondo um modelo que busca mitigar desequilíbrios de poder nas decisões éticas dentro do ecossistema de IA.",
+    "data_extraction": {
+        "titulo": "An Ecosystem Approach to Ethical AI and Data Use: Experimental Reflections",
+        "ano_publicacao": 2020,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Singapore",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Desenvolvedores de IA",
+        "nome_framework_modelo": "Modelo de Governança de Inteligência Artificial",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de envolvimento dos praticantes de IA na formulação de abordagens éticas significativas.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": 78,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/The Journey of Data Within a Global Data Sharing Initiative A Federated 3-Layer Data Analysis Pipeline to Scale Up Multi.pdf",
+    "resumo": "1. **The Journey of Data Within a Global Data Sharing Initiative: A Federated 3-Layer Data Analysis Pipeline to Scale Up Multiple Sclerosis Research**: O artigo apresenta o framework da Global Data Sharing Initiative (GDSI), desenvolvido por meio de uma metodologia de pesquisa demand-driven, focando na análise de dados em múltiplos níveis para a esclerose múltipla. O público-alvo inclui pesquisadores e profissionais de saúde envolvidos no tratamento de doenças raras. O modelo propõe três fluxos de compartilhamento de dados: entrada direta, compartilhamento de conjuntos de dados principais e compartilhamento de modelos federados, visando a padronização e integração de dados. Mecanismos de conformidade regulatória e ética são abordados, enfatizando a privacidade e a segurança dos dados. O estudo identifica lacunas na gestão de dados e sugere que o nível de maturidade da IA se aplica a um contexto de colaboração internacional, destacando a importância da governança de dados para a tomada de decisões baseadas em evidências.",
+    "data_extraction": {
+        "titulo": "The Journey of Data Within a Global Data Sharing Initiative: A Federated 3-Layer Data Analysis Pipeline to Scale Up Multiple Sclerosis Research",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Belgium",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "GDSI Data Analysis Pipeline",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Aprovação ética do comitê de ética da Hasselt University (aprovação CME2020/025).",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A ausência de um framework holístico para a gestão de dados reais, que aborde todos os aspectos do processo de gestão de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

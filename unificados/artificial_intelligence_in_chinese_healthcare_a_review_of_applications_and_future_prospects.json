@@ -1,0 +1,27 @@
+{
+    "id": 13,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Artificial intelligence in Chinese healthcare a review of applications_and future prospects.pdf",
+    "resumo": "1. **Artificial intelligence in Chinese healthcare: a review of applications and future prospects**: O artigo analisa o crescimento do mercado de saúde com inteligência artificial (IA) na China, projetando um aumento de US$ 900 milhões em 2020 para US$ 18,88 bilhões até 2030, utilizando uma abordagem de revisão sistemática. O público-alvo abrange o setor de saúde, com foco em aplicações de IA em diagnóstico, telemedicina e desenvolvimento de medicamentos. O estudo destaca componentes de governança, como a Lei de Proteção de Informações Pessoais (PIPL) e diretrizes da Administração Nacional de Produtos Médicos (NMPA), que garantem conformidade regulatória e abordam questões éticas como privacidade e transparência. Identifica lacunas na gestão de dados, especialmente em relação à transparência algorítmica e à governança de dados transfronteiriços, e sugere que o nível de maturidade da IA se encontra em um estágio de desenvolvimento acelerado, mas com desafios significativos a serem superados para garantir a eficácia e a equidade no acesso à saúde.",
+    "data_extraction": {
+        "titulo": "Artificial intelligence in Chinese healthcare: a review of applications and future prospects",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "China",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "MedAgent-Zero",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "PIPL requer consentimento explícito para o processamento de dados de saúde e impõe restrições à transferência de dados sensíveis.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Desafios na transparência dos algoritmos, governança de dados transfronteiriços e coordenação regulatória internacional.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

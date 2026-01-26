@@ -1,0 +1,29 @@
+{
+    "id": 44,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Surgical data science – from concepts toward clinical translation.pdf",
+    "resumo": "1. **Surgical Data Science – from Concepts toward Clinical Translation**: O artigo apresenta o conceito de Ciência de Dados Cirúrgicos (SDS), publicado em 2021, e propõe um modelo de governança para a aplicação de inteligência artificial (IA) na cirurgia, utilizando a metodologia de pesquisa Delphi. O público-alvo inclui profissionais de saúde e pesquisadores na área cirúrgica. O estudo discute componentes de governança de dados, como a necessidade de infraestrutura para aquisição e armazenamento de dados, além de estratégias para garantir a conformidade regulatória e a ética, abordando questões de privacidade e viés. Identifica lacunas na gestão de dados, como a falta de dados anotados representativos e a necessidade de um modelo de maturidade para a IA, sugerindo que o nível de maturidade da IA deve ser considerado na implementação de soluções de SDS.",
+    "data_extraction": {
+        "titulo": "Surgical Data Science – from Concepts toward Clinical Translation",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "A pesquisa discute a conformidade com regulamentos éticos e de proteção de dados, como GDPR e HIPAA, e a necessidade de garantir a privacidade e a segurança dos dados dos pacientes.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de histórias de sucesso reconhecidas em ciência de dados cirúrgicos e a necessidade de melhores práticas para a coleta e compartilhamento de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

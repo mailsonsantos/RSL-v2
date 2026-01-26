@@ -1,0 +1,25 @@
+{
+    "id": 105,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Potential Uses of Blockchain Technology for Outcomes Research on Opioids.pdf",
+    "resumo": "1. **Potential Uses of Blockchain Technology for Outcomes Research on Opioids**: O artigo de 2021 propõe a aplicação de tecnologias de blockchain para enfrentar os desafios da pesquisa sobre opioides, utilizando uma abordagem de revisão de literatura e painel de especialistas. O público-alvo inclui pesquisadores e profissionais de saúde envolvidos na gestão de dados relacionados ao uso de opioides. O estudo identifica cinco aplicações principais do blockchain: pesquisa em ensaios clínicos, incentivo à doação de dados, gestão segura de prescrições eletrônicas, gerenciamento da cadeia de suprimentos e uso secundário de dados clínicos. As estratégias de governança de dados abordadas incluem a melhoria da interoperabilidade, segurança e privacidade dos dados. O artigo discute a conformidade regulatória, enfatizando a necessidade de proteger a privacidade dos pacientes e a ética na gestão de dados sensíveis. Lacunas na gestão de dados e a maturidade da IA são identificadas, destacando a necessidade de mais pesquisas sobre a viabilidade e implementação do blockchain na saúde.",
+    "data_extraction": {
+        "titulo": "Potential Uses of Blockchain Technology for Outcomes Research on Opioids",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United States",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Blockchain pode atuar como um facilitador na gestão de dados de saúde, oferecendo uma solução mais eficiente, segura e que preserva a privacidade para a troca de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A literatura publicada foi limitada, levando a uma dependência da literatura cinza, que também era limitada em sua discussão sobre os aspectos técnicos da implementação.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

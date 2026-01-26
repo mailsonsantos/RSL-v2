@@ -1,0 +1,24 @@
+{
+    "id": 37,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Deep learning for cardiovascular management optimizing pathways and_cost control under diagnosis-related group models.pdf",
+    "resumo": "1. **Deep learning for cardiovascular management: optimizing pathways and cost control under diagnosis-related group models**: O artigo apresenta um modelo de otimização de gestão de doenças cardiovasculares (CVD) utilizando deep learning, publicado em 2025. A pesquisa, realizada por meio de uma revisão narrativa, foca na aplicação de algoritmos de aprendizado profundo para melhorar o diagnóstico, planejamento de tratamento e modelagem prognóstica em ambientes hospitalares que operam sob modelos de pagamento por grupos relacionados ao diagnóstico (DRG). O público-alvo inclui instituições de saúde que buscam otimizar custos e resultados clínicos. O estudo destaca estratégias de governança de dados, como a integração de dados multimodais e a necessidade de colaboração multidisciplinar, além de abordar questões de conformidade regulatória e ética, como privacidade e viés. Identificam-se lacunas na qualidade dos dados e na escalabilidade das soluções de IA, com um nível de maturidade de IA que ainda requer desenvolvimento para atender plenamente às exigências dos modelos DRG.",
+    "data_extraction": {
+        "titulo": "Deep learning for cardiovascular management: optimizing pathways and cost control under diagnosis-related group models",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "China",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Desafios como qualidade de dados, conformidade regulatória e questões éticas devem ser abordados.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Variabilidade na qualidade dos dados e limitações na interpretação dos modelos de IA.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

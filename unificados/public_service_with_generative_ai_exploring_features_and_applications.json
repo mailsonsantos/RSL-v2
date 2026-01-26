@@ -1,0 +1,27 @@
+{
+    "id": 16,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Public Service with Generative AI Exploring Features and Applications.pdf",
+    "resumo": "1. **Elevating Public Service with Generative AI: Exploring Features and Applications**: O artigo de 2024 propõe um estudo sobre o potencial transformador da inteligência artificial generativa no setor público, utilizando uma abordagem de pesquisa qualitativa que inclui revisão sistemática da literatura e estudos de caso. O público-alvo abrange instituições governamentais que buscam modernizar suas operações e melhorar o engajamento com os cidadãos. O estudo identifica componentes de governança, como a necessidade de estruturas regulatórias robustas e a promoção da transparência e responsabilidade na utilização de IA. Além disso, aborda questões éticas, como viés e privacidade, e destaca lacunas na adoção de IA, como a falta de conscientização sobre suas capacidades e os altos custos de implementação. O nível de maturidade da IA discutido no artigo sugere que, embora existam desafios significativos, a integração da IA generativa pode levar a melhorias substanciais na eficiência e na qualidade da tomada de decisões no setor público.",
+    "data_extraction": {
+        "titulo": "Elevating Public Service with Generative AI: Exploring Features and Applications",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Indonesia",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Setor Público",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de clareza sobre o papel e a compreensão da IA generativa, bem como recomendações para a implementação futura da IA generativa no setor público.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

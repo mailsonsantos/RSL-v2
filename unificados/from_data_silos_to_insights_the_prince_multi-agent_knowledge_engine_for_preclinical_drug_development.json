@@ -1,0 +1,26 @@
+{
+    "id": 46,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/From data silos to insights the PRINCE multi-agent knowledge engine for_preclinical drug development.pdf",
+    "resumo": "1. **From data silos to insights: the PRINCE multi-agent knowledge engine for preclinical drug development**: O artigo apresenta o PRINCE, uma plataforma de integração de dados desenvolvida pela Bayer em colaboração com a Thoughtworks, publicada em 2025, utilizando o método de pesquisa Design Science Research. O público-alvo é a indústria farmacêutica, focando no desenvolvimento pré-clínico de medicamentos. O PRINCE integra dados estruturados e não estruturados de estudos de segurança, empregando uma arquitetura multi-agente baseada em Modelos de Linguagem de Grande Escala (LLMs) e técnicas de recuperação de dados, como Geração Aumentada por Recuperação e Text-to-SQL. O artigo discute estratégias de governança de dados, incluindo controle de acesso e conformidade com normas internas, abordando questões éticas como transparência e responsabilidade. Identifica lacunas na gestão de dados e propõe um modelo que melhora a acessibilidade e eficiência na pesquisa, destacando um nível de maturidade de IA que permite a geração de documentos regulatórios críticos, com um enfoque na construção de soluções confiáveis e na integração de feedback dos usuários.",
+    "data_extraction": {
+        "titulo": "From data silos to insights: the PRINCE multi-agent knowledge engine for preclinical drug development",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Indústria farmacêutica",
+        "nome_framework_modelo": "PRINCE",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Sistema de controle de acesso para garantir conformidade com classificações de dados internas.",
+        "dimensoes_eticas_abordadas": [
+            "Transparência",
+            "Explicabilidade"
+        ],
+        "lacunas_identificadas": "Necessidade de plataformas de dados integrados para superar desafios de fragmentação de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

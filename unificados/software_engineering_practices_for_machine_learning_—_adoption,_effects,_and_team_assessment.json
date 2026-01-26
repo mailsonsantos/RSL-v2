@@ -1,0 +1,29 @@
+{
+    "id": 102,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Software engineering practices for machine learning — Adoption, effects, and team assessment.pdf",
+    "resumo": "1. **Software engineering practices for machine learning: adoption, effects, and team assessment**: O artigo de Serban et al. (2023) apresenta um estudo que investiga práticas de engenharia de software para machine learning (ML) através de uma abordagem de pesquisa mista, utilizando revisão sistemática da literatura e validação por meio de questionários e entrevistas. O público-alvo inclui equipes de desenvolvimento de software em diversos setores, com foco em práticas que garantem propriedades não funcionais como robustez, justiça e responsabilidade. O estudo identifica e categoriza 45 práticas de engenharia, abordando componentes de governança como a transparência e a privacidade, além de destacar a importância de práticas éticas na adoção de ML. As lacunas na adoção de práticas de confiança são evidentes, com um nível de maturidade de IA que varia conforme a experiência e o tamanho das equipes, sugerindo que equipes maiores tendem a adotar mais práticas, mas frequentemente negligenciam aquelas relacionadas à confiança.",
+    "data_extraction": {
+        "titulo": "Software engineering practices for machine learning: adoption, effects, and team assessment",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "The Netherlands",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Práticas de confiança tendem a ser negligenciadas.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

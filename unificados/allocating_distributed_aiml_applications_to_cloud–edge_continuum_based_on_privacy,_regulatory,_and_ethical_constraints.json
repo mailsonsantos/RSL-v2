@@ -1,0 +1,28 @@
+{
+    "id": 47,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Allocating distributed AIML applications to cloud–edge continuum based on privacy, regulatory, and ethical constraints.pdf",
+    "resumo": "1. **Allocating distributed AI/ML applications to cloud-edge continuum based on privacy, regulatory, and ethical constraints**: O artigo apresenta um framework de orquestração ética para aplicações distribuídas de IA/ML, publicado em 2025. O modelo proposto utiliza uma abordagem de Design Science Research e é direcionado ao setor de saúde, visando a gestão de dados sensíveis. O framework incorpora cartões de metadados para modelos de IA, fontes de dados e componentes de software, que documentam riscos e restrições, além de zonas de risco para ativos de hardware e nuvem. O estudo aborda a conformidade com regulamentos como o GDPR e o EU AI Act, enfatizando a transparência, a privacidade e a mitigação de viés. Identifica lacunas na gestão de dados e propõe um sistema que automatiza a validação de implantações, assegurando que as aplicações permaneçam em conformidade durante mudanças operacionais.",
+    "data_extraction": {
+        "titulo": "Allocating distributed AI/ML applications to cloud-edge continuum based on privacy, regulatory, and ethical constraints",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Finland",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Arquitetura de Orquestração Ética",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O sistema fornece informações detalhadas sobre os riscos associados a modelos e fontes de dados, além de monitorar e avaliar continuamente a conformidade com as regulamentações.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de uma abordagem sistemática para a orquestração ética de aplicações de IA/ML que atenda às preocupações regulatórias e éticas.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": 94,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A conceptual framework for the government big data ecosystem (‘datagov.eco’).pdf",
+    "resumo": "1. **A conceptual framework for the government big data ecosystem (‘datagov.eco’)**: O artigo apresenta o framework denominado ‘datagov.eco’, desenvolvido por meio da metodologia Design Science Research, visando o setor público. O modelo é direcionado a administradores, consultores, engenheiros de dados e cientistas de dados, abordando componentes essenciais como infraestrutura de dados, atores de dados, aspectos organizacionais, políticas e estratégias de dados, tecnologia de dados, gestão de dados e ciclo de vida, e criação de valor a partir de dados. O estudo enfatiza a importância da conformidade regulatória e da ética, abordando a transparência e a privacidade dos dados. Identifica lacunas na gestão de dados e propõe um nível de maturidade de IA que se aplica ao framework, destacando a necessidade de um modelo integrado para promover a governança de dados eficaz e a tomada de decisões baseadas em evidências no setor público.",
+    "data_extraction": {
+        "titulo": "A conceptual framework for the government big data ecosystem (‘datagov.eco’)",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Greece",
+        "metodo_pesquisa": "Design Science Research",
+        "publico_alvo_setor": "Public Administration",
+        "nome_framework_modelo": "datagov.eco",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O framework propõe a conformidade com políticas de dados, padrões e legislações para garantir a transparência e a proteção de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de um conjunto agregado e consolidado de componentes do GBDE e de um framework para o Governo Big Data Ecosystem.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

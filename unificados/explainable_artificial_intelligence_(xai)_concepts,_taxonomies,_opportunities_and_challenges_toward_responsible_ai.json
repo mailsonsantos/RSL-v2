@@ -1,0 +1,29 @@
+{
+    "id": 63,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Explainable Artificial Intelligence (XAI) Concepts, taxonomies, opportunities and challenges toward responsible AI.pdf",
+    "resumo": "1. **Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI**: O artigo apresenta uma revisão abrangente sobre a Inteligência Artificial Explicável (XAI), destacando a importância da explicabilidade na implementação prática de modelos de aprendizado de máquina (ML). O estudo propõe um novo framework conceitual para a explicabilidade, abordando a definição de XAI e suas dimensões, como a transparência e a interpretabilidade. Utilizando uma análise crítica da literatura, o artigo classifica as contribuições em duas categorias principais: modelos transparentes e técnicas de explicação pós-hoc. O foco recai sobre a explicabilidade em modelos de Deep Learning, onde são discutidos desafios e oportunidades, especialmente em relação à privacidade e à justiça. O conceito de \"Inteligência Artificial Responsável\" é introduzido, enfatizando a necessidade de alinhar a XAI com princípios éticos, como justiça, transparência e privacidade, e sugerindo direções futuras para pesquisa e implementação de práticas responsáveis em IA.",
+    "data_extraction": {
+        "titulo": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
+        "ano_publicacao": 2019,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Spain",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas",
+            "Metadados"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de um consenso sobre o que constitui a explicabilidade e a necessidade de métricas objetivas para medi-la.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": 50,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Managing AI-First Products Roles, Skills, Challenges, and Strategies of AI Product Managers.pdf",
+    "resumo": "1. **Managing AI-First Products: Roles, Skills, Challenges, and Strategies of AI Product Managers**: O artigo apresenta o framework \"AI PM Archetype Persona\", desenvolvido por meio de uma abordagem de teoria fundamentada, focando na gestão de produtos impulsionados por inteligência artificial (IA) no setor de tecnologia. O estudo identifica as responsabilidades expandidas dos gerentes de produto de IA (AI PMs), incluindo a gestão de dados, conformidade ética e regulatória, e a colaboração com equipes técnicas. As estratégias de governança de dados abordadas incluem práticas de transparência e prevenção de viés, com ênfase na conformidade com regulamentações como a GDPR. O artigo também destaca lacunas na gestão de dados, como a qualidade dos dados e a necessidade de métricas de desempenho adequadas, além de sugerir que o nível de maturidade da IA se relaciona com a complexidade do ciclo de vida do produto. As competências essenciais para AI PMs incluem proficiência técnica, habilidades de comunicação e pensamento crítico, refletindo a necessidade de adaptação contínua em um ambiente em rápida evolução.",
+    "data_extraction": {
+        "titulo": "Managing AI-First Products: Roles, Skills, Challenges, and Strategies of AI Product Managers",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United States",
+        "metodo_pesquisa": "Grounded Theory",
+        "publico_alvo_setor": "Tecnologia",
+        "nome_framework_modelo": "AI PM Archetype Persona Framework",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Implementação de práticas de IA responsável, incluindo conformidade com regulamentações como GDPR e a Lei de IA.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de compreensão sobre as responsabilidades, desafios e habilidades específicas dos gerentes de produtos de IA.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": 113,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A survey on privacy for B5G6G New privacy challenges, and research directions.pdf",
+    "resumo": "1. **A Survey on Privacy for B5G/6G: New Privacy Challenges, and Research Directions**: O artigo apresenta uma pesquisa abrangente sobre os desafios de privacidade nas redes B5G/6G, destacando a necessidade de um modelo de governança de dados robusto. Utilizando uma abordagem de Survey, o estudo se concentra em um público-alvo que inclui pesquisadores e profissionais da indústria de telecomunicações. Os componentes de governança discutidos incluem a implementação de políticas de privacidade, técnicas de anonimização e o uso de criptografia quântica e leve. O artigo também aborda a conformidade regulatória, enfatizando a importância de mecanismos que garantam a privacidade e a transparência, além de discutir as implicações éticas relacionadas ao uso de dados pessoais. Lacunas na gestão de dados são identificadas, especialmente em relação à integração de novas tecnologias e à maturidade da IA, sugerindo que o framework proposto deve ser adaptável e escalável para atender às exigências emergentes de privacidade.",
+    "data_extraction": {
+        "titulo": "A Survey on Privacy for B5G/6G: New Privacy Challenges, and Research Directions",
+        "ano_publicacao": 2022,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Ireland",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Telecomunicações",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A falta de discussão aprofundada sobre aspectos de privacidade nas redes B5G/6G e a necessidade de mais pesquisas sobre as implicações éticas e de privacidade das tecnologias emergentes.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

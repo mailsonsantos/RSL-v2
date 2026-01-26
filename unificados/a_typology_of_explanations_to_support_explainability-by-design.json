@@ -1,0 +1,29 @@
+{
+    "id": 1,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A typology of explanations to support Explainability-by-Design.pdf",
+    "resumo": "1. **A Typology of Explanations for Explainability-by-Design**: O artigo apresenta uma tipologia de explicações desenvolvida por meio de pesquisa empírica e co-criação com parceiros da indústria, focando nos setores financeiro e educacional. A metodologia utilizada é a Design Science Research, visando criar um framework que permita a geração sistemática de explicações em sistemas de decisão automatizados. A tipologia abrange nove dimensões, incluindo requisitos de explicação que atendem a obrigações legais, políticas de conformidade e necessidades de usuários. Mecanismos para garantir conformidade regulatória, como a transparência e a justiça, são abordados, assim como a necessidade de um engenheiro legal para traduzir requisitos legais em requisitos de explicação acionáveis. O estudo identifica lacunas na prática atual de explicações e sugere que a tipologia pode ser aplicada a sistemas de IA de alta maturidade, promovendo uma abordagem responsável à inovação e à governança de dados.",
+    "data_extraction": {
+        "titulo": "A Typology of Explanations for Explainability-by-Design",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Belgium",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Finance and Education",
+        "nome_framework_modelo": "Explainability-by-Design Typology",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O artigo discute a necessidade de um engenheiro legal que atua na interface entre as equipes de conformidade e engenharia para garantir que os requisitos de explicação sejam atendidos.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de um consenso sobre as métricas para avaliar métodos de explicação e a necessidade de uma abordagem sistemática para a geração de explicações para conformidade com o GDPR.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

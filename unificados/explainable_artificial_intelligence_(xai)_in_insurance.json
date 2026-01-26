@@ -1,0 +1,29 @@
+{
+    "id": 66,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Explainable Artificial Intelligence (XAI) in Insurance.pdf",
+    "resumo": "1. **Explainable Artificial Intelligence (XAI) in Insurance**: O artigo de Emer Owens et al. (2022) apresenta uma revisão sistemática sobre a aplicação de modelos de Inteligência Artificial Explicável (XAI) na indústria de seguros, utilizando uma abordagem de pesquisa de revisão sistemática. O público-alvo inclui profissionais do setor de seguros e reguladores. O estudo destaca a importância da transparência e da interpretabilidade dos modelos de IA, especialmente em práticas de gestão de sinistros, subscrição e precificação atuarial. Os autores identificam métodos de simplificação, como destilação de conhecimento e extração de regras, como as principais técnicas de XAI utilizadas. O artigo aborda também questões de conformidade regulatória, enfatizando a necessidade de garantir a privacidade e a transparência nas decisões automatizadas. As lacunas na literatura incluem a falta de definições claras de XAI e a necessidade de um modelo de governança que integre práticas éticas e de conformidade. O nível de maturidade da IA aplicado é considerado alto, refletindo a crescente adoção de técnicas de XAI na indústria.",
+    "data_extraction": {
+        "titulo": "Explainable Artificial Intelligence (XAI) in Insurance",
+        "ano_publicacao": 2022,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Ireland",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Indústria de Seguros",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas",
+            "Metadados"
+        ],
+        "mecanismos_conformidade": "A pesquisa discute a necessidade de conformidade com regulamentações como o GDPR, que exige transparência e explicabilidade em sistemas de IA.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de um consenso sobre definições de XAI e a avaliação da explicabilidade nos métodos de IA aplicados na indústria de seguros.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

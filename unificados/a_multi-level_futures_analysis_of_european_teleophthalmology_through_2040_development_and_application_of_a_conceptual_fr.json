@@ -1,0 +1,26 @@
+{
+    "id": 74,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A multi-level futures analysis of European teleophthalmology through_2040 development and application of a conceptual fr.pdf",
+    "resumo": "1. **A multi‑level futures analysis of European teleophthalmology through 2040: development and application of a conceptual framework for healthcare transformation**: O artigo de Yuksel Elgin e Elgin (2025) propõe um framework conceitual para a transformação da teleoftalmologia na Europa, utilizando a metodologia de estudos de futuro e teoria da inovação em saúde. O público-alvo abrange sistemas de saúde europeus, com foco na entrega de cuidados oftalmológicos. O framework analisa a transformação em níveis macro, meso e micro, abordando a interação entre inovação tecnológica, sistemas sociais e modelos de entrega de saúde. São discutidas estratégias de governança de dados, incluindo a equidade no acesso e a adaptação profissional, além de questões éticas como privacidade e transparência. O estudo identifica lacunas na implementação da teleoftalmologia e sugere que o nível de maturidade da IA varia conforme a adoção regional, destacando a necessidade de uma abordagem adaptativa para enfrentar desafios regulatórios e garantir a eficácia na entrega de cuidados.",
+    "data_extraction": {
+        "titulo": "A multi‑level futures analysis of European teleophthalmology through 2040: development and application of a conceptual framework for healthcare transformation",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Turkey",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Multi-Level Framework",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Desafios na implementação de teleoftalmologia, incluindo questões de equidade em saúde, governança de dados e adaptação profissional.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

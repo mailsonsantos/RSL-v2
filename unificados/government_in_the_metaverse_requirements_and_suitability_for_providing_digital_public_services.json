@@ -1,0 +1,27 @@
+{
+    "id": 23,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Government in the metaverse Requirements and suitability for providing digital public services.pdf",
+    "resumo": "1. **Government in the Metaverse: Requirements and Suitability for Providing Digital Public Services**: O artigo de Lnenicka et al. (2024) propõe um framework para a arquitetura do metaverso, utilizando uma abordagem de Revisão Sistemática da Literatura e avaliação de especialistas via método Delphi, focando no setor público da União Europeia. O estudo identifica e classifica 50 requisitos funcionais e 16 não funcionais para a provisão de serviços públicos digitais, destacando a importância de requisitos como computação em nuvem, tecnologias de modelagem 3D e privacidade. As estratégias de governança abordadas incluem a necessidade de um quadro legal robusto e a promoção da acessibilidade e inclusão digital. O artigo também discute lacunas na gestão de dados e a maturidade da IA, sugerindo que o metaverso pode não ser adequado para todos os tipos de serviços, mas é promissor para aqueles que empoderam os cidadãos. As dimensões éticas, como privacidade e segurança, são enfatizadas, refletindo a complexidade da implementação de serviços públicos no metaverso.",
+    "data_extraction": {
+        "titulo": "Government in the metaverse: Requirements and suitability for providing digital public services",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Czech Republic",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Setor público",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de uma classificação adequada de requisitos relacionados ao metaverso e sua aplicabilidade na entrega de serviços públicos digitais.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

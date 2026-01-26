@@ -1,0 +1,25 @@
+{
+    "id": 27,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Fusion of Federated Learning and Industrial Internet of Things A survey.pdf",
+    "resumo": "1. **Fusion of Federated Learning and Industrial Internet of Things: A Survey**: O artigo apresenta uma revisão abrangente sobre a integração do aprendizado federado (FL) com a Internet das Coisas Industrial (IIoT), publicado em 2021. O estudo não propõe um framework específico, mas utiliza uma abordagem de Survey para explorar as características e fundamentos do IIoT e do FL, destacando a importância da preservação da privacidade e da gestão de dados. O público-alvo inclui setores industriais como saúde e automotivo, onde a aplicação de FL pode melhorar a segurança e a eficiência na gestão de dados. O artigo menciona estratégias de governança de dados, como a preservação da privacidade e a redução de custos de comunicação, além de abordar questões éticas relacionadas à segurança e à transparência. Lacunas na literatura incluem a necessidade de soluções para desafios de segurança e a maturidade do uso de IA em ambientes de IIoT, com ênfase na necessidade de pesquisas futuras para abordar esses desafios.",
+    "data_extraction": {
+        "titulo": "Fusion of Federated Learning and Industrial Internet of Things: A Survey",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "India",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Indústria",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a preservação da privacidade dos dados e a segurança através da aprendizagem federada, evitando a transferência de dados sensíveis para servidores centrais.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de uma pesquisa abrangente que forneça uma visão geral da aprendizagem federada e da Internet Industrial das Coisas (IIoT) e suas aplicações.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

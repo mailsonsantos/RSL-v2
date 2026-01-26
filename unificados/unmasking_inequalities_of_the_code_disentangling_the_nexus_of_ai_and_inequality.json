@@ -1,0 +1,26 @@
+{
+    "id": 107,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Unmasking inequalities of the code Disentangling the nexus of AI and inequality.pdf",
+    "resumo": "1. **Unmasking Inequalities of the Code: Disentangling the Nexus of AI and Inequality**: O artigo de Bircan e Özbilgin (2024) explora a interseção entre inteligência artificial (IA) e desigualdade, utilizando o framework de realismo social de Margaret Archer. A pesquisa adota uma abordagem interdisciplinar, combinando métodos qualitativos e quantitativos, e se concentra em setores como saúde, educação e justiça. Os autores discutem estratégias de governança de dados, enfatizando a necessidade de modelos de co-propriedade e a consideração de sistemas de IA como entidades legais para garantir responsabilidade e justiça social. O estudo aborda questões de conformidade regulatória, destacando a privacidade e a transparência, e identifica lacunas na gestão de dados que perpetuam desigualdades. O nível de maturidade da IA é considerado baixo, com a necessidade de um compromisso contínuo com a justiça social e a inclusão para mitigar as desigualdades exacerbadas pela tecnologia.",
+    "data_extraction": {
+        "titulo": "Unmasking Inequalities of the Code: Disentangling the Nexus of AI and Inequality",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Não mencionado",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Margaret Archer's social realism framework",
+        "componentes_governanca": [
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Reconhecimento de sistemas de IA como entidades legais para responsabilidade e compensação em casos de violação de privacidade.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de interdisciplinaridade no desenvolvimento de IA e a necessidade de estruturas de governança de dados robustas.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

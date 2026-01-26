@@ -1,0 +1,25 @@
+{
+    "id": 42,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Enhancing AI System Privacy An Automatic Tool for Achieving GDPR Compliance in NoSQL Databases.pdf",
+    "resumo": "1. **Enhancing AI System Privacy: An Automatic Tool for Achieving GDPR Compliance in NoSQL Databases**: O artigo apresenta uma ferramenta automatizada para auxiliar na conformidade com o GDPR em bancos de dados NoSQL, desenvolvida por meio de uma pesquisa de Design Science. O público-alvo são organizações que utilizam sistemas de IA e bancos de dados NoSQL, enfrentando desafios na identificação de informações pessoais em resposta a solicitações de acesso a dados (DSAR). A ferramenta utiliza estratégias de extração de esquemas e identificação de relacionamentos a partir de logs de consultas, visando garantir a conformidade regulatória e abordar questões éticas como privacidade e transparência. As lacunas identificadas incluem a dificuldade em rastrear dados pessoais em estruturas de dados não relacionais e a necessidade de um nível de maturidade de IA que permita a automação parcial do processo, reduzindo o esforço manual e o risco de não conformidade. A avaliação da ferramenta em três conjuntos de dados demonstrou eficácia na identificação de informações relevantes, com pontuações F1 variando de 0,77 a 1.",
+    "data_extraction": {
+        "titulo": "Enhancing AI System Privacy: An Automatic Tool for Achieving GDPR Compliance in NoSQL Databases",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "China",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Organizações que utilizam bancos de dados NoSQL",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Ferramenta automatizada para identificar informações pessoais e ajudar na resposta a solicitações de acesso de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Desafios na identificação de dados pessoais em bancos de dados NoSQL devido à falta de esquemas explícitos e relacionamentos.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

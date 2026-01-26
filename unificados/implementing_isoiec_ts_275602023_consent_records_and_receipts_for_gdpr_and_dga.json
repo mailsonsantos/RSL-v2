@@ -1,0 +1,26 @@
+{
+    "id": 62,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Implementing ISOIEC TS 275602023 Consent Records and Receipts for GDPR_and DGA.pdf",
+    "resumo": "1. **Implementando ISO/IEC TS 27560:2023 Registros de Consentimento e Recibos para GDPR e DGA**: O artigo apresenta a norma ISO/IEC TS 27560:2023, que fornece uma estrutura de informação para registros de consentimento, desenvolvida através de uma análise comparativa entre esta norma, a ISO/IEC 29184:2020 e o Regulamento Geral sobre a Proteção de Dados (GDPR). A pesquisa utiliza um método de Design Science Research, focando em setores que lidam com dados pessoais. O framework proposto visa garantir a conformidade com o GDPR e o Ato de Governança de Dados (DGA) por meio de registros de consentimento interoperáveis e legíveis por máquina. Os componentes de governança abordados incluem a documentação de consentimento, políticas de privacidade e a estruturação de recibos de consentimento. O artigo discute também a conformidade regulatória, enfatizando a privacidade e a transparência, e identifica lacunas na gestão de dados, sugerindo que o framework se aplica a um nível de maturidade de IA em desenvolvimento.",
+    "data_extraction": {
+        "titulo": "Implementing ISO/IEC TS 27560:2023 Consent Records and Receipts for GDPR and DGA",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Ireland",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Privacidade e Proteção de Dados",
+        "nome_framework_modelo": "ISO/IEC TS 27560:2023",
+        "componentes_governanca": [
+            "Políticas",
+            "Metadados"
+        ],
+        "mecanismos_conformidade": "O artigo discute a implementação de registros de consentimento e recibos que atendem aos requisitos do GDPR e do DGA, utilizando a estrutura proposta pelo ISO/IEC TS 27560:2023.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A necessidade de um padrão comum para formulários de consentimento que sejam legíveis por máquinas e humanos, e a falta de requisitos legais claros para recibos de consentimento.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}

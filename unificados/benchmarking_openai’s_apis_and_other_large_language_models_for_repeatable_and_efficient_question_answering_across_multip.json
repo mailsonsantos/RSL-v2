@@ -1,0 +1,25 @@
+{
+    "id": 67,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Benchmarking OpenAI’s APIs and other Large Language Models for Repeatable and Efficient Question Answering Across Multip.pdf",
+    "resumo": "1. **Benchmarking OpenAI’s APIs and other Large Language Models for Repeatable and Efficient Question Answering Across Multiple Documents**: O artigo apresenta uma avaliação da eficiência e repetibilidade das APIs da OpenAI e de outros Modelos de Linguagem de Grande Escala (LLMs) na automação de tarefas de perguntas e respostas em documentos, com foco em políticas de privacidade de dados de provedores de EdTech. Utilizando uma abordagem de pesquisa experimental, os autores testam diferentes métodos, incluindo chamadas diretas de API, LangChain e sistemas de Geração Aumentada por Recuperação (RAG). O público-alvo é o setor educacional, especificamente provedores de tecnologia educacional. O estudo discute estratégias de governança de dados, como a automação da análise de documentos, e aborda a conformidade com o GDPR, enfatizando a importância da privacidade e da transparência. As lacunas identificadas incluem a necessidade de otimização na análise de grandes volumes de texto e a maturidade da IA aplicada, sugerindo que o uso de LLMs pode melhorar a eficiência na governança de dados, especialmente em contextos onde a infraestrutura local é limitada.",
+    "data_extraction": {
+        "titulo": "Benchmarking OpenAI’s APIs and other Large Language Models for Repeatable and Efficient Question Answering Across Multiple Documents",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Macedonia",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Educação",
+        "nome_framework_modelo": "LangChain, RAG",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Avaliação da conformidade com a GDPR através de perguntas específicas sobre políticas de privacidade.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Necessidade de soluções escaláveis para análise de documentos que garantam a conformidade com a GDPR.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    }
+}
