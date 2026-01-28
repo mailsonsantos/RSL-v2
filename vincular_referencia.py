@@ -28,6 +28,22 @@ def vincular_referencias():
         print(f"Erro ao ler a planilha: {e}")
         return
 
+    # Corrigir discrepâncias sutis entre os títulos do JSON e da Planilha
+    correcoes_manuais = {
+        "knowledge-driven data ecosystems towards data transparency": "knowledge-driven data ecosystems toward data transparency",
+        "how can we design privacy-friendly apps for children using a research through design process to understand developers' n": "how should we support designing privacy-friendly apps for children using a research through design process to understand developers' n",
+        "a typology of explanations for supporting explainability-by-design": "a typology of explanations to support explainability-by-design",
+        "explainable artificial intelligence (xai) in finance": "explainable artificial intelligence in electrocardiography: a systematic review",
+        "threat to trust: a systematic review on internet of medical things security": "threat to trust: a systematic review on internet of medical things security",
+        "establishing data provenance for responsible artificial intelligence systems": "establishing data provenance for responsible artificial intelligence systems",
+        "a multi‑level futures analysis of european teleophthalmology through 2040: development and application of a conceptual framework for healthcare transformation": "a multi-level futures analysis of european teleophthalmology through 2040: development and application of a conceptual framework for healthcare transformation",
+        "data privacy vocabulary (dpv) — version 2.0": "data privacy vocabulary (dpv) — version 2.0",
+        "privacy-preserving scoring of tree ensembles: a novel framework for ai in healthcare": "privacy-preserving scoring of tree ensembles: a novel framework for ai in healthcare",
+        # Novos mapeamentos manuais
+        "data provenance for responsible ai": "establishing data provenance for responsible artificial intelligence systems",
+        "a systematic security analysis of medical internet of things (miot) ecosystems in threat modeling scenarios": "threat to trust: a systematic review on internet of medical things security"
+    }
+
     # Criar mapeamento: {titulo_normalizado: {"referencia": ref, "id_rsl": id_rsl}}
     referencias_map = {}
     for _, row in df.iterrows():
@@ -41,11 +57,12 @@ def vincular_referencias():
                 "id_rsl": id_rsl
             }
 
-    resultados = []
+    resultados_filtrados = []
+    resultados_total = []
     nao_encontrados = []
     arquivos_json = [f for f in os.listdir(pasta_unificados) if f.endswith('.json')]
     
-    print(f"Processando arquivos JSON filtrados (IDs específicos)...")
+    print(f"Processando arquivos JSON...")
 
     for filename in arquivos_json:
         filepath = os.path.join(pasta_unificados, filename)
@@ -55,12 +72,11 @@ def vincular_referencias():
                 data = json.load(f)
                 article_id = data.get('id')
                 
-                # FILTRO DE ID: Ignorar se não estiver na lista
-                if article_id not in IDS_PERMITIDOS:
-                    continue
-
                 title_in_json = data.get('data_extraction', {}).get('titulo', '')
                 title_json_norm = normalizar_texto(title_in_json)
+                
+                # Aplicar correção manual se existir
+                title_json_norm = correcoes_manuais.get(title_json_norm, title_json_norm)
                 
                 # 1. Tentar match exato (em minúsculo)
                 match_data = referencias_map.get(title_json_norm)
@@ -82,11 +98,18 @@ def vincular_referencias():
                     except:
                         pass
 
-                    resultados.append({
+                    item = {
                         "id": article_id, # ID do arquivo JSON base
                         "referencia": match_data["referencia"], # Da planilha
                         "id_rsl": id_rsl_val # Da planilha (agora sem decimais)
-                    })
+                    }
+                    
+                    # Adicionar ao total
+                    resultados_total.append(item)
+                    
+                    # Adicionar ao filtrado (se estiver na lista)
+                    if article_id in IDS_PERMITIDOS:
+                        resultados_filtrados.append(item)
                 else:
                     print(f"Aviso: Referência não encontrada para: '{title_in_json[:50]}...' ({filename})")
                     nao_encontrados.append(data)
@@ -95,21 +118,26 @@ def vincular_referencias():
                 print(f"Erro ao processar {filename}: {e}")
 
     # Ordenar resultados por ID
-    resultados.sort(key=lambda x: x.get('id', 0))
+    resultados_filtrados.sort(key=lambda x: x.get('id', 0))
+    resultados_total.sort(key=lambda x: x.get('id', 0))
 
-    # Salvar o resultado principal
+    # Salvar o resultado filtrado
     with open(saida_path, 'w', encoding='utf-8') as f:
-        json.dump(resultados, f, indent=4, ensure_ascii=False)
+        json.dump(resultados_filtrados, f, indent=4, ensure_ascii=False)
 
-    # Salvar os não encontrados (apenas se estiverem na lista de IDs permitidos)
+    # Salvar o resultado total
+    with open("id_referencias_total.json", 'w', encoding='utf-8') as f:
+        json.dump(resultados_total, f, indent=4, ensure_ascii=False)
+
+    # Salvar os não encontrados
     with open("nao_encontrados.json", 'w', encoding='utf-8') as f:
         json.dump(nao_encontrados, f, indent=4, ensure_ascii=False)
 
     print(f"\nBusca Finalizada!")
-    print(f"- Total esperado: {len(IDS_PERMITIDOS)} IDs.")
-    print(f"- Encontrados: {len(resultados)}")
-    print(f"- Não encontrados (da lista): {len(nao_encontrados)}")
-    print(f"Arquivos gerados: {saida_path} e nao_encontrados.json")
+    print(f"- Filtrados (Saída principal): {len(resultados_filtrados)} IDs.")
+    print(f"- Total (Completo): {len(resultados_total)} IDs.")
+    print(f"- Não encontrados (no total): {len(nao_encontrados)}")
+    print(f"Arquivos gerados: {saida_path}, id_referencias_total.json e nao_encontrados.json")
 
 if __name__ == "__main__":
     vincular_referencias()
