@@ -1,0 +1,29 @@
+{
+    "id": 13,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A Versatile Data Fabric for Advanced IoT-Based Remote Health Monitoring.pdf",
+    "resumo": "1. **A Versatile Data Fabric for Advanced IoT-Based Remote Health Monitoring**: O artigo apresenta um framework de data fabric voltado para aplicações de saúde digital, publicado em 2023, utilizando a metodologia de pesquisa de Design Science Research. O público-alvo é o setor de saúde, especificamente em monitoramento remoto de saúde de idosos. O modelo proposto integra diversas fontes de dados, incluindo sensores IoT e aplicativos móveis, e enfatiza a governança de dados por meio de um gerenciador de tarefas clínicas que valida dados críticos e assegura conformidade regulatória. Mecanismos de conformidade e ética são abordados, focando na privacidade e segurança dos dados, com a utilização de um vocabulário digital de saúde para garantir a integridade dos dados. O estudo identifica lacunas na flexibilidade de integração de dados e sugere um nível de maturidade de IA que permite a reutilização de componentes em uma abordagem de baixo código. A implementação do framework em um estudo de telemonitoramento domiciliar demonstra sua eficácia na integração e visualização de dados de saúde.",
+    "data_extraction": {
+        "titulo": "A Versatile Data Fabric for Advanced IoT-Based Remote Health Monitoring",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "USA",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde Digital",
+        "nome_framework_modelo": "Data Fabric",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Cumprimento de obrigações regulatórias e contratuais.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Necessidade de suporte a catálogo de dados e linhagem de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 122,
+    "referencia": "BULEJE, Italo; SIU, Vince S.; HSIEH, Kuan Yu; HINDS, Nigel; DANG, Bing; BILAL, Erhan; NGUYEN, Thanhnha; LEE, Ellen E.; DEPP, Colin A.; ROGERS, Jeffrey L.. A Versatile Data Fabric for Advanced IoT-Based Remote Health Monitoring. p. 88-90, 2023. Available at: https://doi.org/10.1109/ICDH60066.2023.00021. Accessed on: 10 Jul. 2025."
+}

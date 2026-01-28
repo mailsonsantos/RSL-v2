@@ -1,0 +1,27 @@
+{
+    "id": 103,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Protecting Sensitive Data with Secure Data Enclaves.pdf",
+    "resumo": "1. **Protecting Sensitive Data with Secure Data Enclaves**: O artigo apresenta o modelo de Secure Data Enclave, desenvolvido por meio de pesquisa aplicada e implementado no setor público, visando a proteção de dados sensíveis. A metodologia inclui a utilização de serviços gerenciados em nuvem, com foco em controles técnicos e de governança que garantem a segurança e a conformidade regulatória, como a LGPD e HIPAA. Os componentes de governança abordam a transparência no acesso e auditoria de dados, enquanto as dimensões éticas incluem a privacidade e a responsabilidade no uso de dados. O estudo identifica lacunas na gestão de dados, especialmente na integração de sistemas e na conformidade com múltiplos frameworks de segurança, e sugere que o modelo se aplica a um nível de maturidade de IA em desenvolvimento, permitindo a colaboração entre agências governamentais e pesquisadores para a análise de dados administrativos.",
+    "data_extraction": {
+        "titulo": "Protecting Sensitive Data with Secure Data Enclaves",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "USA",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Setor Público",
+        "nome_framework_modelo": "Secure Data Enclave",
+        "componentes_governanca": [
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O modelo de uso de dados permite que o proprietário dos dados mantenha a custódia dos dados e controle total sobre o acesso e uso, garantindo auditoria e transparência.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Desafios na aplicação de métodos de IA e aprendizado de máquina em dados sensíveis devido a riscos de compartilhamento de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 70,
+    "referencia": "HOWISON, Mark; ANGELL, Mintaka; HASTINGS, Justine S.. Protecting Sensitive Data with Secure Data Enclaves. Digit. Gov.: Res. Pract., v. 5, 2024. Available at: https://doi.org/10.1145/3643686. Accessed on: 10 Jul. 2025."
+}

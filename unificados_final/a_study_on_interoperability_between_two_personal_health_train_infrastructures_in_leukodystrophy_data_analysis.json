@@ -1,0 +1,28 @@
+{
+    "id": 8,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A study on interoperability between two Personal Health Train_infrastructures in leukodystrophy data analysis.pdf",
+    "resumo": "1. **A study on interoperability between two Personal Health Train infrastructures in leukodystrophy data analysis**: O artigo apresenta um framework conceitual para a interoperabilidade entre duas infraestruturas do Personal Health Train (PHT), desenvolvido por meio de um Estudo de Caso focado na análise de dados de leucodistrofia. O público-alvo é o setor de saúde, especificamente instituições que lidam com dados médicos sensíveis. O framework aborda cinco requisitos essenciais: integração de dados, identificação unificada de estações, metadados mútuos, protocolos de segurança alinhados e lógica de negócios. Mecanismos de conformidade regulatória são garantidos através de protocolos de segurança modularizados, enquanto questões éticas como privacidade e transparência são consideradas. O estudo identifica lacunas na interoperabilidade entre diferentes ecossistemas PHT e sugere que o nível de maturidade da IA se aplica a sistemas que utilizam análise distribuída. Os resultados demonstram a viabilidade técnica da interoperabilidade, permitindo análises cruzadas entre instituições, e destacam a eficiência em comparação com a estratégia de multi-homing.",
+    "data_extraction": {
+        "titulo": "A study on interoperability between two Personal Health Train infrastructures in leukodystrophy data analysis",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Framework de Interoperabilidade PHT",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O estudo aborda a conformidade com regulamentos de proteção de dados e a necessidade de manter a soberania dos dados nas instituições de saúde.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Desafios na interoperabilidade entre diferentes infraestruturas PHT e a necessidade de um esquema de dados comum.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 26,
+    "referencia": "WELTEN, Sascha; HERR, Marius de Arruda Botelho; HEMPEL, Lars; HIEBER, David; PLACZEK, Peter; GRAF, Michael; WEBER, Sven; NEUMANN, Laurenz; JUGL, Maximilian; TIRPITZ, Liam; KINDERMANN, Karl; GEISLER, Sandra; SANTOS, Luiz Olavo Bonino da Silva; DECKER, Stefan; PFEIFER, Nico; KOHLBACHER, Oliver; KIRSTEN, Toralf. A study on interoperability between two Personal Health Train infrastructures in leukodystrophy data analysis. SCIENTIFIC DATA, v. 11, 2024. Available at: https://doi.org/10.1038/s41597-024-03450-6. Accessed on: 10 Jul. 2025."
+}

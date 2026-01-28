@@ -1,0 +1,28 @@
+{
+    "id": 21,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/An advanced data fabric architecture leveraging homomorphic encryption and federated learning.pdf",
+    "resumo": "1. **An Advanced Data Fabric Architecture Leveraging Homomorphic Encryption and Federated Learning**: O artigo apresenta uma arquitetura avançada de data fabric que utiliza aprendizado federado e criptografia homomórfica parcial para análise segura de imagens médicas, publicada em 2024. O método de pesquisa adotado é um estudo de caso focado no setor de saúde, especificamente na classificação de tumores pituitários. A pesquisa propõe um framework que integra estratégias de governança de dados, incluindo a gestão de dados descentralizada e a preservação da privacidade, em conformidade com regulamentações como HIPAA e GDPR. As dimensões éticas abordadas incluem a privacidade e a segurança dos dados, com ênfase na transparência e na minimização de viés. O estudo identifica lacunas na gestão de dados, especialmente na necessidade de arquiteturas que garantam a segurança e a eficiência no processamento de dados sensíveis, e sugere que o nível de maturidade da IA se aplica a sistemas que utilizam aprendizado federado e criptografia homomórfica.",
+    "data_extraction": {
+        "titulo": "An Advanced Data Fabric Architecture Leveraging Homomorphic Encryption and Federated Learning",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Bangladesh",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Data Fabric Architecture",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "A abordagem cumpre leis e regulamentos como HIPAA e GDPR, garantindo a privacidade e segurança dos dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A necessidade de uma arquitetura eficaz e segura para lidar com dados sensíveis de imagem médica.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 3,
+    "referencia": "RIEYAN, Sakib Anwar; NEWS, Md. Raisul Kabir; RAHMAN, A.B.M. Muntasir; KHAN, Sadia Afrin; ZAARIF, Sultan Tasneem Jawad; ALAM, Md. Golam Rabiul; HASSAN, Mohammad Mehedi; IANNI, Michele; FORTINO, Giancarlo. An advanced data fabric architecture leveraging homomorphic encryption and federated learning. Information Fusion, vol. 102, pp. 102004, 2024. https://doi.org/10.1016/j.inffus.2023.102004. Accessed on: 10 Jul. 2025."
+}

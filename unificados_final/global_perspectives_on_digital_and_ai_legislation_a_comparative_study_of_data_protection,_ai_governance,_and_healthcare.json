@@ -1,0 +1,29 @@
+{
+    "id": 77,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Global Perspectives on Digital and AI Legislation A Comparative Study_of Data Protection, AI Governance, and Healthcare.pdf",
+    "resumo": "1. **Global Perspectives on Digital and AI Legislation: A Comparative Study of Data Protection, AI Governance, and Healthcare Innovations with a Focus on Romania**: O artigo analisa as abordagens globais de governança de dados e inteligência artificial (IA), com ênfase na implementação da regulamentação da União Europeia (UE) em relação à Romênia, utilizando uma metodologia de métodos mistos que combina análise legislativa, estudo comparativo e estudo de caso setorial. O público-alvo é o setor de saúde, onde são discutidas inovações impulsionadas por IA, como diagnósticos assistidos por IA e telemedicina. O estudo destaca a necessidade de investimentos em infraestrutura digital e a importância de colaborações público-privadas para garantir a conformidade com o Regulamento Geral sobre a Proteção de Dados (GDPR) e a Lei de IA. As dimensões éticas abordadas incluem privacidade e transparência, enquanto as lacunas identificadas na gestão de dados incluem a adaptação lenta às regulamentações da UE e a falta de infraestrutura digital. O nível de maturidade da IA ao qual o framework se aplica é considerado inicial, com desafios significativos na implementação de sistemas de saúde centralizados.",
+    "data_extraction": {
+        "titulo": "Global Perspectives on Digital and AI Legislation: A Comparative Study of Data Protection, AI Governance, and Healthcare Innovations with a Focus on Romania",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Romania",
+        "metodo_pesquisa": "Mixed-methods",
+        "publico_alvo_setor": "Healthcare",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Compliance with GDPR and AI Act, focusing on public-private collaboration and regulatory adaptation.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Gap in research examining the interplay between data protection and AI governance in diverse regional contexts.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 117,
+    "referencia": "FRANCU, Cristian Constantin; SAVA, Stefan. Global Perspectives on Digital and AI Legislation: A Comparative Study of Data Protection, AI Governance, and Healthcare Innovations with a Focus on Romania. PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON BUSINESS EXCELLENCE, vol. 19, pp. 2469-2481, 2025. https://doi.org/10.2478/picbe-2025-0191. Accessed on: 10 Jul. 2025."
+}

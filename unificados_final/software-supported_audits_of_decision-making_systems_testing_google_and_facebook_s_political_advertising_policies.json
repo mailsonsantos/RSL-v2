@@ -1,0 +1,28 @@
+{
+    "id": 110,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Software-Supported Audits of Decision-Making Systems Testing Google and Facebook_s Political Advertising Policies.pdf",
+    "resumo": "1. **Software-Supported Audits of Decision-Making Systems: Testing Google and Facebook’s Political Advertising Policies**: O artigo apresenta um estudo que desenvolve um software para auditoria de sistemas de decisão em publicidade política, utilizando a abordagem de Design Science Research, focando nas políticas de anúncios do Facebook e Google durante as eleições de 2018 nos EUA. O público-alvo inclui pesquisadores e reguladores no setor de tecnologia e publicidade. O estudo identifica estratégias de auditoria e mecanismos de conformidade regulatória, abordando questões éticas como privacidade e transparência. As lacunas na gestão de dados incluem a dificuldade em detectar erros sistemáticos em sistemas complexos, enquanto o nível de maturidade da IA aplicado é considerado médio, dado que o software melhora a validade das auditorias, mas ainda enfrenta limitações em termos de complexidade e custo. Os resultados revelam erros sistemáticos na proibição de anúncios não eleitorais pelo Facebook, destacando a importância de auditorias independentes para a responsabilização das plataformas.",
+    "data_extraction": {
+        "titulo": "Software-Supported Audits of Decision-Making Systems: Testing Google and Facebook’s Political Advertising Policies",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "United States of America",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Política e Publicidade",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O estudo seguiu práticas padrão de ética em pesquisa acadêmica, buscando consentimento dos testadores, armazenando todos os dados de forma segura, anonimizando os dados e minimizando o número de pessoas expostas aos anúncios.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A pesquisa não aborda se as plataformas são permissivas em suas políticas de publicidade política, o que introduz riscos legais e éticos significativos.",
+        "nivel_maturidade_ia": "Monitoramento"
+    },
+    "id_original": 87,
+    "referencia": "MATIAS, J. Nathan; HOUNSEL, Austin; FEAMSTER, Nick. Software-Supported Audits of Decision-Making Systems: Testing Google and Facebook's Political Advertising Policies. Proc. ACM Hum.-Comput. Interact., v. 6, 2022. Available at: https://doi.org/10.1145/3512965. Accessed on: 10 Jul. 2025."
+}

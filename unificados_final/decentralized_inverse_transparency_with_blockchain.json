@@ -1,0 +1,27 @@
+{
+    "id": 44,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Decentralized Inverse Transparency with Blockchain.pdf",
+    "resumo": "1. **Decentralized Inverse Transparency With Blockchain**: O artigo apresenta o sistema Kovacs, um log de uso descentralizado que utiliza blockchain para garantir a transparência inversa, publicado em 2023. O método de pesquisa adotado é o Design Science Research, focado em ambientes de trabalho. O Kovacs propõe um protocolo de nova utilização que assegura a não-repudiação e um algoritmo de geração de pseudônimos que garante a anonimização e a prova de propriedade, abordando assim as lacunas na gestão de dados pessoais. O sistema é projetado para atender às exigências do GDPR, especialmente no que diz respeito à confidencialidade e ao direito de apagamento, permitindo que os indivíduos exerçam controle sobre seus dados. O artigo discute a conformidade regulatória e as dimensões éticas, como a privacidade e a transparência, e identifica lacunas na implementação de logs de uso que não dependem de terceiros confiáveis. O nível de maturidade de IA ao qual o framework se aplica é considerado alto, com a implementação demonstrando viabilidade em termos de segurança da informação e escalabilidade.",
+    "data_extraction": {
+        "titulo": "Decentralized Inverse Transparency With Blockchain",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Trabalho",
+        "nome_framework_modelo": "Kovacs",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O sistema Kovacs garante a conformidade com a GDPR através da geração de pseudônimos e do protocolo de nova utilização, que assegura a não-repudiação e a confidencialidade dos dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A necessidade de garantir a não-repudiação em ambientes descentralizados e a conformidade com a legislação de privacidade, como a GDPR.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 31,
+    "referencia": "ZIEGLMEIER, Valentin; LOYOLA DAIQUI, Gabriel; PRETSCHNER, Alexander. Decentralized Inverse Transparency with Blockchain. Distrib. Ledger Technol., v. 2, 2023. Available at: https://doi.org/10.1145/3592624. Accessed on: 10 Jul. 2025."
+}

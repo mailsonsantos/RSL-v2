@@ -1,0 +1,29 @@
+{
+    "id": 76,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Global norms and regional innovation GDPR, evolution of data_protection in ASEAN and the legal trajectory of AI in Vietn.pdf",
+    "resumo": "1. **Global norms and regional innovation: GDPR, evolution of data protection in ASEAN and the legal trajectory of AI in Vietnam**: O artigo analisa a influência do Regulamento Geral sobre a Proteção de Dados (GDPR) da União Europeia nas legislações de proteção de dados dos países da ASEAN, com foco no caso do Vietnã, utilizando uma abordagem doutrinária e comparativa. O público-alvo inclui formuladores de políticas e acadêmicos no contexto da transformação digital na região. O estudo destaca a integração de disposições relacionadas à inteligência artificial (IA) na nova Lei de Proteção de Dados Pessoais do Vietnã, refletindo tanto a adaptação local quanto a conformidade com normas globais. As lacunas identificadas incluem a falta de direitos específicos para decisões automatizadas e a necessidade de coordenação entre ministérios. O nível de maturidade da IA no Vietnã é considerado em desenvolvimento, com um modelo regulatório que busca equilibrar inovação e proteção de dados.",
+    "data_extraction": {
+        "titulo": "Global norms and regional innovation: GDPR, evolution of data protection in ASEAN and the legal trajectory of AI in Vietnam",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Vietnam",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Policymakers, businesses and scholars",
+        "nome_framework_modelo": "V-PDPL",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O estudo analisa como os estados membros da ASEAN estão respondendo às pressões globais, enquanto abordam os desafios distintos da governança de dados e da integração regional de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de direitos específicos para decisões automatizadas e coordenação entre ministérios relevantes.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 49,
+    "referencia": "LE, Cong Tran Quoc; TRAN, Viet Dung; NGUYEN, Dao Phuong Thuy. Global norms and regional innovation: GDPR, evolution of data protection in ASEAN and the legal trajectory of AI in Vietnam. TALTECH JOURNAL OF EUROPEAN STUDIES, vol. 15, pp. 250-290, 2025. https://doi.org/10.2478/bjes-2025-0039. Accessed on: 10 Jul. 2025."
+}

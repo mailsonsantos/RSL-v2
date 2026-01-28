@@ -1,0 +1,27 @@
+{
+    "id": 7,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A Review on Vision-Language-Based Approaches Challenges and Applications.pdf",
+    "resumo": "1. **A Review on Vision-Language-Based Approaches: Challenges and Applications**: O artigo apresenta uma revisão abrangente sobre modelos de linguagem-visual (VLMs), com foco no Bootstrapping Language-Image Pre-training (BLIP) e outras técnicas de VLP, utilizando uma abordagem de revisão sistemática. O público-alvo inclui pesquisadores e profissionais nas áreas de inteligência artificial e aprendizado de máquina, com aplicações em setores como saúde e automação. O estudo discute componentes de governança de dados, como a necessidade de escalabilidade e qualidade dos dados, além de abordar questões éticas relacionadas à privacidade e viés. Identifica lacunas na compreensão prática das VLMs e sugere que o nível de maturidade da IA se aplica a modelos que ainda enfrentam desafios em interpretabilidade e generalização. O artigo conclui com direções futuras para pesquisa, enfatizando a importância de melhorar a integração multimodal e a transparência nos modelos.",
+    "data_extraction": {
+        "titulo": "A Review on Vision-Language-Based Approaches: Challenges and Applications",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Vietnam",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Bootstrapping Language-Image Pre-training (BLIP)",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Não mencionado",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 121,
+    "referencia": "HO, Huu-Tuong; NGUYEN, Luong Vuong; PHAM, Minh-Tien; PHAM, Quang-Huy; TRAN, Quang-Duong; HUY, Duong Nguyen Minh; NGUYEN, Tri-Hai. A Review on Vision-Language-Based Approaches: Challenges and Applications. Computers, Materials and Continua, v. 82, p. 1733-1756, 2025. Available at: https://doi.org/10.32604/cmc.2025.060363. Accessed on: 10 Jul. 2025."
+}

@@ -1,0 +1,28 @@
+{
+    "id": 6,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A Privacy-Preserving Blockchain Platform for a Data Marketplace.pdf",
+    "resumo": "1. **A Privacy-Preserving Blockchain Platform for a Data Marketplace**: O artigo de Valente Klaine et al. (2023) propõe um framework de blockchain para um marketplace de dados, desenvolvido através de Design Science Research, com foco em setores que utilizam Internet das Coisas (IoT). O modelo aborda a governança de dados por meio de mecanismos de controle de acesso e transações, garantindo a privacidade e a propriedade dos dados gerados pelos usuários. As estratégias de governança incluem a utilização de contratos inteligentes para regular o acesso e a troca de dados, além de um sistema de reputação para monitorar a qualidade e a similaridade dos dados. O estudo discute a conformidade regulatória e as dimensões éticas, como a privacidade e a transparência, enfatizando a importância de um ambiente seguro para transações de dados. Identifica lacunas na gestão de dados, como a necessidade de um controle mais robusto sobre a qualidade dos dados, e sugere que o framework se aplica a um nível de maturidade de IA em desenvolvimento, promovendo um ecossistema de compartilhamento de dados mais confiável e descentralizado.",
+    "data_extraction": {
+        "titulo": "A privacy-preserving blockchain platform for a data marketplace",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "UK",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Data Marketplace",
+        "nome_framework_modelo": "Blockchain Framework for Data Marketplace",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O framework garante que os dados ainda pertencem ao usuário que os gerou, permitindo que os usuários optem por sair do marketplace e revoguem todas as sequências de acesso.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A necessidade de um sistema de marketplace descentralizado que permita a troca de dados de forma privada e segura, garantindo a propriedade dos dados pelos usuários.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 69,
+    "referencia": "KLAINE, Paulo Valente; XU, Hao; ZHANG, Lei; IMRAN, Muhammad; ZHU, Ziming. A Privacy-Preserving Blockchain Platform for a Data Marketplace. Distrib. Ledger Technol., v. 2, 2023. Available at: https://doi.org/10.1145/3573894. Accessed on: 10 Jul. 2025."
+}

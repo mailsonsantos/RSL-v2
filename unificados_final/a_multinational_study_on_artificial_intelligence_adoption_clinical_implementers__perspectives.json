@@ -1,0 +1,28 @@
+{
+    "id": 5,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A multinational study on artificial intelligence adoption Clinical implementers_ perspectives.pdf",
+    "resumo": "1. **A multinational study on artificial intelligence adoption: Clinical implementers’ perspectives**: O artigo apresenta uma análise qualitativa das experiências de 37 implementadores de sistemas de IA em ambientes clínicos, utilizando entrevistas semi-estruturadas e o método de análise de framework. O público-alvo abrange profissionais de saúde e gestores em organizações de saúde na Europa e nas Américas. Os principais componentes de governança discutidos incluem a necessidade de validação clínica robusta, estruturas de informação para gerenciar o acesso a dados e a aprovação ética de projetos de IA, além de um suporte melhor para a conformidade regulatória. O estudo destaca lacunas na gestão de dados, como a complexidade do acesso a dados e a falta de diretrizes unificadas, e sugere que o nível de maturidade da IA é considerado imaturo, com muitos projetos ainda em fase de protótipo. As dimensões éticas abordadas incluem a transparência e a necessidade de aumentar a literacia sobre IA entre clínicos e cidadãos, enfatizando que a aceitação da IA não depende apenas da explicabilidade, mas da evidência clínica de sua eficácia.",
+    "data_extraction": {
+        "titulo": "A multinational study on artificial intelligence adoption: Clinical implementers’ perspectives",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Norway",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Necessidade de melhor suporte para conformidade regulatória e aprovação ética dos projetos de IA.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de clareza nas regulamentações e procedimentos de acesso a dados, além da necessidade de validação clínica adequada.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 89,
+    "referencia": "MARCO-RUIZ, Luis; HERNÁNDEZ, Miguel Ángel Tejedor; NGO, Phuong Dinh; MAKHLYSHEVA, Alexandra; SVENNING, Therese Olsen; DYB, Kari; CHOMUTARE, Taridzo; LLATAS, Carlos Fernández; MUÑOZ-GAMA, Jorge; TAYEFI, Maryam. A multinational study on artificial intelligence adoption: Clinical implementers' perspectives. International Journal of Medical Informatics, v. 184, p. 105377, 2024. Available at: https://doi.org/10.1016/j.ijmedinf.2024.105377. Accessed on: 10 Jul. 2025."
+}

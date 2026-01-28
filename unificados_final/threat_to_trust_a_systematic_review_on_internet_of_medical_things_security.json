@@ -1,0 +1,24 @@
+{
+    "id": 121,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Threat to trust A systematic review on Internet of medical things security.pdf",
+    "resumo": "1. **A systematic security analysis of medical internet of things (MIoT) ecosystems in threat modeling scenarios**: O artigo apresenta uma análise sistemática de segurança de dispositivos de eletrocardiograma (ECG) portáteis, utilizando o método de pesquisa de Revisão Sistemática da Literatura (RSL) e testes de penetração. O público-alvo são profissionais de saúde e o setor é o de dispositivos médicos. O estudo identifica e classifica 48 ameaças, propondo um modelo de ameaças específico para o ecossistema MIoT, que inclui estratégias de mitigação para vulnerabilidades em protocolos de comunicação Bluetooth Low Energy (BLE). Mecanismos de conformidade regulatória e ética são abordados, destacando a privacidade e a segurança dos dados dos pacientes. O artigo revela lacunas significativas na segurança dos dispositivos analisados, especialmente no Beurer BM 95, que apresenta riscos elevados devido à transmissão de dados sem criptografia, e sugere um nível de maturidade de IA que pode ser aplicado para melhorar a segurança em ecossistemas de saúde conectados.",
+    "data_extraction": {
+        "titulo": "A systematic security analysis of medical internet of things (MIoT) ecosystems in threat modeling scenarios",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United Kingdom",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "O protocolo de ética foi aprovado pelo Comitê de Ética em Pesquisa da Manchester Metropolitan University, Reino Unido.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de uma análise sistemática de segurança e avaliação baseada em múltiplos cenários de ecossistemas MIoT, particularmente dispositivos ECG portáteis.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 81,
+    "referencia": "SHAMMAR, Elham; CUI, Xiaohui; ZAHARY, Ammar; ALSAMHI, Saeed Hamood; AL-QANESS, Mohammed A.A.. Threat to trust: A systematic review on Internet of medical things security. Journal of Parallel and Distributed Computing, v. 206, p. 105172, 2025. Disponível em: https://doi.org/10.1016/j.jpdc.2025.105172. Accessed on: 10 Jul. 2025."
+}

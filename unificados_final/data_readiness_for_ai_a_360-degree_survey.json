@@ -1,0 +1,27 @@
+{
+    "id": 42,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Data Readiness for AI A 360-Degree Survey.pdf",
+    "resumo": "1. **Data Readiness for AI: A 360-Degree Survey**: O artigo de Hiniduma et al. (2022) apresenta uma pesquisa abrangente sobre a prontidão de dados para aplicações de Inteligência Artificial (IA), propondo uma taxonomia de métricas de prontidão de dados para IA (DRAI) que abrange tanto conjuntos de dados estruturados quanto não estruturados. Utilizando uma metodologia de revisão sistemática, os autores analisam mais de 140 publicações relevantes, identificando lacunas na avaliação da qualidade dos dados e propondo o framework AIDRIN (AI Data Readiness Inspector) para a avaliação quantitativa da prontidão de dados. O estudo destaca componentes de governança de dados, como a conformidade com os princípios FAIR e a importância de métricas que abordam questões de viés e privacidade. As lacunas identificadas incluem a necessidade de métricas padronizadas e a evolução contínua das dimensões de qualidade dos dados, enfatizando a maturidade da IA em relação à prontidão dos dados.",
+    "data_extraction": {
+        "titulo": "Data Readiness for AI: A 360-Degree Survey",
+        "ano_publicacao": 2022,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "USA",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Pesquisadores e profissionais de IA",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade"
+        ],
+        "lacunas_identificadas": "Falta de um estudo abrangente sobre métricas e padrões para avaliar a prontidão de dados para IA.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 114,
+    "referencia": "HINIDUMA, Kaveen; BYNA, Suren; BEZ, Jean Luca. Data Readiness for AI: A 360-Degree Survey. ACM Comput. Surv., v. 57, 2025. Available at: https://doi.org/10.1145/3722214. Accessed on: 10 Jul. 2025."
+}

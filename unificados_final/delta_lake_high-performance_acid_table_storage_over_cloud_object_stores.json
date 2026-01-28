@@ -1,0 +1,28 @@
+{
+    "id": 46,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Delta lake high-performance ACID table storage over cloud object stores.pdf",
+    "resumo": "1. **Delta Lake: High-Performance ACID Table Storage over Cloud Object Stores**: O artigo apresenta o Delta Lake, um sistema de armazenamento de tabelas ACID sobre armazenamentos de objetos em nuvem, publicado em 2020. O método de pesquisa utilizado é a pesquisa de design (Design Science Research). O público-alvo inclui equipes de dados em empresas que utilizam grandes volumes de dados, especialmente em setores como finanças e biomedicina. O Delta Lake propõe estratégias de governança de dados que incluem transações ACID, otimização de layout de dados e suporte a operações de UPSERT, DELETE e MERGE, visando melhorar a integridade e a eficiência na gestão de dados. O artigo aborda a conformidade com regulamentações como a GDPR, enfatizando a importância de mecanismos para garantir a privacidade e a transparência dos dados. As lacunas identificadas incluem a dificuldade de realizar operações atômicas em múltiplos objetos e a latência elevada em operações de listagem, enquanto o nível de maturidade de IA ao qual o framework se aplica é considerado alto, dado seu uso em ambientes que processam exabytes de dados diariamente.",
+    "data_extraction": {
+        "titulo": "Delta Lake: High-Performance ACID Table Storage over Cloud Object Stores",
+        "ano_publicacao": 2020,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Não mencionado",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Delta Lake",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O Delta Lake implementa transações ACID e suporte a conformidade com regulamentos como o GDPR, permitindo operações de UPSERT, DELETE e MERGE.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Desafios de consistência e desempenho em sistemas de armazenamento de objetos em nuvem, especialmente em relação a transações atômicas e operações de metadados.",
+        "nivel_maturidade_ia": "Produção"
+    },
+    "id_original": 61,
+    "referencia": "ARMBRUST, Michael; DAS, Tathagata; SUN, Liwen; YAVUZ, Burak; ZHU, Shixiong; MURTHY, Mukul; TORRES, Joseph; VAN HOVELL, Herman; IONESCU, Adrian; LUSZCZAK, Alicja; WITAKOWSKI, Michal; N, Szafra'ski Michal; LI, Xiao; UESHIN, Takuya; MOKHTAR, Mostafa; BONCZ, Peter; GHODSI, Ali; PARANJPYE, Sameer; SENSTER, Pieter; XIN, Reynold; ZAHARIA, Matei. Delta lake: high-performance ACID table storage over cloud object stores. Proc. VLDB Endow., v. 13, p. 3411–3424, 2020. Available at: https://doi.org/10.14778/3415478.3415560. Accessed on: 10 Jul. 2025."
+}

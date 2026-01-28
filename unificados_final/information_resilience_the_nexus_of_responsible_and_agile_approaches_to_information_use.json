@@ -1,0 +1,31 @@
+{
+    "id": 88,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Information Resilience the nexus of responsible and agile approaches to information use.pdf",
+    "resumo": "1. **Information Resilience: the nexus of responsible and agile approaches to information use**: O artigo apresenta o conceito de Resiliência da Informação, desenvolvido por meio de estudos de caso e uma abordagem de pesquisa empírica, visando a aplicação em setores público e privado. O framework proposto aborda cinco funções críticas: uso responsável de ativos de dados, curadoria de dados em escala, transparência algorítmica, parcerias de dados confiáveis e agilidade na criação de valor a partir de dados. Mecanismos para garantir conformidade regulatória e ética são discutidos, incluindo a importância da licença social e da transparência nas decisões algorítmicas. O estudo identifica lacunas na gestão de dados, como a necessidade de maior literacia de dados e a integração de práticas de governança, e sugere que o nível de maturidade da IA se relaciona com a capacidade das organizações de implementar essas funções de forma eficaz.",
+    "data_extraction": {
+        "titulo": "Information Resilience: the nexus of responsible and agile approaches to information use",
+        "ano_publicacao": 2022,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Australia",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Information Resilience",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a necessidade de engajamento da comunidade e revisão ética para garantir a conformidade no uso de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de alinhamento entre as intenções de design e uso dos dados, e a necessidade de uma abordagem integrada para a gestão de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 52,
+    "referencia": "SADIQ, Shazia; ARYANI, Amir; DEMARTINI, Gianluca; HUA, Wen; INDULSKA, Marta; BURTON-JONES, Andrew; KHOSRAVI, Hassan; BENAVIDES-PRADO, Diana; SELLIS, Timos; SOMEH, Ida; VAITHIANATHAN, Rhema; WANG, Sen; ZHOU, Xiaofang. Information Resilience: the nexus of responsible and agile approaches to information use. The VLDB Journal, v. 31, p. 1059–1084, 2022. Available at: https://doi.org/10.1007/s00778-021-00720-2. Accessed on: 10 Jul. 2025."
+}

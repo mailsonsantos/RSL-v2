@@ -1,0 +1,28 @@
+{
+    "id": 1,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/A Blockchain-Assisted Distributed Edge Intelligence for Privacy-Preserving Vehicular Networks.pdf",
+    "resumo": "1. **A Blockchain-Assisted Distributed Edge Intelligence for Privacy-Preserving Vehicular Networks**: O artigo apresenta um framework de Inteligência de Borda Distribuída, desenvolvido por meio de Design Science Research, voltado para redes veiculares, visando melhorar a privacidade e a segurança dos dados. O modelo combina Aprendizado Federado (FL), Privacidade Diferencial (DP) e tecnologia blockchain para gerenciar dados de forma descentralizada, mitigando riscos de ataques adversariais e problemas de ponto único de falha. As estratégias de governança de dados incluem a utilização de um livro-razão distribuído para garantir a integridade das transações e a proteção de dados sensíveis. O estudo aborda a conformidade com regulamentações de privacidade, como GDPR, e discute questões éticas relacionadas à transparência e ao viés. Identifica lacunas na gestão de dados, especialmente em relação à segurança e à privacidade, e aplica-se a um nível de maturidade de IA que busca otimizar a previsão de tráfego em redes veiculares, alcançando uma precisão de modelo de até 95,8% em simulações.",
+    "data_extraction": {
+        "titulo": "A Blockchain-Assisted Distributed Edge Intelligence for Privacy-Preserving Vehicular Networks",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Coreia do Sul",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Intelligent Transportation Systems",
+        "nome_framework_modelo": "Distributed Edge Intelligence Framework",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Utilização de blockchain para garantir a privacidade e segurança dos dados dos usuários, além de mecanismos de privacidade diferencial para proteger dados durante transações.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Necessidade de um framework robusto que priorize a performance dos VNets e forneça garantias de privacidade e segurança.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 29,
+    "referencia": "FIRDAUS, Muhammad; LARASATI, Harashta Tatimma; RHEE, Kyung-Hyune. A Blockchain-Assisted Distributed Edge Intelligence for Privacy-Preserving Vehicular Networks. Computers, Materials and Continua, v. 76, p. 2959-2978, 2023. Available at: https://doi.org/10.32604/cmc.2023.039487. Accessed on: 10 Jul. 2025."
+}

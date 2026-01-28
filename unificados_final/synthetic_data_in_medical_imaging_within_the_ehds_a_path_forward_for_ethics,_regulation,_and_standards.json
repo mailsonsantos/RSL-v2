@@ -1,0 +1,29 @@
+{
+    "id": 112,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Synthetic data in medical imaging within the EHDS a path forward for_ethics, regulation, and standards.pdf",
+    "resumo": "1. **Synthetic data in medical imaging within the EHDS: a path forward for ethics, regulation, and standards**: O artigo de Jiang, Domingues e Mendes (2025) propõe um modelo de governança para dados sintéticos em imagens médicas, utilizando uma revisão de literatura como método de pesquisa. O público-alvo é o setor de saúde, com foco na aplicação de dados sintéticos dentro do Espaço Europeu de Dados de Saúde (EHDS). O estudo discute estratégias de governança, incluindo a necessidade de um framework regulatório baseado em riscos que assegure a utilidade, transparência e responsabilidade dos dados sintéticos, especialmente quando gerados por modelos de IA generativa. As questões éticas abordadas incluem privacidade, consentimento e viés, destacando a importância de garantir a conformidade com o GDPR. O artigo identifica lacunas na gestão de dados, como a falta de métricas de qualidade padronizadas e a ambiguidade legal em torno da classificação de dados sintéticos, sugerindo que o framework se aplica a um nível de maturidade de IA em desenvolvimento.",
+    "data_extraction": {
+        "titulo": "Synthetic data in medical imaging within the EHDS: a path forward for ethics, regulation, and standards",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Portugal",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "A proposta de um framework regulatório baseado em risco para garantir a utilidade, transparência e responsabilidade dos dados sintéticos.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de métricas de qualidade padronizadas e a classificação regulatória sob o GDPR levantam preocupações sobre viés e validade dos dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 56,
+    "referencia": "JIANG, Junying; DOMINGUES, Lucia; MENDES, Jorge M.. Synthetic data in medical imaging within the EHDS: a path forward for ethics, regulation, and standards. FRONTIERS IN DIGITAL HEALTH, v. 7, 2025. Available at: https://doi.org/10.3389/fdgth.2025.1620270. Accessed on: 10 Jul. 2025."
+}

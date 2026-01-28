@@ -1,0 +1,31 @@
+{
+    "id": 120,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/The Role of Blockchain in Finance Beyond Cryptocurrency Trust, Data Management, and Automation.pdf",
+    "resumo": "1. **The Role of Blockchain in Finance Beyond Cryptocurrency: Trust, Data Management, and Automation**: O artigo explora o potencial do blockchain para melhorar a confiança, a governança de dados e a automação no setor financeiro, utilizando uma abordagem de Survey. O público-alvo inclui instituições financeiras e reguladores. O estudo identifica componentes de governança, como a transparência e a integridade dos dados, e discute a aplicação de contratos inteligentes para garantir conformidade regulatória, especialmente em relação à LGPD e AML. As dimensões éticas abordadas incluem privacidade e segurança de dados. O artigo também destaca lacunas na gestão de dados, como a necessidade de maior integração entre sistemas e a adaptação a regulamentações, e sugere que o framework se aplica a um nível de maturidade de IA em desenvolvimento, enfatizando a importância de soluções automatizadas para a eficiência operacional.",
+    "data_extraction": {
+        "titulo": "The Role of Blockchain in Finance Beyond Cryptocurrency: Trust, Data Management, and Automation",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "China",
+        "metodo_pesquisa": "Survey",
+        "publico_alvo_setor": "Finance",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Blockchain can be integrated as an external service that facilitates AML compliance by adapting the inherent transparent and immutable ledger of transactions while maintaining consumer due diligence.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "The significant challenges of financial regulation and global collaboration due to complexity.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 22,
+    "referencia": "CHEN, Hanfang; WEI, Niankun; WANG, Leyao; FAWZY MOHAMED MOBARAK, Wael; ALI ALBAHAR, Marwan; SHAIKH, Zaffar Ahmed. The Role of Blockchain in Finance Beyond Cryptocurrency: Trust, Data Management, and Automation. IEEE Access, v. 12, p. 64861-64885, 2024. Disponível em: https://doi.org/10.1109/ACCESS.2024.3395918. Accessed on: 10 Jul. 2025."
+}

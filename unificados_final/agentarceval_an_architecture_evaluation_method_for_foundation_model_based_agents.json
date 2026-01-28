@@ -1,0 +1,31 @@
+{
+    "id": 15,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/AgentArcEval An architecture evaluation method for foundation model based agents.pdf",
+    "resumo": "1. **AGENTARCEVAL: AN ARCHITECTURE EVALUATION METHOD FOR FOUNDATION MODEL BASED AGENTS**: O artigo apresenta o método de avaliação de arquitetura AgentArcEval, desenvolvido por meio de uma pesquisa de Design Science, focado na avaliação de agentes baseados em modelos fundamentais (FMs) no setor de inteligência artificial. O método aborda componentes de governança, como a definição de cenários contextuais e a implementação de guardrails, visando garantir a conformidade com regulamentos de segurança e ética, incluindo privacidade e transparência. O estudo identifica lacunas na avaliação de arquitetura de agentes, destacando a necessidade de adaptação contínua e monitoramento de riscos, e propõe um nível de maturidade de IA que se aplica a sistemas autônomos. A aplicação do AgentArcEval é demonstrada em um estudo de caso com o Luna Tax Copilot, evidenciando sua eficácia na identificação de trade-offs arquiteturais e na melhoria da governança de dados em sistemas de IA.",
+    "data_extraction": {
+        "titulo": "AGENTARCEVAL: AN ARCHITECTURE EVALUATION METHOD FOR FOUNDATION MODEL BASED AGENTS",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Australia",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Agentes de IA",
+        "nome_framework_modelo": "AgentArcEval",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O método incorpora mecanismos para avaliação contínua da arquitetura e evolução adaptativa, garantindo a conformidade com as necessidades de governança.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de métodos de avaliação de arquitetura adaptados para sistemas de agentes, especialmente em relação à autonomia e evolução contínua.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 118,
+    "referencia": "LU, Qinghua; ZHAO, Dehai; LIU, Yue; ZHANG, Hao; ZHU, Liming; XU, Xiwei; SHI, Angela; TAN, Tristan; KAZMAN, Rick. AgentArcEval: An architecture evaluation method for foundation model based agents. Journal of Systems and Software, vol. 232, pp. 112656, 2026. https://doi.org/10.1016/j.jss.2025.112656. Accessed on: 10 Jul. 2025."
+}

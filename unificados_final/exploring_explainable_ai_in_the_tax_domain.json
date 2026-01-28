@@ -1,0 +1,30 @@
+{
+    "id": 66,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Exploring explainable AI in the tax domain.pdf",
+    "resumo": "1. **Exploring explainable AI in the tax domain**: O artigo analisa a aplicabilidade de técnicas de Inteligência Artificial Explicável (XAI) no contexto tributário, publicado em 2025. Utilizando um Estudo de Caso, o trabalho propõe um protótipo de detector de fraudes fiscais, desenvolvido em colaboração com a autoridade tributária de Buenos Aires, que é avaliado quanto à sua conformidade com requisitos legais de explicação. O público-alvo é composto por autoridades fiscais e contribuintes. O estudo menciona estratégias de governança de dados, como a necessidade de explicações claras e justificativas legais para decisões automatizadas. Em termos de conformidade e ética, aborda a importância da transparência e do direito à contestação, destacando riscos de decisões arbitrárias e discriminação. O artigo identifica lacunas na compreensão das explicações geradas por modelos de IA e sugere que o nível de maturidade da IA aplicada é ainda incipiente, necessitando de melhorias para atender às exigências legais e éticas no domínio tributário.",
+    "data_extraction": {
+        "titulo": "Exploring explainable AI in the tax domain",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Argentina",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Administração Pública",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O artigo sugere abordagens técnicas e legais para projetar mecanismos de explicação que atendam às necessidades de explicação legal no domínio tributário.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A falta de compreensão das explicações de IA por parte dos contribuintes e a necessidade de maior colaboração entre especialistas em IA e especialistas tributários.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 71,
+    "referencia": "GORSKI, Lukasz; KUZNIACKI, Blazej; ALMADA, Marco; TYLINSKI, Kamil; CALVO, Madalena; ASNAGHI, Pablo Matias; ALMADA, Luciano; INIGUEZ, Hilario; RUBIANES, Fernando; PERA, Octavio; NIGRELLI, Juan Ignacio. Exploring explainable AI in the tax domain. ARTIFICIAL INTELLIGENCE AND LAW, vol. 33, pp. 551-579, 2025. https://doi.org/10.1007/s10506-024-09395-w. Accessed on: 10 Jul. 2025."
+}

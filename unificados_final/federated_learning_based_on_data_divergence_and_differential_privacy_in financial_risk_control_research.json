@@ -1,0 +1,23 @@
+{
+    "id": 70,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Federated Learning Based on Data Divergence and Differential Privacy in Financial Risk Control Research.pdf",
+    "resumo": "1. **Federated Learning Based on Data Divergence and Differential Privacy in Financial Risk Control Research**: O artigo apresenta um modelo de aprendizado federado que integra compartilhamento de dados locais e privacidade diferencial, visando a aplicação no setor financeiro, especificamente em controle de risco de crédito. Utilizando a metodologia de pesquisa Design Science Research, o modelo aborda a limitação do aprendizado federado horizontal em cenários de dados não independentes e identicamente distribuídos (non-iid). As estratégias de governança de dados incluem a implementação de orçamentos de privacidade diferenciados para garantir a privacidade dos dados sem comprometer a precisão do modelo. O estudo discute a conformidade regulatória e as dimensões éticas, como a privacidade e a transparência, ao aplicar mecanismos de privacidade diferencial. Identificou lacunas na gestão de dados, especialmente em relação à heterogeneidade dos dados, e sugere que o nível de maturidade da IA se aplica a modelos de aprendizado federado em ambientes de dados não iid, com melhorias de precisão de até 7% em comparação ao método de média federada (FedAvg).",
+    "data_extraction": {
+        "titulo": "Federated Learning Based on Data Divergence and Differential Privacy in Financial Risk Control Research",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "China",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Financeiro",
+        "nome_framework_modelo": "DSFL",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Uso de privacidade diferencial para garantir a privacidade dos dados durante a transmissão.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade"
+        ],
+        "lacunas_identificadas": "Falta de meios eficazes para dados não independentes e identicamente distribuídos (non-iid).",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 51,
+    "referencia": "YUXIN, Mao; HONGLIN, Wang. Federated Learning Based on Data Divergence and Differential Privacy in Financial Risk Control Research. Computers, Materials and Continua, vol. 75, pp. 863-878, 2023. https://doi.org/10.32604/cmc.2023.034879. Accessed on: 10 Jul. 2025."
+}

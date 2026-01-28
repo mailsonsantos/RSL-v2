@@ -1,0 +1,21 @@
+{
+    "id": 64,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Explainable Deep Reinforcement Learning State of the Art and Challenges.pdf",
+    "resumo": "1. **Explainable Deep Reinforcement Learning: State of the Art and Challenges**: O artigo de George A. Vouros (2023) revisa métodos de aprendizado por reforço profundo explicável (XDRL), abordando a necessidade de interpretabilidade em sistemas de IA autônomos. O estudo utiliza uma abordagem de pesquisa de revisão sistemática, categorizando os métodos em termos de problemas de explicação, como inspeção de modelos, explicação de políticas e objetivos, e explicação de respostas. Os principais públicos-alvo incluem operadores humanos em setores críticos, como transporte e saúde. O artigo discute componentes de governança, como a necessidade de transparência e conformidade ética, abordando questões de privacidade e viés. Lacunas na literatura incluem a falta de um entendimento claro sobre as qualidades de boas explicações e a necessidade de ferramentas abrangentes para a explicação de modelos de XDRL. O nível de maturidade da IA é considerado variável, dependendo da complexidade dos métodos analisados, com a maioria dos frameworks ainda em desenvolvimento.",
+    "data_extraction": {
+        "titulo": "Explainable Deep Reinforcement Learning: State of the Art and Challenges",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Greece",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Inteligência Artificial",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [],
+        "lacunas_identificadas": "Falta de compreensão sobre as qualidades de boas explicações para agentes de RL.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 34,
+    "referencia": "VOUROS, George A.. Explainable Deep Reinforcement Learning: State of the Art and Challenges. ACM Comput. Surv., v. 55, 2022. Available at: https://doi.org/10.1145/3527448. Accessed on: 10 Jul. 2025."
+}

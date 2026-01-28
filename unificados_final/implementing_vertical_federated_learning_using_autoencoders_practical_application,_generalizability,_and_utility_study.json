@@ -1,0 +1,25 @@
+{
+    "id": 86,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Implementing Vertical Federated Learning Using Autoencoders Practical Application, Generalizability, and Utility Study.pdf",
+    "resumo": "1. **Implementing Vertical Federated Learning Using Autoencoders: Practical Application, Generalizability, and Utility Study**: O artigo apresenta um modelo de aprendizado de máquina baseado em autoencoders, focado na aplicação de aprendizado federado vertical (FL) em dados verticalmente particionados, publicado em 2021. A pesquisa utiliza a metodologia de Design Science Research e é direcionada ao setor de saúde, visando a proteção de dados sensíveis durante o treinamento de modelos de ML. O modelo proposto incorpora estratégias de segurança de dados, como a transformação de dados em representações latentes, minimizando a exposição de dados brutos e garantindo conformidade com regulamentos de privacidade. As dimensões éticas abordadas incluem a privacidade e a segurança dos dados. O estudo identifica lacunas na integração de dados entre diferentes instituições e sugere que o modelo se aplica a um nível de maturidade de IA que permite a colaboração sem a troca direta de dados sensíveis, demonstrando utilidade prática e generalizabilidade em três conjuntos de dados distintos.",
+    "data_extraction": {
+        "titulo": "Implementing Vertical Federated Learning Using Autoencoders: Practical Application, Generalizability, and Utility Study",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Republic of Korea",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Autoencoder-based ML model",
+        "componentes_governanca": [
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Uso de métodos como k-anonymity, l-diversity, t-closeness e privacidade diferencial para proteger dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade"
+        ],
+        "lacunas_identificadas": "Necessidade de resultados mais rigorosos usando validação cruzada e explicabilidade do modelo.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 79,
+    "referencia": "CHA, Dongchul; SUNG, MinDong; PARK, Yu-Rang. Implementing Vertical Federated Learning Using Autoencoders: Practical Application, Generalizability, and Utility Study. JMIR Medical Informatics, v. 9, 2021. Available at: https://doi.org/10.2196/26598. Accessed on: 10 Jul. 2025."
+}

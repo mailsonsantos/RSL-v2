@@ -1,0 +1,28 @@
+{
+    "id": 35,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/CAWAL A novel unified analytics framework for enterprise web applications and multi-server environments.pdf",
+    "resumo": "1. **CAWAL: A novel unified analytics framework for enterprise web applications and multi-server environments**: O artigo apresenta o framework CAWAL, desenvolvido por meio de Design Science Research, voltado para o setor de aplicações web empresariais. O modelo integra análise de dados com registro de aplicações, visando melhorar a coleta de dados e o rastreamento de usuários em ambientes de múltiplos servidores, garantindo conformidade com regulamentos de privacidade e propriedade de dados. O framework aborda componentes de governança de dados, como controle de acesso e políticas de retenção, e discute questões éticas relacionadas à transparência e consentimento do usuário. Identificou lacunas na precisão dos dados e na gestão de sessões, aplicando-se a um nível de maturidade de IA que permite uma análise robusta e em tempo real. A implementação do CAWAL demonstrou desempenho superior em comparação com ferramentas como Open Web Analytics e Matomo, com redução significativa nos tempos de resposta e melhorias na governança de dados.",
+    "data_extraction": {
+        "titulo": "CAWAL: A novel unified analytics framework for enterprise web applications and multi-server environments",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Turkey",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Web Analytics",
+        "nome_framework_modelo": "CAWAL",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Adesão a regulamentos como GDPR, CCPA e PIPEDA para garantir a conformidade ética e regulatória.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de soluções abrangentes que integrem análise de dados e monitoramento de aplicações em ambientes multi-servidores.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 14,
+    "referencia": "CANAY, Özkan; KOCABIÇAK, Ümit. CAWAL: A novel unified analytics framework for enterprise web applications and multi-server environments. Information Processing & Management, v. 61, p. 103617, 2024. Available at: https://doi.org/10.1016/j.ipm.2023.103617. Accessed on: 10 Jul. 2025."
+}

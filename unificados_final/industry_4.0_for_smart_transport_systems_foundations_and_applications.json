@@ -1,0 +1,29 @@
+{
+    "id": 87,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Industry 4.0 for smart transport systems Foundations and applications.pdf",
+    "resumo": "1. **Industry 4.0 for Smart Transport Systems: Foundations and Applications**: O artigo apresenta um framework que integra tecnologias da Indústria 4.0 com sistemas de transporte inteligente, utilizando uma metodologia de pesquisa baseada em estudos de caso. O público-alvo abrange setores de transporte e energia, com foco na interação entre veículos elétricos e a rede elétrica (V2G). Os componentes de governança discutidos incluem estratégias de ingestão de dados, inferência de modelos e suporte à decisão, visando a otimização operacional e a manutenção preditiva. O estudo aborda a conformidade regulatória e questões éticas, como privacidade e segurança de dados, propondo medidas para garantir a interoperabilidade segura e a proteção de dados. Identifica lacunas na integração de sistemas e sugere que o nível de maturidade da IA se aplica a operações de alta complexidade, destacando a necessidade de um roadmap para a transição para a Indústria 5.0, que prioriza a resiliência e a sustentabilidade.",
+    "data_extraction": {
+        "titulo": "Industry 4.0 for smart transport systems: Foundations and applications",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "United Kingdom",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Transporte",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A ausência de uma visão de fundamentos e aplicações que vincule as capacidades da Smart Grid aos ITS sob a perspectiva da Indústria 4.0.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 75,
+    "referencia": "AHMAD, Wasim; KHAN, Sunawar; MAZHAR, Tehseen; SHAHZAD, Tariq; JIANG, Weiwei; HAMAM, Habib. Industry 4.0 for smart transport systems: Foundations and applications. Telematics and Informatics Reports, v. 20, p. 100255, 2025. Available at: https://doi.org/10.1016/j.teler.2025.100255. Accessed on: 10 Jul. 2025."
+}

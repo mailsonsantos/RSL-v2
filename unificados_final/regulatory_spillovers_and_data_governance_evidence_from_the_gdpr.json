@@ -1,0 +1,27 @@
+{
+    "id": 106,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Regulatory Spillovers and Data Governance Evidence from the GDPR.pdf",
+    "resumo": "1. **Regulatory Spillovers and Data Governance: Evidence from the GDPR**: O artigo de Peukert et al. (2022) investiga as mudanças nas interações de websites com provedores de tecnologia da web após a implementação do GDPR, utilizando uma abordagem empírica com dados de mais de 110.000 websites. Os autores documentam uma redução significativa nas solicitações a domínios de terceiros, especialmente aqueles que utilizam cookies, indicando uma conformidade de fato com as normas do GDPR, mesmo entre websites fora de sua jurisdição. O estudo destaca a concentração de mercado, onde a Google, apesar de uma diminuição geral nas interações, aumentou sua participação de mercado, sugerindo que a regulação pode favorecer empresas maiores. As implicações éticas e de conformidade são discutidas, com foco na minimização de dados e na responsabilidade compartilhada entre websites e provedores de tecnologia. O artigo também aponta lacunas na gestão de dados e sugere que a maturidade da IA pode ser impactada por essas dinâmicas regulatórias.",
+    "data_extraction": {
+        "titulo": "Regulatory Spillovers and Data Governance: Evidence from the GDPR",
+        "ano_publicacao": 2022,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Switzerland",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Web Technology Industry",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a conformidade com a GDPR e os riscos de conformidade associados à responsabilidade conjunta entre websites e provedores de tecnologia.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A pesquisa identifica a falta de clareza sobre a aplicação territorial da GDPR e os riscos de conformidade para websites fora da UE.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 116,
+    "referencia": "PEUKERT, Christian; BECHTOLD, Stefan; BATIKAS, Michail; KRETSCHMER, Tobias. Regulatory Spillovers and Data Governance: Evidence from the GDPR. MARKETING SCIENCE, v. 41, p. 318-340, 2022. Available at: https://doi.org/10.1287/mksc.2021.1339. Accessed on: 10 Jul. 2025."
+}

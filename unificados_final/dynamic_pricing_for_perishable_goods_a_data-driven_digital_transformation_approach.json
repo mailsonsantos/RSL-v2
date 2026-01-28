@@ -1,0 +1,24 @@
+{
+    "id": 54,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Dynamic pricing for perishable goods A data-driven digital transformation approach.pdf",
+    "resumo": "1. **Dynamic Pricing for Perishable Goods: A Data-driven Digital Transformation Approach**: O artigo de Syed et al. (2024) propõe um modelo de transformação digital orientado por dados (DD-DT) para a aplicação de estratégias de precificação dinâmica em supermercados, utilizando uma abordagem de estudo de caso múltiplo. O público-alvo são varejistas de alimentos perecíveis, e o modelo abrange três fases: iniciação, facilitação e adaptação estratégica. As estratégias de governança de dados incluem a coleta robusta de dados e a integração de algoritmos avançados para decisões de precificação informadas. O estudo aborda a conformidade regulatória e questões éticas, como privacidade e viés, destacando a necessidade de governança de dados eficaz. Lacunas na gestão de dados incluem a falta de compreensão sobre a implementação prática de modelos de precificação dinâmica, enquanto o nível de maturidade de IA aplicado é considerado intermediário, sugerindo que as empresas ainda estão em processo de adaptação às tecnologias digitais.",
+    "data_extraction": {
+        "titulo": "Dynamic Pricing for Perishable goods: A Data-driven Digital Transformation Approach",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Reino Unido",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Varejo",
+        "nome_framework_modelo": "Data-driven digital transformation (DD-DT)",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "A pesquisa aborda a conformidade legal e ética na implementação de modelos de precificação dinâmica, incluindo a necessidade de estruturas regulatórias adequadas para evitar abusos de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A pesquisa identifica lacunas na aplicação prática de modelos de precificação dinâmica em ambientes de varejo, especialmente em relação à integração de tecnologias digitais e análise de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 110,
+    "referencia": "SYED, Tahir Abbas; ASLAM, Haris; BHATTI, Zeeshan Ahmed; MEHMOOD, Fahad; PAHUJA, Aseem. Dynamic pricing for perishable goods: A data-driven digital transformation approach. International Journal of Production Economics, v. 277, p. 109405, 2024. Available at: https://doi.org/10.1016/j.ijpe.2024.109405. Accessed on: 10 Jul. 2025."
+}

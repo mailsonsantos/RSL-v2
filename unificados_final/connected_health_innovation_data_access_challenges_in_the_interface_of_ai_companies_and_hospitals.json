@@ -1,0 +1,27 @@
+{
+    "id": 37,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Connected Health Innovation Data Access Challenges in the Interface of_AI Companies and Hospitals.pdf",
+    "resumo": "1. **Connected Health Innovation: Data Access Challenges in the Interface of AI Companies and Hospitals**: O artigo de Kemppainen et al. (2020) explora os desafios de acesso a dados em inovações de saúde conectada, utilizando uma abordagem autoetnográfica em um estudo de caso envolvendo hospitais e empresas de tecnologia de saúde. O foco é na orquestração de redes de inovação, destacando a necessidade de mobilidade da informação e a gestão de dados. Os componentes de governança discutidos incluem a falta de diretrizes e estratégias de dados nas organizações de saúde, que dificultam o acesso a dados essenciais para o desenvolvimento de soluções de IA. O estudo aborda questões de conformidade regulatória, enfatizando a privacidade e a segurança dos dados, e identifica lacunas na compreensão das regulamentações por parte dos gestores hospitalares. As lacunas na gestão de dados são evidentes em níveis individuais, organizacionais e institucionais, com a maturidade da IA sendo considerada baixa devido à falta de processos claros. O artigo sugere que a orquestração de redes de inovação pode ser uma solução viável para superar esses desafios, promovendo a colaboração entre os atores envolvidos.",
+    "data_extraction": {
+        "titulo": "Connected Health Innovation: Data Access Challenges in the Interface of AI Companies and Hospitals",
+        "ano_publicacao": 2020,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Finland",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O estudo discute a necessidade de diretrizes claras para o uso e acesso a dados em hospitais, além de enfatizar a importância da transparência sobre como os dados serão utilizados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de diretrizes e processos organizacionais claros para o uso de dados, além de incertezas sobre regulamentações de privacidade de dados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 83,
+    "referencia": "KEMPPAINEN, Laura; PIKKARAINEN, Minna; HURMELINNA-LAUKKANEN, Pia; REPONEN, Jarmo. Connected Health Innovation: Data Access Challenges in the Interface of AI Companies and Hospitals. TECHNOLOGY INNOVATION MANAGEMENT REVIEW, v. 9, p. 43-55, 2020. Available at: https://doi.org/10.22215/timreview/1291. Accessed on: 10 Jul. 2025."
+}

@@ -1,0 +1,29 @@
+{
+    "id": 100,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Privacy by design Aligning GDPR and software engineering specifications with a requirements engineering approach.pdf",
+    "resumo": "1. **Privacy by Design: Aligning GDPR and Software Engineering Specifications with a Requirements Engineering Approach**: O artigo apresenta um modelo inicial para a especificação de requisitos e sistemas (R&S) visando a conformidade com o Regulamento Geral sobre a Proteção de Dados (GDPR), desenvolvido por meio de uma pesquisa qualitativa que combina revisão de literatura e entrevistas com profissionais da área. O foco é a implementação do conceito de \"privacidade desde a concepção\" (PbD) em ambientes de engenharia de software. O estudo identifica cinco objetivos principais de especificação: captura de conhecimento legal, rastreabilidade e consistência, separação de preocupações, transparência e comunicação sobre especificações, e flexibilidade do sistema. Mecanismos para garantir conformidade regulatória e dimensões éticas, como a transparência, são abordados, destacando a importância da comunicação entre diferentes papéis na engenharia. O modelo proposto busca preencher lacunas na integração de requisitos e especificações de sistemas, revelando um nível de maturidade de IA que ainda requer desenvolvimento para operacionalização efetiva em contextos industriais.",
+    "data_extraction": {
+        "titulo": "Privacy by Design: Aligning GDPR and Software Engineering Specifications with a Requirements Engineering Approach",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Sweden",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Engenharia de Software",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O artigo propõe um modelo de especificação que integra requisitos e especificações de sistema para garantir a conformidade com o GDPR, enfatizando a necessidade de rastreabilidade e consistência.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de métodos sistemáticos para a especificação conjunta de requisitos e sistemas em conformidade com o GDPR.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 80,
+    "referencia": "KOSENKOV, Oleksandr; ZABARDAST, Ehsan; FUCCI, Davide; MENDEZ, Daniel; UNTERKALMSTEINER, Michael. Privacy by design: Aligning GDPR and software engineering specifications with a requirements engineering approach. Information and Software Technology, v. 190, p. 107946, 2026. Available at: https://doi.org/10.1016/j.infsof.2025.107946. Accessed on: 10 Jul. 2025."
+}

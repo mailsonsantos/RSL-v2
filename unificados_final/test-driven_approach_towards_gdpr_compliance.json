@@ -1,0 +1,28 @@
+{
+    "id": 113,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Test-Driven Approach Towards GDPR Compliance.pdf",
+    "resumo": "1. **Test-Driven Approach Towards GDPR Compliance**: O artigo apresenta um modelo de abordagem test-driven para garantir a conformidade com o Regulamento Geral sobre a Proteção de Dados (GDPR), utilizando representações semânticas de processos. A pesquisa foi realizada por meio de um protótipo aplicado a um mecanismo de consentimento em um site real, empregando ontologias como GDPRov, GConsent e GDPRtEXT, e utilizando SHACL para testar as restrições de conformidade. O público-alvo abrange organizações que lidam com dados pessoais, visando a documentação e a manutenção da conformidade regulatória. O estudo destaca estratégias de governança de dados, como a documentação de atividades de processamento e a verificação contínua de consentimento, abordando também questões éticas relacionadas à transparência e à privacidade. As lacunas identificadas incluem a necessidade de automação na documentação e a maturidade da IA aplicada à conformidade, sugerindo que o framework se aplica a níveis variados de maturidade em IA.",
+    "data_extraction": {
+        "titulo": "Test-Driven Approach Towards GDPR Compliance",
+        "ano_publicacao": 2020,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Ireland",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "A abordagem utiliza representações semânticas de processos para manter a conformidade contínua com o GDPR, gerando e verificando restrições para aderência aos requisitos do GDPR.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Não mencionado",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 101,
+    "referencia": "PANDIT, Harshvardhan J.; O'SULLIVAN, Declan; LEWIS, Dave. Test-Driven Approach Towards GDPR Compliance. v. 11702, p. 19-33, 2019. Available at: https://doi.org/10.1007/978-3-030-33220-4_2. Accessed on: 10 Jul. 2025."
+}

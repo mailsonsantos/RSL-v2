@@ -1,0 +1,27 @@
+{
+    "id": 101,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Privacy-preserving in Blockchain-based Federated Learning systems.pdf",
+    "resumo": "1. **Privacy-preserving in Blockchain-based Federated Learning Systems**: O artigo apresenta um estudo sobre a integração de Federated Learning (FL) com tecnologia Blockchain, focando na preservação da privacidade. Utilizando uma abordagem de revisão sistemática, os autores analisam 102 publicações entre 2018 e 2023, identificando lacunas e desafios na governança de dados. O framework proposto combina técnicas de privacidade, como privacidade diferencial e criptografia homomórfica, com um método de pesquisa de revisão sistemática. O público-alvo inclui acadêmicos e profissionais da indústria, especialmente nas áreas de saúde, Internet das Coisas e veículos autônomos. O estudo discute estratégias de governança de dados, como a implementação de contratos inteligentes para garantir conformidade e ética, abordando questões de privacidade, transparência e viés. As lacunas identificadas incluem a necessidade de otimização de consumo de gás em sistemas baseados em criptografia e a vulnerabilidade a ataques de colusão. O nível de maturidade da IA ao qual o framework se aplica é considerado avançado, com ênfase em soluções práticas para a preservação da privacidade em ambientes colaborativos.",
+    "data_extraction": {
+        "titulo": "Privacy-preserving in Blockchain-based Federated Learning Systems",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "India",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde, Indústria 5.0, Internet das Coisas",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a integração de Blockchain com Federated Learning para garantir a privacidade e segurança dos dados, abordando ataques e contramedidas para a proteção de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A necessidade de otimização de consumo de gás em sistemas baseados em criptografia e a vulnerabilidade a ataques de colusão.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 106,
+    "referencia": "K.M., Sameera; NICOLAZZO, Serena; ARAZZI, Marco; NOCERA, Antonino; K.A., Rafidha Rehiman; P., Vinod; CONTI, Mauro. Privacy-preserving in Blockchain-based Federated Learning systems. Computer Communications, v. 222, p. 38-67, 2024. Available at: https://doi.org/10.1016/j.comcom.2024.04.024. Accessed on: 10 Jul. 2025."
+}

@@ -1,0 +1,27 @@
+{
+    "id": 40,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/D-VRE From a Jupyter-enabled private research environment to decentralized collaborative research ecosystem.pdf",
+    "resumo": "1. **D-VRE: From a Jupyter-enabled private research environment to decentralized collaborative research ecosystem**: O artigo apresenta o framework D-VRE, desenvolvido por meio de um Estudo de Caso, visando a criação de um ambiente de pesquisa virtual descentralizado para comunidades científicas. O público-alvo inclui pesquisadores que utilizam o Jupyter para análise de dados em diversas disciplinas. O modelo propõe componentes de governança de dados como gerenciamento de identidade descentralizada, políticas de compartilhamento personalizadas e gerenciamento de ativos de pesquisa, todos integrados com a tecnologia blockchain. O estudo aborda a conformidade regulatória, enfatizando a privacidade e a segurança dos dados, e discute a necessidade de garantir a conformidade com o GDPR. As lacunas identificadas incluem a falta de suporte robusto para modos de cooperação descentralizados e a maturidade da IA necessária para a implementação do D-VRE, que se aplica a um nível de maturidade de IA em desenvolvimento. A pesquisa conclui que o D-VRE pode facilitar a colaboração e o compartilhamento de dados de forma mais eficiente e segura, embora ainda existam desafios a serem superados.",
+    "data_extraction": {
+        "titulo": "D-VRE: From a Jupyter-enabled private research environment to decentralized collaborative research ecosystem",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Netherlands",
+        "metodo_pesquisa": "Experimento",
+        "publico_alvo_setor": "Comunidades de pesquisa científica",
+        "nome_framework_modelo": "D-VRE",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "Integração de contratos inteligentes para garantir conformidade com políticas de compartilhamento e identidade descentralizada.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de suporte robusto para modos de cooperação descentralizados e desafios na gestão de ativos de pesquisa devido a barreiras de geolocalização e regulamentos de confidencialidade locais.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 11,
+    "referencia": "WANG, Yuandou; TRIPATHI, Sheejan; FARSHIDI, Siamak; ZHAO, Zhiming. D-VRE: From a Jupyter-enabled private research environment to decentralized collaborative research ecosystem. Blockchain: Research and Applications, v. 6, p. 100244, 2025. Available at: https://doi.org/10.1016/j.bcra.2024.100244. Accessed on: 10 Jul. 2025."
+}

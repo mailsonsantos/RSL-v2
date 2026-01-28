@@ -1,0 +1,29 @@
+{
+    "id": 59,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Ethics, Data and Privacy Management for AI Solutions in Manufacturing at_SMEs (AIRISE).pdf",
+    "resumo": "1. **Ethics, Data and Privacy Management for AI Solutions in Manufacturing at SMEs (AIRISE)**: O artigo apresenta o projeto AIRISE, que utiliza um modelo de pesquisa baseado em Design Science Research para apoiar pequenas e médias empresas (PMEs) do setor de manufatura na implementação de soluções de Inteligência Artificial (IA) com foco em ética, gestão de dados e privacidade. O framework proposto integra os princípios da Lista de Avaliação para uma IA Confiável (ALTAI), a regulamentação GDPR e os princípios FAIR, visando garantir conformidade com legislações da União Europeia, como o AI Act. As estratégias de governança incluem a criação de um manual ético que orienta sobre coleta, armazenamento e proteção de dados, além de procedimentos de consentimento informado. O estudo aborda questões éticas como privacidade, transparência e não discriminação, e identifica lacunas na gestão de dados, destacando a necessidade de um nível de maturidade de IA que permita a implementação eficaz das diretrizes éticas. O projeto prevê a realização de 75 experimentos, com a expectativa de otimizar os serviços de gestão ética e de dados por meio de ferramentas digitais.",
+    "data_extraction": {
+        "titulo": "Ethics, Data and Privacy Management for AI Solutions in Manufacturing at SMEs (AIRISE)",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Netherlands",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Manufacturing SMEs",
+        "nome_framework_modelo": "AIRISE",
+        "componentes_governanca": [
+            "Políticas",
+            "Metadados"
+        ],
+        "mecanismos_conformidade": "Compliance with AI act and GDPR through an ethics manual and advisory committee.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Lack of experience in ethical management in AI and manufacturing.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 96,
+    "referencia": "HOMMERSON, Susan; GALLESE, Chiara; GAREL, Fanny; ALEKSOVSKA, Angela; BIKAS, Harry. Ethics, Data and Privacy Management for AI Solutions in Manufacturing at SMEs (AIRISE). p. 279-286, 2025. Available at: https://doi.org/10.1007/978-3-031-86489-6_29. Accessed on: 10 Jul. 2025."
+}

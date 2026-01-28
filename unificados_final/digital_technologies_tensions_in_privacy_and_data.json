@@ -1,0 +1,28 @@
+{
+    "id": 51,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Digital technologies tensions in privacy and data.pdf",
+    "resumo": "1. **Digital Technologies: Tensions in Privacy and Data**: O artigo analisa as tensões de privacidade geradas pela proliferação de tecnologias digitais e estratégias de dados, propondo um framework conceitual fundamentado na teoria da estruturação. Utilizando uma abordagem de pesquisa qualitativa, os autores realizam entrevistas com gerentes seniores e informantes consumidores, focando em como as interações entre consumidores, empresas e reguladores moldam as respostas às preocupações de privacidade. O público-alvo inclui empresas de marketing e tecnologia, com ênfase em práticas de monetização e compartilhamento de dados. O estudo destaca componentes de governança, como a necessidade de políticas de privacidade robustas e práticas de transparência, além de abordar a conformidade com regulamentações como GDPR e a ética em relação à privacidade e ao viés. Identifica lacunas na compreensão das tensões de privacidade e sugere que o nível de maturidade da IA varia conforme a adoção de práticas de governança de dados.",
+    "data_extraction": {
+        "titulo": "Digital technologies: tensions in privacy and data",
+        "ano_publicacao": 2022,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Australia",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Marketing",
+        "nome_framework_modelo": "Integrated framework of privacy structuration",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Regulatory frameworks such as GDPR and CPRA impose rules and norms that can mitigate privacy tensions.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Lack of a systematic, integrative, research-based view of privacy tensions across consumers, firms, and regulators.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 120,
+    "referencia": "QUACH, Sara; THAICHON, Park; MARTIN, Kelly D.; WEAVEN, Scott; PALMATIER, Robert W.. Digital technologies: tensions in privacy and data. JOURNAL OF THE ACADEMY OF MARKETING SCIENCE, v. 50, p. 1299-1323, 2022. Available at: https://doi.org/10.1007/s11747-022-00845-y. Accessed on: 10 Jul. 2025."
+}

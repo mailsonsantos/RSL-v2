@@ -1,0 +1,24 @@
+{
+    "id": 82,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Hybridized artificial intelligence system for reducing neonatal mortality in Nigeria.pdf",
+    "resumo": "1. **Hybridized artificial intelligence system for reducing neonatal mortality in Nigeria**: O artigo apresenta um sistema híbrido de inteligência artificial, desenvolvido por meio de pesquisa de Design Science, com o objetivo de reduzir a mortalidade neonatal na Nigéria. O modelo é aplicado no setor de saúde, visando a detecção precoce de doenças neonatais em dados clínicos de 4.027 pacientes de cinco hospitais terciários. As estratégias de governança de dados incluem a utilização da técnica de superamostragem SMOTE para equilibrar classes e garantir a integridade dos dados. O estudo aborda a conformidade ética através da obtenção de aprovações de comitês de ética e discute a privacidade e a transparência no uso de dados clínicos. Identificou lacunas na gestão de dados, como a falta de sistemas de classificação integrados, e o modelo se aplica a um nível de maturidade de IA que permite diagnósticos precisos, com desempenho superior do modelo híbrido LSTM-ANN, que alcançou 82% de precisão, 88% de precisão, 82% de recall e 86% de F1-score, destacando-se na detecção de sepsis e outras condições críticas.",
+    "data_extraction": {
+        "titulo": "Hybridized artificial intelligence system for reducing neonatal mortality in Nigeria",
+        "ano_publicacao": 2026,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Nigeria",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "LSTM-ANN",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Aprovação ética obtida de cinco comitês de ética independentes para a coleta de dados clínicos.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade"
+        ],
+        "lacunas_identificadas": "Ausência de sistemas de classificação AI integrados treinados em dados clínicos locais no contexto de saúde nigeriano.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 48,
+    "referencia": "ODEYEMI, Charity S.; OLANIYAN, Olatayo M.; OMODUNBI, Bolaji A.; SAMUEL, Ibitoye B.; SOLADOYE, Afeez A.; OLAWADE, David B. Hybridized artificial intelligence system for reducing neonatal mortality in Nigeria. International Journal of Medical Informatics, v. 206, p. 106162, 2026. Available at: https://doi.org/10.1016/j.ijmedinf.2025.106162. Accessed on: 10 Jul. 2025."
+}

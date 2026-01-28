@@ -1,0 +1,27 @@
+{
+    "id": 122,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Transforming B2B platforms through interconnected digital twins Enhancing situation awareness for decision-making.pdf",
+    "resumo": "1. **Transformando plataformas B2B através de gêmeos digitais interconectados: Melhorando a consciência situacional para a tomada de decisões**: O artigo de Schink et al. (2026) propõe um modelo de gêmeos digitais interconectados (IDTs) como uma solução para melhorar a tomada de decisões em plataformas B2B no setor automotivo, utilizando um estudo de caso exploratório. O foco está na integração de dados em tempo real para superar a fragmentação e a sobrecarga cognitiva, fundamentando-se na Teoria da Consciência Situacional de Endsley. O modelo aborda a conformidade regulatória e a ética, enfatizando a transparência e a responsabilidade na troca de dados. As lacunas identificadas incluem a necessidade de padronização de dados e a resistência à partilha de informações entre concorrentes. O nível de maturidade da IA aplicado ao framework é considerado alto, com implicações significativas para a transformação digital e a inovação colaborativa nas ecossistemas industriais.",
+    "data_extraction": {
+        "titulo": "Transforming B2B platforms through interconnected digital twins: Enhancing situation awareness for decision-making",
+        "ano_publicacao": 2026,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Manufacturing",
+        "nome_framework_modelo": "Endsley’s Situation Awareness Theory",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Adoção de padrões de IDT para garantir a conformidade regulatória e a transparência de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de integração de dados em tempo real e a necessidade de estruturas de governança para facilitar a colaboração interorganizacional.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 54,
+    "referencia": "SCHINK, Alexander; GUTMANN, Tobias; BRENK, Sebastian. Transforming B2B platforms through interconnected digital twins: Enhancing situation awareness for decision-making. Technovation, v. 149, p. 103368, 2026. Disponível em: https://doi.org/10.1016/j.technovation.2025.103368. Accessed on: 10 Jul. 2025."
+}

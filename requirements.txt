@@ -4,3 +4,7 @@ python-dotenv
 tqdm
 pandas
 python-docx
+numpy
+openpyxl
+xlrd
+openai

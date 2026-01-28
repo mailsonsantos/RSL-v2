@@ -1,0 +1,27 @@
+{
+    "id": 74,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/From raw data to research-ready A FHIR-based transformation pipeline in a real-world oncology setting.pdf",
+    "resumo": "1. **From raw data to research-ready: A FHIR-based transformation pipeline in a real-world oncology setting**: O artigo apresenta um pipeline de transformação baseado em FHIR, desenvolvido através de um Estudo de Caso no setor de oncologia, visando a conversão de dados clínicos heterogêneos em representações RDF semânticas. O modelo propõe uma arquitetura modular que permite a interoperabilidade semântica e a reutilização de dados, incorporando validações sintáticas e semânticas para garantir a correção técnica e a relevância clínica. As estratégias de governança de dados incluem a padronização e a harmonização de dados, com ênfase na conformidade regulatória e na proteção da privacidade dos pacientes. O estudo identifica lacunas na integração de dados e sugere que o nível de maturidade da IA se aplica a sistemas de dados de alta complexidade. A pesquisa destaca a importância da colaboração interdisciplinar e a necessidade de validação em múltiplas instituições para garantir a escalabilidade e a portabilidade do modelo.",
+    "data_extraction": {
+        "titulo": "From raw data to research-ready: A FHIR-based transformation pipeline in a real-world oncology setting",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Italy",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Oncologia",
+        "nome_framework_modelo": "Cancer Virtual Lab",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O projeto CVL foi aprovado pelo Conselho Científico do IRST em 2024-02-13, incluindo anonimização de dados e limpeza de inconsistências.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A necessidade de validação mais ampla e benchmarking de desempenho, além de limitações na aplicação atual a um único conjunto de dados de pacientes falecidos.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 127,
+    "referencia": "CARBONARO, Antonella; GIORGETTI, Luca; RIDOLFI, Lorenzo; PASOLINI, Roberto; PAGLIARANI, Andrea; CAVALLUCCI, Martina; ANDALÒ, Alice; GAUDIO, Livia Del; ANGELIS, Paolo De; VESPIGNANI, Roberto; GENTILI, Nicola. From raw data to research-ready: A FHIR-based transformation pipeline in a real-world oncology setting. Computers in Biology and Medicine, vol. 197, pp. 111051, 2025. https://doi.org/10.1016/j.compbiomed.2025.111051. Accessed on: 10 Jul. 2025."
+}

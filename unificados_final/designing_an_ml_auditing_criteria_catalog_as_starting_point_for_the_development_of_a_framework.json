@@ -1,0 +1,30 @@
+{
+    "id": 47,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Designing an ML Auditing Criteria Catalog as Starting Point for the Development of a Framework.pdf",
+    "resumo": "1. **Designing an ML Auditing Criteria Catalog as Starting Point for the Development of a Framework**: O artigo de Schwarz et al. (2023) apresenta um catálogo de critérios de auditoria para Machine Learning (ML), desenvolvido por meio de um estudo de escopo qualitativo. O público-alvo é o setor de saúde, visando auxiliar organizações na implementação de algoritmos de ML. O catálogo, composto por 30 perguntas, é organizado em três categorias: Fundamentos Conceituais, Design de Dados e Algoritmos, e Métricas de Avaliação, abordando estratégias de governança de dados e práticas recomendadas para auditoria. O estudo enfatiza a importância da conformidade com regulamentações como a GDPR e a Lei de IA da UE, abordando questões éticas como privacidade e viés. As lacunas identificadas incluem a falta de um framework comum para auditoria de IA, e o nível de maturidade de IA ao qual o catálogo se aplica é considerado inicial, servindo como ponto de partida para o desenvolvimento de estratégias de avaliação mais robustas.",
+    "data_extraction": {
+        "titulo": "Designing an ML Auditing Criteria Catalog as Starting Point for the Development of a Framework",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "ML Auditing Core Criteria Catalog",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo propõe um catálogo de critérios de auditoria para garantir a conformidade ética e regulatória na implementação de algoritmos de ML na saúde.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de um framework comum para auditoria de sistemas de IA e a necessidade de melhores práticas e ferramentas para acelerar a adoção de ML na saúde.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 68,
+    "referencia": "SCHWARZ, Markus; HINSKE, Ludwig Christian; MANSMANN, Ulrich; ALBASHITI, Fady. Designing an ML Auditing Criteria Catalog as Starting Point for the Development of a Framework. IEEE Access, v. 12, p. 39953-39967, 2024. Available at: https://doi.org/10.1109/ACCESS.2024.3375763. Accessed on: 10 Jul. 2025."
+}

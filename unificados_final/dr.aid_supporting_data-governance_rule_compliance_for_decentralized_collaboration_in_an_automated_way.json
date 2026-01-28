@@ -1,0 +1,29 @@
+{
+    "id": 53,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Dr.Aid Supporting Data-governance Rule Compliance for Decentralized Collaboration in an Automated Way.pdf",
+    "resumo": "1. **Dr.Aid: Supporting Data-governance Rule Compliance for Decentralized Collaboration in an Automated Way**: O artigo apresenta o framework Dr.Aid, desenvolvido por meio de Design Science Research, com foco na colaboração descentralizada em contextos de pesquisa, como meteorologia e modelagem sísmica. O modelo visa automatizar a conformidade com regras de governança de dados, utilizando uma linguagem formal para codificar políticas de uso de dados e raciocínio sobre fluxos de dados em gráficos de múltiplas entradas e saídas (MIMO). As estratégias de governança incluem a rastreabilidade de regras e obrigações, abordando questões de conformidade regulatória e ética, como privacidade e transparência. O estudo identifica lacunas na gestão de dados, como a necessidade de ferramentas automatizadas para especificação e conformidade de regras, e propõe um modelo que se aplica a um nível de maturidade de IA elevado, permitindo colaborações mais ágeis e produtivas.",
+    "data_extraction": {
+        "titulo": "Dr.Aid: Supporting Data-governance Rule Compliance for Decentralized Collaboration in an Automated Way",
+        "ano_publicacao": 2021,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "UK",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Pesquisa científica",
+        "nome_framework_modelo": "Dr.Aid",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O sistema automatiza o manuseio de regras de governança de dados, permitindo que as partes interessadas cumpram as políticas de uso de dados de forma mais eficiente.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de métodos automatizados para especificação e conformidade de regras de uso de dados em contextos descentralizados.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 82,
+    "referencia": "ZHAO, Rui; ATKINSON, Malcolm; PAPAPANAGIOTOU, Petros; MAGNONI, Federica; FLEURIOT, Jacques. Dr.Aid: Supporting Data-governance Rule Compliance for Decentralized Collaboration in an Automated Way. Proc. ACM Hum.-Comput. Interact., v. 5, 2021. Available at: https://doi.org/10.1145/3479604. Accessed on: 10 Jul. 2025."
+}

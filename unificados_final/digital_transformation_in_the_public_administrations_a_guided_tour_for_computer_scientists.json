@@ -1,0 +1,28 @@
+{
+    "id": 52,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Digital Transformation in the Public Administrations A Guided Tour for Computer Scientists.pdf",
+    "resumo": "1. **Digital Transformation in the Public Administrations: a Guided Tour For Computer Scientists**: O artigo apresenta um modelo de transformação digital (DT) no setor público, desenvolvido através de uma revisão sistemática da literatura, com foco em metodologias ágeis. O público-alvo são cientistas da computação, visando melhorar a qualidade dos serviços públicos. O modelo aborda componentes de governança de dados, como a interoperabilidade e a gestão de dados abertos, e discute a importância de garantir a conformidade com regulamentos, como o GDPR, além de considerar aspectos éticos como privacidade e transparência. O estudo identifica lacunas na gestão de dados e sugere um nível de maturidade de IA que varia conforme a implementação de tecnologias em cidades como Barcelona e Chicago, destacando a necessidade de um equilíbrio entre aspectos técnicos e culturais na transformação digital.",
+    "data_extraction": {
+        "titulo": "Digital Transformation in the Public Administrations: a Guided Tour For Computer Scientists",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Italy",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Administração Pública",
+        "nome_framework_modelo": "Modelo de Transformação Digital",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas"
+        ],
+        "mecanismos_conformidade": "O artigo discute a necessidade de conformidade com regulamentações como o GDPR e a implementação de práticas de governança de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de um mapeamento técnico coerente para cientistas da computação no contexto da transformação digital no setor público.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 24,
+    "referencia": "CIANCARINI, Paolo; GIANCARLO, Rachael; GRIMAUDO, Gennaro. Digital Transformation in the Public Administrations: A Guided Tour for Computer Scientists. IEEE Access, v. 12, p. 22841-22865, 2024. Available at: https://doi.org/10.1109/ACCESS.2024.3363075. Accessed on: 10 Jul. 2025."
+}

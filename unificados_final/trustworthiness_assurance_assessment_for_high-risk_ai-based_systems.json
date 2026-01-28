@@ -1,0 +1,30 @@
+{
+    "id": 123,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Trustworthiness Assurance Assessment for High-Risk AI-Based Systems.pdf",
+    "resumo": "1. **Trustworthiness Assurance Assessment for High-Risk AI-Based Systems**: O artigo apresenta um framework para garantir a confiabilidade de sistemas de inteligência artificial (IA) de alto risco, publicado em 2023. O método de pesquisa utilizado é o Design Science Research, focando na aplicação em setores como transporte e automação. O framework propõe a utilização de conceitos de Domínio de Design Operacional (ODD) e Competências Comportamentais (BC) para avaliar riscos e garantir conformidade com o AI Act da União Europeia. As estratégias de governança incluem a definição de restrições de uso, avaliação de riscos residuais e consideração de fatores humanos. O artigo aborda a conformidade regulatória e questões éticas, como privacidade e viés, destacando a importância de métricas e KPIs para a avaliação contínua da confiabilidade. Identifica lacunas na gestão de dados e sugere um nível de maturidade de IA que deve ser alcançado para a implementação eficaz do framework, promovendo um ambiente de inovação responsável e centrado no ser humano.",
+    "data_extraction": {
+        "titulo": "Trustworthiness Assurance Assessment for High-Risk AI-Based Systems",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Germany",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Automotivo, Saúde, Finanças, Agricultura, Mobilidade",
+        "nome_framework_modelo": "Trustworthiness Assurance Framework",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a necessidade de conformidade com a legislação da UE, incluindo a aplicação de requisitos de segurança e ética ao longo do ciclo de vida da IA.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de padrões harmonizados para a avaliação de competências comportamentais e a necessidade de uma abordagem de classificação de risco mais robusta.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 2,
+    "referencia": "STETTINGER, Georg; WEISSENSTEINER, Patrick; KHASTGIR, Siddartha. Trustworthiness Assurance Assessment for High-Risk AI-Based Systems. IEEE Access, v. 12, p. 22718-22745, 2024. Disponível em: https://doi.org/10.1109/ACCESS.2024.3364387. Accessed on: 10 Jul. 2025."
+}

@@ -1,0 +1,28 @@
+{
+    "id": 49,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Dicing with data the risks, benefits, tensions and tech of health data_in the iToBoS project.pdf",
+    "resumo": "1. **Dicing with data: the risks, benefits, tensions and tech of health data in the iToBoS project**: O artigo apresenta o projeto iToBoS, financiado pela União Europeia, que visa desenvolver uma plataforma de diagnóstico por IA para a detecção precoce de melanoma. Utilizando o método de pesquisa Design Science Research, o estudo aborda a aplicação de dados clínicos, genômicos e de imagem para treinar modelos de aprendizado de máquina. As estratégias de governança de dados incluem a implementação de ferramentas de anonimização e minimização de dados, visando garantir a conformidade com o GDPR e abordar questões éticas como privacidade e explicabilidade. O projeto identifica lacunas na compreensão dos pacientes sobre o uso de IA e a complexidade do consentimento informado, além de destacar a necessidade de um compromisso com a transparência e a colaboração com redes de pacientes. O nível de maturidade da IA no contexto do iToBoS é considerado baixo, refletindo as tensões entre inovação e a necessidade de mitigação de riscos éticos e de privacidade.",
+    "data_extraction": {
+        "titulo": "Dicing with data: the risks, beneﬁts, tensions and tech of health data in the iToBoS project",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Irlanda",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O projeto utiliza uma Avaliação de Impacto de Privacidade (PIA+) para identificar riscos e propor medidas de mitigação, em conformidade com o GDPR.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Equidade/Bias",
+            "Explicabilidade"
+        ],
+        "lacunas_identificadas": "Desafios na obtenção de consentimento informado e na explicação dos resultados dos algoritmos para os pacientes.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 45,
+    "referencia": "ASPELL, Niamh; GOLDSTEEN, Abigail; RENWICK, Robin. Dicing with data: the risks, benefits, tensions and tech of health data in the iToBoS project. FRONTIERS IN DIGITAL HEALTH, v. 6, 2024. Available at: https://doi.org/10.3389/fdgth.2024.1272709. Accessed on: 10 Jul. 2025."
+}

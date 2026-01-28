@@ -1,0 +1,31 @@
+{
+    "id": 63,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Explainable artificial intelligence in electrocardiography A systematic review.pdf",
+    "resumo": "1. **Explainable Artificial Intelligence (XAI) in Finance: A Systematic Literature Review**: O artigo apresenta uma Revisão Sistemática da Literatura (RSL) sobre a Inteligência Artificial Explicável (XAI) no setor financeiro, identificando 138 artigos relevantes publicados entre 2005 e 2022. A pesquisa utiliza a metodologia de RSL para classificar as aplicações de XAI em tarefas financeiras, como gestão de crédito, previsão de preços de ações e detecção de fraudes. O estudo destaca a importância de estratégias de explicabilidade, como a importância de características e métodos baseados em regras, para garantir conformidade regulatória e abordar questões éticas, como viés e transparência. As lacunas identificadas incluem a necessidade de métricas de avaliação de explicabilidade e a falta de novas técnicas de XAI. O framework proposto sugere que a maturidade da IA deve ser considerada ao aplicar XAI, enfatizando a importância de uma colaboração mais estreita entre profissionais financeiros e desenvolvedores de IA para melhorar a interpretabilidade e a confiança nas decisões automatizadas.",
+    "data_extraction": {
+        "titulo": "Explainable artificial intelligence (XAI) in finance: a systematic literature review",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Lithuania",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Finance",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade",
+            "Políticas",
+            "Metadados"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Explicabilidade",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de novas técnicas de XAI, ausência de métricas de avaliação de explicabilidade, e segurança das informações fornecidas aos modelos de XAI.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 90,
+    "referencia": "TALEBAN, Amirsajjad; SPARAPANI, Rodney; NOFFKE, Patrick; ZLOCHIVER, Sharone; LU, Qiang; WIDLANSKY, Michael E.; LUO, Jake. Explainable artificial intelligence in electrocardiography: A systematic review. Biomedical Signal Processing and Control, v. 114, p. 109325, 2026. Available at: https://doi.org/10.1016/j.bspc.2025.109325. Accessed on: 10 Jul. 2025."
+}

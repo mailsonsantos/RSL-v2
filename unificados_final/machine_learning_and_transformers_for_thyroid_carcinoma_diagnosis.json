@@ -1,0 +1,24 @@
+{
+    "id": 92,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Machine learning and transformers for thyroid carcinoma diagnosis.pdf",
+    "resumo": "1. **Machine Learning and Transformers for Thyroid Carcinoma Diagnosis**: O artigo de Habchi et al. (2025) apresenta uma revisão sobre o uso de aprendizado de máquina (ML) e Transformers na detecção de carcinoma da tireoide (TC), utilizando uma abordagem de revisão sistemática. O estudo não propõe um novo framework, mas analisa diversas metodologias, incluindo aprendizado supervisionado e não supervisionado, para categorizar métodos de diagnóstico. O público-alvo inclui profissionais de saúde e pesquisadores na área de oncologia. O artigo discute estratégias de governança de dados, como a necessidade de conjuntos de dados abrangentes e bem anotados, e aborda questões éticas relacionadas à privacidade e à transparência no uso de IA. Identifica lacunas na precisão dos diagnósticos e sugere que o nível de maturidade da IA se aplica a sistemas de diagnóstico em desenvolvimento, destacando a importância de modelos de aprendizado profundo para melhorar a detecção de TC.",
+    "data_extraction": {
+        "titulo": "Machine Learning and Transformers for Thyroid Carcinoma Diagnosis",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Algeria",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de dados rotulados e bem anotados, desafios na coleta e validação de dados relacionados ao câncer de tireoide.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 123,
+    "referencia": "HABCHI, Yassine; KHEDDAR, Hamza; HIMEUR, Yassine; GHANEM, Mohamed Chahine. Machine learning and transformers for thyroid carcinoma diagnosis. Journal of Visual Communication and Image Representation, v. 115, p. 104668, 2026. Available at: https://doi.org/10.1016/j.jvcir.2025.104668. Accessed on: 10 Jul. 2025."
+}

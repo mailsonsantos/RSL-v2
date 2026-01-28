@@ -1,0 +1,28 @@
+{
+    "id": 26,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Artificial intelligence in vaccine research and development an umbrella_review.pdf",
+    "resumo": "1. **Artificial Intelligence in Vaccine Research and Development: An Umbrella Review**: O artigo apresenta uma revisão abrangente sobre o papel da inteligência artificial (IA) na aceleração e aprimoramento da pesquisa, desenvolvimento, distribuição e aceitação de vacinas, publicada em 2025. Utilizando o método de revisão de umbrella, o estudo abrange diversas aplicações de IA, incluindo aprendizado de máquina e redes neurais profundas, em contextos de vacinas, com foco em pesquisadores, profissionais de saúde e comunidades afetadas. O trabalho destaca estratégias de governança de dados, como a necessidade de consórcios globais para compartilhamento de dados de alta qualidade, e aborda questões éticas e de conformidade, como privacidade e viés algorítmico. Identifica lacunas na integração de dados heterogêneos e sugere que o nível de maturidade da IA deve ser elevado para garantir a eficácia e a segurança das vacinas, enfatizando a importância de auditorias regulares de viés e a necessidade de estruturas regulatórias robustas para a adoção de IA na saúde pública.",
+    "data_extraction": {
+        "titulo": "Artiﬁcial intelligence in vaccine research and development: an umbrella review",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Saudi Arabia",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde Pública",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Desafios persistentes como heterogeneidade de dados, viés algorítmico, estruturas regulatórias limitadas e preocupações éticas sobre transparência e equidade.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 77,
+    "referencia": "EL ARAB, Rabie Adel; ALKHUNAIZI, May; ALHASHEM, Yousef N.; AL KHATIB, Alissar; BUBSHEET, Munirah; HASSANEIN, Salwa. Artificial intelligence in vaccine research and development: an umbrella review. FRONTIERS IN IMMUNOLOGY, vol. 16, 2025. https://doi.org/10.3389/fimmu.2025.1567116. Accessed on: 10 Jul. 2025."
+}

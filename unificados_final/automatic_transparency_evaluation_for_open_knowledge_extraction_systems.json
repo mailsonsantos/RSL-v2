@@ -1,0 +1,27 @@
+{
+    "id": 28,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Automatic transparency evaluation for open knowledge extraction systems.pdf",
+    "resumo": "1. **Automatic Transparency Evaluation for Open Knowledge Extraction Systems**: O artigo apresenta o framework de avaliação de transparência denominado Cyrus, desenvolvido em 2023, utilizando a metodologia de pesquisa Design Science Research, focado em sistemas de Extração de Conhecimento Aberto (OKE). O público-alvo abrange pesquisadores e desenvolvedores de sistemas de IA, especialmente no setor de ciência de dados. O framework propõe dimensões de transparência que incluem proveniência, interpretabilidade, compreensibilidade, licenciamento, disponibilidade e interligação, visando garantir a conformidade com diretrizes éticas e regulatórias, como as do GDPR. O estudo identifica lacunas na transparência dos sistemas OKE, evidenciando a variabilidade na transparência dos dados gerados e sugerindo que o nível de maturidade da IA se relaciona com a eficácia da avaliação automática. A pesquisa conclui que a avaliação automática pode ser realizada com ferramentas de avaliação de qualidade de dados, contribuindo para a governança de dados e a construção de sistemas de IA mais transparentes e confiáveis.",
+    "data_extraction": {
+        "titulo": "Automatic transparency evaluation for open knowledge extraction systems",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Irlanda",
+        "metodo_pesquisa": "Proposta Teórica",
+        "publico_alvo_setor": "Sistemas de IA",
+        "nome_framework_modelo": "Cyrus",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Avaliação automática da transparência utilizando ferramentas de avaliação de FAIRness e qualidade de dados vinculados.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Falta de um framework de transparência abrangente para sistemas de OKE.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 39,
+    "referencia": "BASEREH, Maryam; CAPUTO, Annalina; BRENNAN, Rob. Automatic transparency evaluation for open knowledge extraction systems. JOURNAL OF BIOMEDICAL SEMANTICS, v. 14, 2023. Available at: https://doi.org/10.1186/s13326-023-00293-9. Accessed on: 10 Jul. 2025."
+}

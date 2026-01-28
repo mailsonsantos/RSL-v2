@@ -1,0 +1,28 @@
+{
+    "id": 39,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Cyber Security within Smart Cities A Comprehensive Study and a Novel Intrusion Detection-Based Approach.pdf",
+    "resumo": "1. **Cyber Security within Smart Cities: A Comprehensive Study and a Novel Intrusion Detection-Based Approach**: O artigo apresenta um framework de segurança cibernética para cidades inteligentes, desenvolvido através de um estudo de caso. O público-alvo abrange desenvolvedores e gestores de infraestrutura urbana. O modelo propõe estratégias de governança de dados que incluem a documentação de tentativas de invasão e a detecção de desvios de padrões de segurança, visando garantir a conformidade com normas de privacidade e segurança. As dimensões éticas abordadas incluem a proteção de dados pessoais e a transparência nas operações. O estudo identifica lacunas na gestão de dados, especialmente em relação à privacidade e à segurança, e sugere que o framework se aplica a um nível de maturidade de IA em desenvolvimento, destacando a necessidade de soluções robustas para mitigar riscos cibernéticos em ambientes urbanos interconectados.",
+    "data_extraction": {
+        "titulo": "Cyber Security within Smart Cities: A Comprehensive Study and a Novel Intrusion Detection-Based Approach",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Tunisia",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Cidades Inteligentes",
+        "nome_framework_modelo": "AI-based framework for intrusion detection",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Proposta de um framework de IA para documentar tentativas de penetração e detectar desvios de padrões de segurança.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Desafios na gestão de dados pessoais e riscos de segurança cibernética em cidades inteligentes.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 8,
+    "referencia": "HOUICHI, Mehdi; JAIDI, Faouzi; BOUHOULA, Adel. Cyber Security within Smart Cities: A Comprehensive Study and a Novel Intrusion Detection-Based Approach. Computers, Materials and Continua, v. 81, p. 393-441, 2024. Available at: https://doi.org/10.32604/cmc.2024.054007. Accessed on: 10 Jul. 2025."
+}

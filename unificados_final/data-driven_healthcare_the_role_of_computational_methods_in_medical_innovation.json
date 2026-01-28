@@ -1,0 +1,23 @@
+{
+    "id": 43,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Data-Driven Healthcare The Role of Computational Methods in Medical Innovation.pdf",
+    "resumo": "1. **Data-Driven Healthcare: The Role of Computational Methods in Medical Innovation**: O artigo revisa a interseção entre engenharia computacional e ciências biomédicas, destacando o potencial transformador dessa convergência na inovação em saúde. O estudo utiliza uma abordagem de revisão sistemática e abrange tópicos como modelagem computacional, bioinformática e aprendizado de máquina em diagnósticos médicos. Os principais achados indicam que modelos computacionais melhoraram significativamente a compreensão de sistemas biológicos complexos e que algoritmos de aprendizado de máquina aumentaram a precisão na previsão e diagnóstico de doenças. O artigo enfatiza a necessidade de colaboração interdisciplinar e sugere que futuras pesquisas devem focar no desenvolvimento de modelos computacionais robustos e escaláveis, além de abordar questões éticas relacionadas à privacidade e segurança dos dados. Lacunas identificadas incluem a integração de dados heterogêneos e a validação de modelos, com um nível de maturidade de IA que ainda requer avanços significativos para aplicações clínicas eficazes.",
+    "data_extraction": {
+        "titulo": "Data-Driven Healthcare: The Role of Computational Methods in Medical Innovation",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "India",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade"
+        ],
+        "lacunas_identificadas": "Necessidade de colaboração interdisciplinar e desenvolvimento de modelos computacionais mais robustos e escaláveis.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 58,
+    "referencia": "PONNARENGAN, Hariharasakthisudhan; RAJENDRAN, Sivakumar; KHALKAR, Vikas; DEVARAJAN, Gunapriya; KAMARAJ, Logesh. Data-Driven Healthcare: The Role of Computational Methods in Medical Innovation. CMES - Computer Modeling in Engineering and Sciences, v. 142, p. 1-48, 2024. Available at: https://doi.org/10.32604/cmes.2024.056605. Accessed on: 10 Jul. 2025."
+}

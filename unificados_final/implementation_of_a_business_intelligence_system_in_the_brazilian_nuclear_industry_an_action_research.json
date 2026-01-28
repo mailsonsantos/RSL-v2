@@ -1,0 +1,26 @@
+{
+    "id": 83,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Implementation of a Business Intelligence System in the Brazilian Nuclear Industry An Action Research.pdf",
+    "resumo": "1. **Implementation of a Business Intelligence System in the Brazilian Nuclear Industry: An Action Research**: O artigo apresenta um estudo que investiga a implementação de um Sistema de Inteligência de Negócios (BIS) em uma empresa do setor nuclear brasileiro, utilizando a metodologia de Pesquisa-Ação. O público-alvo é a indústria nuclear, com foco em melhorar a gestão de dados e a tomada de decisões em um ambiente altamente regulado. O estudo destaca componentes de governança de dados, como a utilização de ferramentas ETL e a criação de painéis de controle para monitoramento de atividades regulatórias. Mecanismos de conformidade são abordados, enfatizando a importância da transparência e da segurança na gestão de dados, além de considerar aspectos éticos como a privacidade e a integridade das informações. O artigo identifica lacunas na aceitação e uso de BIS em contextos regulatórios, sugerindo que a maturidade da IA aplicada é ainda incipiente, mas essencial para a eficácia do sistema.",
+    "data_extraction": {
+        "titulo": "Implementation of a Business Intelligence System in the Brazilian Nuclear Industry: An Action Research",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Brazil",
+        "metodo_pesquisa": "Action Research",
+        "publico_alvo_setor": "Nuclear Industry",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O BIS desenvolvido utilizou dados disponíveis e coletados no local, gerando relatórios de forma pública para melhor tomada de decisão e priorização de recursos de investigação.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A literatura existente sobre BIS foca predominantemente em contextos organizacionais gerais, e as necessidades e complexidades únicas enfrentadas por indústrias regulamentadas, como o domínio nuclear, receberam atenção limitada.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 55,
+    "referencia": "SIQUEIRA, Luiz Guilherme Martins; DE ASSIS, Rodrigo Furlan; MONTECINOS, Julio César; FERREIRA, William de Paula. Implementation of a Business Intelligence System in the Brazilian Nuclear Industry: An Action Research. Procedia Computer Science, v. 232, p. 956-965, 2024. Available at: https://doi.org/10.1016/j.procs.2024.01.095. Accessed on: 10 Jul. 2025."
+}

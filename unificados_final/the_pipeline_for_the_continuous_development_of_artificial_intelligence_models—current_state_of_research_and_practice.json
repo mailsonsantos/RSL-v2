@@ -1,0 +1,27 @@
+{
+    "id": 119,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/The pipeline for the continuous development of artificial intelligence models—Current state of research and practice.pdf",
+    "resumo": "1. **The Pipeline for the Continuous Development of Artificial Intelligence Models - Current State of Research and Practice**: O artigo apresenta um framework para o desenvolvimento contínuo de modelos de Inteligência Artificial (IA), fundamentado em uma Revisão Multivocal da Literatura (MLR) e entrevistas semiestruturadas com profissionais da academia e da indústria. O framework abrange quatro estágios: Manipulação de Dados, Aprendizado de Modelos, Desenvolvimento de Software e Operações de Sistema, cada um com tarefas específicas e desafios associados. O estudo identifica lacunas na integração de práticas de DevOps e MLOps, propondo um modelo que assegura a conformidade regulatória e a ética, abordando questões como privacidade e viés. As lacunas na gestão de dados e o nível de maturidade da IA são discutidos, destacando a necessidade de um pipeline flexível e escalável que se adapte a diferentes contextos e requisitos regulatórios.",
+    "data_extraction": {
+        "titulo": "The Pipeline for the Continuous Development of Artificial Intelligence Models - Current State of Research and Practice",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Austria",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Não mencionado",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Não mencionado",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 104,
+    "referencia": "STEIDL, Monika; FELDERER, Michael; RAMLER, Rudolf. The pipeline for the continuous development of artificial intelligence models—Current state of research and practice. Journal of Systems and Software, v. 199, p. 111615, 2023. Disponível em: https://doi.org/10.1016/j.jss.2023.111615. Accessed on: 10 Jul. 2025."
+}

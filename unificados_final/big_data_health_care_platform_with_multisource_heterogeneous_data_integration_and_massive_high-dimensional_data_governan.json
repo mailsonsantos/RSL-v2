@@ -1,0 +1,29 @@
+{
+    "id": 32,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Big Data Health Care Platform With Multisource Heterogeneous Data Integration and Massive High-Dimensional Data Governan.pdf",
+    "resumo": "1. **Big Data Health Care Platform With Multisource Heterogeneous Data Integration and Massive High-Dimensional Data Governance for Large Hospitals: Design, Development, and Application**: O artigo apresenta o desenvolvimento do WCH-BDP, um framework de governança de dados baseado em Design Science Research, aplicado no setor de saúde, especificamente no West China Hospital of Sichuan University. O modelo aborda a integração e governança de dados heterogêneos de múltiplas fontes, com foco em estratégias de controle de qualidade e segurança de dados. Mecanismos de conformidade regulatória são implementados, enfatizando a proteção da privacidade e a segurança dos dados. O estudo identifica lacunas na utilização de dados e sugere que a maturidade da IA no contexto do hospital é ainda incipiente, destacando a necessidade de melhorias contínuas na governança de dados para maximizar o valor dos ativos de dados gerados.",
+    "data_extraction": {
+        "titulo": "Big Data Health Care Platform With Multisource Heterogeneous Data Integration and Massive High-Dimensional Data Governance for Large Hospitals: Design, Development, and Application",
+        "ano_publicacao": 2022,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "China",
+        "metodo_pesquisa": "Design Science Research",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "WCH-BDP",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O WCH-BDP utiliza um sistema de controle de segurança de dados 5S, que inclui segurança de dados, segurança de aplicativos, segurança de uso, segurança de gerenciamento e segurança de propriedade.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "A utilização de dados de saúde na China ainda está em estágio inicial, necessitando de melhorias na governança de dados de saúde.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 40,
+    "referencia": "WANG, Miye; LI, Sheyu; ZHENG, Tao; LI, Nan; SHI, Qingke; ZHUO, Xuejun; DING, Renxin; HUANG, Yong. Big Data Health Care Platform With Multisource Heterogeneous Data Integration and Massive High-Dimensional Data Governance for Large Hospitals: Design, Development, and Application. JMIR Medical Informatics, v. 10, 2022. Available at: https://doi.org/10.2196/36481. Accessed on: 10 Jul. 2025."
+}

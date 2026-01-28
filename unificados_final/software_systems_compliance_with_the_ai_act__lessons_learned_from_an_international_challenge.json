@@ -1,0 +1,28 @@
+{
+    "id": 109,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Software Systems Compliance with the AI Act  Lessons Learned from an International Challenge.pdf",
+    "resumo": "1. **Software Systems Compliance with the AI Act: Lessons Learned from an International Challenge**: O artigo apresenta as lições aprendidas durante a competição Grand Challenge 2023, que envolveu equipes interdisciplinares na avaliação da conformidade de sistemas de IA com o AI Act da União Europeia. O método de pesquisa utilizado foi a análise de casos reais, focando em aplicações de IA em setores como telecomunicações e transporte. O estudo destaca a importância de estratégias de governança de dados, como a implementação de sistemas de gestão de risco e auditorias contínuas, para garantir a conformidade regulatória. Além disso, aborda questões éticas, como a transparência e a mitigação de viés, enfatizando a necessidade de um framework que integre requisitos legais e princípios éticos. As lacunas identificadas incluem a complexidade na avaliação de sistemas de IA de propósito geral e a maturidade variável das empresas em relação à conformidade com o AI Act, sugerindo que a adoção de práticas de governança de dados robustas é crucial para a evolução da maturidade em IA.",
+    "data_extraction": {
+        "titulo": "Software Systems Compliance with the AI Act: Lessons Learned from an International Challenge",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Workshop",
+        "pais_origem": "Italy",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Engenharia de Software e Comunidade de IA",
+        "nome_framework_modelo": "Cap-AI",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "O artigo discute a necessidade de conformidade com a AI Act, incluindo a implementação de um sistema de gestão de qualidade e auditorias contínuas.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Desafios na implementação de requisitos legais para sistemas socio-técnicos complexos e a necessidade de uma abordagem mais clara para sistemas de IA de uso geral.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 25,
+    "referencia": "SCANTAMBURLO, Teresa; FALCARIN, Paolo; VENERI, Alberto; FABRIS, Alessandro; GALLESE, Chiara; BILLA, Valentina; ROTOLO, Francesca; MARCUZZI, Federico. Software Systems Compliance with the AI Act : Lessons Learned from an International Challenge. p. 44-51, 2024. Accessed on: 10 Jul. 2025."
+}

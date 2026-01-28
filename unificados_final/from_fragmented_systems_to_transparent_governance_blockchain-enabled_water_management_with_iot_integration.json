@@ -1,0 +1,28 @@
+{
+    "id": 73,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/From Fragmented Systems to Transparent Governance Blockchain-Enabled_Water Management with IoT Integration.pdf",
+    "resumo": "1. **From Fragmented Systems to Transparent Governance: Blockchain-Enabled Water Management with IoT Integration**: O artigo apresenta um framework automatizado para gestão de água baseado em blockchain, desenvolvido através de um Estudo de Caso em duas municipalidades gregas, focando na integração de medidores de água IoT. O modelo propõe o uso de contratos Ricardianos para garantir a conformidade legal e a transparência nas interações entre consumidores e fornecedores de serviços, abordando questões éticas como privacidade e segurança de dados. Identifica lacunas na governança de dados, especialmente na fragmentação das informações entre diferentes entidades, e sugere um nível de maturidade de IA que permite a automação de processos de gestão de água. O sistema demonstrou eficácia na detecção de vazamentos e na melhoria da coordenação entre agências, destacando a necessidade de soluções descentralizadas e transparentes para a gestão hídrica.",
+    "data_extraction": {
+        "titulo": "From Fragmented Systems to Transparent Governance: Blockchain-Enabled Water Management with IoT Integration",
+        "ano_publicacao": 2026,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Greece",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Gestão de Água",
+        "nome_framework_modelo": "Blockchain Automated Framework",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Ricardian Contracts são utilizados para garantir que os processos de tomada de decisão estejam alinhados com os acordos legais entre consumidores e prestadores de serviços, garantindo conformidade regulatória automática.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A fragmentação e a falta de coordenação entre as agências de água dificultam a integração de dados e a eficácia dos processos de planejamento e regulamentação.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 21,
+    "referencia": "SENDROS, Andreas; KOSTAMIS, Periklis; ZIKOS, Ioannis; MANOS, Anastasios; FILIPPIDOU, Despina Elisabeth; DROSATOS, George; EFRAIMIDIS, Pavlos. From Fragmented Systems to Transparent Governance: Blockchain-Enabled Water Management with IoT Integration. WATER RESOURCES MANAGEMENT, vol. 40, 2026. https://doi.org/10.1007/s11269-025-04458-2. Accessed on: 10 Jul. 2025."
+}

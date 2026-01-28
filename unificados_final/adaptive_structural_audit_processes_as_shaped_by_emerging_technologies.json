@@ -1,0 +1,30 @@
+{
+    "id": 14,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Adaptive structural audit processes as shaped by emerging technologies.pdf",
+    "resumo": "1. **Adaptive Structural Audit Processes as Shaped by Emerging Technologies**: O artigo apresenta o framework denominado Adaptive Audit Ecosystem (AAE), desenvolvido por meio de uma abordagem de pesquisa qualitativa, focando na transformação das metodologias de auditoria em grandes firmas na África do Sul. O público-alvo inclui profissionais de auditoria e setores financeiros, com ênfase na integração de tecnologias emergentes, como análise de dados avançada e automação de processos. O estudo destaca a importância de estruturas de governança de dados, como frameworks de governança dual, para garantir a integridade e a conformidade regulatória, abordando também questões éticas como privacidade e responsabilidade. Identificou lacunas na adoção de práticas de auditoria centradas em dados e um nível de maturidade de IA que ainda requer a supervisão humana para mitigar riscos de viés e sobrecarga de informações. A pesquisa conclui com uma agenda futura que explora a interação entre pessoas, processos, tecnologia e governança no contexto da auditoria.",
+    "data_extraction": {
+        "titulo": "Adaptive structural audit processes as shaped by emerging technologies",
+        "ano_publicacao": 2025,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "South Africa",
+        "metodo_pesquisa": "Revisão da Literatura",
+        "publico_alvo_setor": "Auditoria",
+        "nome_framework_modelo": "Adaptive Audit Ecosystem (AAE)",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Dual data governance frameworks between auditors and clients ensure data integrity, privacy compliance, and regulatory alignment.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "Regulatory lag and dual data governance frameworks challenges hinder the seamless adoption of data-centric audit practices.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 85,
+    "referencia": "SEWPERSADH, Navitha Singh. Adaptive structural audit processes as shaped by emerging technologies. International Journal of Accounting Information Systems, vol. 56, pp. 100735, 2025. https://doi.org/10.1016/j.accinf.2025.100735. Accessed on: 10 Jul. 2025."
+}

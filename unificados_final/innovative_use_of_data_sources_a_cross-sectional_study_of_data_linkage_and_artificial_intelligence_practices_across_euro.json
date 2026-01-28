@@ -1,0 +1,28 @@
+{
+    "id": 89,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Innovative use of data sources a cross-sectional study of data linkage_and artificial intelligence practices across Euro.pdf",
+    "resumo": "1. **Innovative use of data sources: a cross-sectional study of data linkage and artificial intelligence practices across European countries**: O artigo de Haneef et al. (2020) apresenta um estudo baseado em survey que investiga a utilização de técnicas de ligação de dados e inteligência artificial (IA) em atividades de saúde pública na Europa. O público-alvo inclui institutos nacionais de saúde pública e estatísticas. O estudo identifica que 24 países europeus utilizam a ligação de dados, predominantemente por métodos determinísticos, para monitoramento e pesquisa em saúde, enquanto a aplicação de IA é limitada, com apenas cinco países relatando seu uso. As principais estratégias de governança de dados mencionadas incluem a necessidade de um sistema de informação em saúde robusto e a superação de barreiras legais e de recursos humanos. O artigo discute a conformidade com regulamentações de proteção de dados e destaca a importância da ética em relação à privacidade e transparência. Lacunas na capacidade analítica e na integração de dados foram identificadas, sugerindo um nível de maturidade de IA ainda em desenvolvimento nos países analisados.",
+    "data_extraction": {
+        "titulo": "Innovative use of data sources: a cross-sectional study of data linkage and artificial intelligence practices across European countries",
+        "ano_publicacao": 2020,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "França",
+        "metodo_pesquisa": "Survey",
+        "publico_alvo_setor": "Saúde Pública",
+        "nome_framework_modelo": "Euro-REACH Framework",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Leis complexas e regulamentos de proteção de dados que bloqueiam a vinculação entre diferentes fontes de dados.",
+        "dimensoes_eticas_abordadas": [
+            "Privacidade",
+            "Responsabilidade"
+        ],
+        "lacunas_identificadas": "Falta de recursos humanos e capacidades/competências dentro dos institutos de saúde pública.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 100,
+    "referencia": "HANEEF, Romana; DELNORD, Marie; VERNAY, Michel; BAUCHET, Emmanuelle; GAIDELYTE, Rita; VAN OYEN, Herman; OR, Zeynep; PEREZ-GOMEZ, Beatriz; PALMIERI, Luigi; ACHTERBERG, Peter; TIJHUIS, Mariken; ZALETEL, Metka; MATHIS-EDENHOFER, Stefan; MAJEK, Ondrej; HAAHEIM, Hakon; TOLONEN, Hanna; GALLAY, Anne. Innovative use of data sources: a cross-sectional study of data linkage and artificial intelligence practices across European countries. ARCHIVES OF PUBLIC HEALTH, v. 78, 2020. Available at: https://doi.org/10.1186/s13690-020-00436-9. Accessed on: 10 Jul. 2025."
+}

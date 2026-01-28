@@ -1,0 +1,27 @@
+{
+    "id": 97,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Operationalizing health data governance for AI innovation in_low-resource government health systems a practical implemen.pdf",
+    "resumo": "1. **Operationalizing health data governance for AI innovation in low-resource government health systems: a practical implementation perspective from Zanzibar**: O artigo apresenta um modelo prático de governança de dados em saúde, desenvolvido a partir de um estudo de caso no sistema de saúde de Zanzibar, com foco na implementação de políticas de consentimento informado, acesso e segurança de dados, e qualidade dos dados. A pesquisa, realizada por meio de uma abordagem de Design Science Research, visa atender a setores de saúde em países de baixa e média renda. O modelo aborda estratégias de gestão de dados, destacando a necessidade de diretrizes claras e treinamento para garantir a conformidade com normas éticas e regulatórias, como a proteção de dados e a privacidade. As lacunas identificadas incluem a falta de capacitação e recursos, além de um nível de maturidade de IA que ainda não é suficiente para garantir a qualidade dos dados necessários para inovações em saúde. O estudo conclui que a melhoria da governança de dados é essencial, mas deve ser acompanhada de um fortalecimento geral do sistema de saúde para que os dados sejam adequados para o desenvolvimento de IA.",
+    "data_extraction": {
+        "titulo": "Operationalizing health data governance for AI innovation in low-resource government health systems: a practical implementation perspective from Zanzibar",
+        "ano_publicacao": 2024,
+        "tipo_veiculo": "Journal",
+        "pais_origem": "Tanzania",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Saúde",
+        "nome_framework_modelo": "Não mencionado",
+        "componentes_governanca": [
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "Não mencionado",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade"
+        ],
+        "lacunas_identificadas": "A falta de compreensão sobre a gestão de dados e a necessidade de consentimento informado em contextos de baixa renda.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 59,
+    "referencia": "LI, Tracey; WANDELLA, Abbas; GOMER, Richard; AL-MAFAZY, Mohamed Habib. Operationalizing health data governance for AI innovation in low-resource government health systems: a practical implementation perspective from Zanzibar. DATA & POLICY, v. 6, 2024. Available at: https://doi.org/10.1017/dap.2024.65. Accessed on: 10 Jul. 2025."
+}

@@ -1,0 +1,31 @@
+{
+    "id": 67,
+    "file_source": "/Users/mailsonsantos/Documents/git/RSL-v2/artigos_baixados/Exploring the Assessment List for Trustworthy AI in the Context of Advanced Driver-Assistance Systems.pdf",
+    "resumo": "1. **Exploring the Assessment List for Trustworthy AI in the Context of Advanced Driver-Assistance Systems**: O artigo apresenta um estudo de caso ilustrativo sobre a aplicação da lista de verificação ALTAI, proposta pelo grupo de especialistas em IA da Comissão Europeia, em um sistema de assistência ao motorista avançado (ADAS) baseado em aprendizado de máquina, denominado SMIRK. A pesquisa utiliza o método de Estudo de Caso e se destina ao setor automotivo, focando em garantir a conformidade com os requisitos de IA confiável, que incluem robustez técnica, segurança e governança de dados. O estudo identifica lacunas na aplicação de componentes de governança, como a necessidade de políticas de privacidade e mecanismos de auditoria, além de abordar questões éticas como transparência e viés. O nível de maturidade da IA aplicado ao framework é considerado alto, embora o artigo reconheça que aspectos relacionados à agência humana e impacto social não sejam totalmente aplicáveis a um ADAS. Recomendações para revisões futuras do ALTAI incluem adaptações específicas de domínio e suporte a diferentes fases do ciclo de vida do desenvolvimento.",
+    "data_extraction": {
+        "titulo": "Exploring the Assessment List for Trustworthy AI in the Context of Advanced Driver-Assistance Systems",
+        "ano_publicacao": 2023,
+        "tipo_veiculo": "Conference",
+        "pais_origem": "Sweden",
+        "metodo_pesquisa": "Estudo de Caso",
+        "publico_alvo_setor": "Automotivo",
+        "nome_framework_modelo": "Assessment List for Trustworthy AI (ALTAI)",
+        "componentes_governanca": [
+            "Ciclo de Vida do Modelo",
+            "Metadados",
+            "Políticas",
+            "Qualidade"
+        ],
+        "mecanismos_conformidade": "A conformidade com ALTAI é garantida através de práticas de engenharia de segurança e certificações de segurança automotiva, como ISO 26262 e ISO 21448.",
+        "dimensoes_eticas_abordadas": [
+            "Equidade/Bias",
+            "Privacidade",
+            "Responsabilidade",
+            "Transparência"
+        ],
+        "lacunas_identificadas": "A necessidade de adaptações específicas do domínio e a falta de diretrizes claras para a interação entre sistemas de IA e usuários humanos.",
+        "nivel_maturidade_ia": "Desenvolvimento"
+    },
+    "id_original": 64,
+    "referencia": "BORG, Markus; BRONSON, Joshua; CHRISTENSSON, Linus; OLSSON, Fredrik; LENNARTSSON, Olof; SONNSJÖ, Elias; EBABI, Hamid; KARSBERG, Martin. Exploring the Assessment List for Trustworthy AI in the Context of Advanced Driver-Assistance Systems. pp. 5-12, 2021. https://doi.org/10.1109/SEthics52569.2021.00009. Accessed on: 10 Jul. 2025."
+}
