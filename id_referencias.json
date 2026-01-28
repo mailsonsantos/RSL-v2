@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "referencia": "TSAKALAKIS, Niko; STALLA-BOURDILLON, Sophie; HUYNH, Dong; MOREAU, Luc. A typology of explanations to support Explainability-by-Design. ACM J. Responsib. Comput., v. 2, 2025. Available at: https://doi.org/10.1145/3708504. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 12
+    },
+    {
+        "id": 3,
+        "referencia": "RIEYAN, Sakib Anwar; NEWS, Md. Raisul Kabir; RAHMAN, A.B.M. Muntasir; KHAN, Sadia Afrin; ZAARIF, Sultan Tasneem Jawad; ALAM, Md. Golam Rabiul; HASSAN, Mohammad Mehedi; IANNI, Michele; FORTINO, Giancarlo. An advanced data fabric architecture leveraging homomorphic encryption and federated learning. Information Fusion, vol. 102, pp. 102004, 2024. https://doi.org/10.1016/j.inffus.2023.102004. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 21
+    },
+    {
+        "id": 4,
+        "referencia": "MORENO-SÁNCHEZ, Pedro A.; DEL SER, Javier; VAN GILS, Mark; HERNESNIEMI, Jussi. A design framework for operationalizing trustworthy artificial intelligence in healthcare: Requirements, tradeoffs and challenges for its clinical adoption. Information Fusion, v. 127, p. 103812, 2026. Available at: https://doi.org/10.1016/j.inffus.2025.103812. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 3
+    },
+    {
+        "id": 5,
+        "referencia": "KORZNIAKOV, Oleksii; KRAVCHUK, Olha; MYKHAILOV, Mykhailo. HUMAN CAPITAL DEVELOPMENT IN THE TRANSITION FROM INDUSTRY 4.0 TO INDUSTRY 5.0: ETHICAL, EDUCATIONAL, REGULATORY PERSPECTIVES. BALTIC JOURNAL OF ECONOMIC STUDIES, v. 11, p. 261-267, 2025. Available at: https://doi.org/10.30525/2256-0742/2025-11-5-261-267. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 81
+    },
+    {
+        "id": 6,
+        "referencia": "OFOSU-ASARE, Yaw. Cognitive imperialism in artificial intelligence: counteracting bias with indigenous epistemologies. AI & SOCIETY, v. 40, p. 3045-3061, 2025. Available at: https://doi.org/10.1007/s00146-024-02065-0. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 36
+    },
+    {
+        "id": 10,
+        "referencia": "GEISLER, Sandra; VIDAL, Maria-Esther; CAPPIELLO, Cinzia; LÓSCIO, Bernadette Farias; GAL, Avigdor; JARKE, Matthias; LENZERINI, Maurizio; MISSIER, Paolo; OTTO, Boris; PAJA, Elda; PERNICI, Barbara; REHOF, Jakob. Knowledge-Driven Data Ecosystems Toward Data Transparency. J. Data and Information Quality, v. 14, 2021. Available at: https://doi.org/10.1145/3467022. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 91
+    },
+    {
+        "id": 13,
+        "referencia": "WANG, Zihuan. Artificial intelligence in Chinese healthcare: a review of applications and future prospects. BIOMEDICAL ENGINEERING LETTERS, vol. 15, pp. 1065-1072, 2025. https://doi.org/10.1007/s13534-025-00515-2. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 24
+    },
+    {
+        "id": 15,
+        "referencia": "ROLAN, Gregory; LEWIS, Antonina. The perpetual twilight of records: consentful recordkeeping as moral defence. ARCHIVAL SCIENCE, v. 24, p. 257-287, 2024. Disponível em: https://doi.org/10.1007/s10502-024-09438-w. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 118
+    },
+    {
+        "id": 16,
+        "referencia": "ARYFIYANTO, Hary; ALAMSYAH, Andry. Public Service with Generative AI: Exploring Features and Applications. p. 1-7, 2024. Available at: https://doi.org/10.1109/IC2IE63342.2024.10747963. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 104
+    },
+    {
+        "id": 19,
+        "referencia": "ELVAS, Luis B.; FERREIRA, Joao C.; DIAS, Miguel Sales; ROSARIO, Luis Bras. Health Data Sharing towards Knowledge Creation. SYSTEMS, v. 11, 2023. Available at: https://doi.org/10.3390/systems11080435. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 79
+    },
+    {
+        "id": 21,
+        "referencia": "SENDROS, Andreas; KOSTAMIS, Periklis; ZIKOS, Ioannis; MANOS, Anastasios; FILIPPIDOU, Despina Elisabeth; DROSATOS, George; EFRAIMIDIS, Pavlos. From Fragmented Systems to Transparent Governance: Blockchain-Enabled Water Management with IoT Integration. WATER RESOURCES MANAGEMENT, vol. 40, 2026. https://doi.org/10.1007/s11269-025-04458-2. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 73
+    },
+    {
+        "id": 25,
+        "referencia": "SCANTAMBURLO, Teresa; FALCARIN, Paolo; VENERI, Alberto; FABRIS, Alessandro; GALLESE, Chiara; BILLA, Valentina; ROTOLO, Francesca; MARCUZZI, Federico. Software Systems Compliance with the AI Act : Lessons Learned from an International Challenge. p. 44-51, 2024. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 109
+    },
+    {
+        "id": 31,
+        "referencia": "ZIEGLMEIER, Valentin; LOYOLA DAIQUI, Gabriel; PRETSCHNER, Alexander. Decentralized Inverse Transparency with Blockchain. Distrib. Ledger Technol., v. 2, 2023. Available at: https://doi.org/10.1145/3592624. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 44
+    },
+    {
+        "id": 32,
+        "referencia": "FINDLAY, Mark; SEAH, Josephine. An Ecosystem Approach to Ethical AI and Data Use: Experimental Reflections. pp. 192-197, 2020. https://doi.org/10.1109/AI4G50087.2020.9311069. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 23
+    },
+    {
+        "id": 35,
+        "referencia": "SUVER, Christine; HARPER, Jeremy; LOOMBA, Johanna; SALTZ, Mary; SOLWAY, Julian; ANZALONE, Alfred Jerrod; WALTERS, Kellie; PFAFF, Emily; WALDEN, Anita; MCMURRY, Julie; CHUTE, Christopher G.; HAENDEL, Melissa; CONSORTIUM, N3C. The N3C governance ecosystem: A model socio-technical partnership for the future of collaborative analytics at scale. JOURNAL OF CLINICAL AND TRANSLATIONAL SCIENCE, v. 7, 2023. Available at: https://doi.org/10.1017/cts.2023.681. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 117
+    },
+    {
+        "id": 36,
+        "referencia": "HEUDEL, Pierre; CROCHET, Hugo; DURAND, Thierry; ZROUNBA, Philippe; BLAY, Yves. From data strategy to implementation to advance cancer research and cancer care: A French comprehensive cancer center experience. PLOS DIGITAL HEALTH, vol. 2, 2023. https://doi.org/10.1371/journal.pdig.0000415. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 72
+    },
+    {
+        "id": 37,
+        "referencia": "CHEN, Haohao; ZENG, Ying; CAI, De. Deep learning for cardiovascular management: optimizing pathways and cost control under diagnosis-related group models. FRONTIERS IN ARTIFICIAL INTELLIGENCE, v. 8, 2025. Available at: https://doi.org/10.3389/frai.2025.1580445. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 45
+    },
+    {
+        "id": 40,
+        "referencia": "WANG, Miye; LI, Sheyu; ZHENG, Tao; LI, Nan; SHI, Qingke; ZHUO, Xuejun; DING, Renxin; HUANG, Yong. Big Data Health Care Platform With Multisource Heterogeneous Data Integration and Massive High-Dimensional Data Governance for Large Hospitals: Design, Development, and Application. JMIR Medical Informatics, v. 10, 2022. Available at: https://doi.org/10.2196/36481. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 32
+    },
+    {
+        "id": 45,
+        "referencia": "ASPELL, Niamh; GOLDSTEEN, Abigail; RENWICK, Robin. Dicing with data: the risks, benefits, tensions and tech of health data in the iToBoS project. FRONTIERS IN DIGITAL HEALTH, v. 6, 2024. Available at: https://doi.org/10.3389/fdgth.2024.1272709. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 49
+    },
+    {
+        "id": 46,
+        "referencia": "VIEIRA-VIEIRA, Carlos Henrique; KULKARNI, Sarang Sanjay; ZALEWSKI, Adam; LOFFLER, Jobst; MUNCH, Jonas; KREUCHWIG, Annika. From data silos to insights: the PRINCE multi-agent knowledge engine for preclinical drug development. FRONTIERS IN ARTIFICIAL INTELLIGENCE, vol. 8, 2025. https://doi.org/10.3389/frai.2025.1636809. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 71
+    },
+    {
+        "id": 54,
+        "referencia": "SCHINK, Alexander; GUTMANN, Tobias; BRENK, Sebastian. Transforming B2B platforms through interconnected digital twins: Enhancing situation awareness for decision-making. Technovation, v. 149, p. 103368, 2026. Disponível em: https://doi.org/10.1016/j.technovation.2025.103368. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 122
+    },
+    {
+        "id": 63,
+        "referencia": "ARRIETA, Alejandro Barredo; DÍAZ-RODRÍGUEZ, Natalia; SER, Javier Del; BENNETOT, Adrien; TABIK, Siham; BARBADO, Alberto; GARCIA, Salvador; GIL-LOPEZ, Sergio; MOLINA, Daniel; BENJAMINS, Richard; CHATILA, Raja; HERRERA, Francisco. Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI. Information Fusion, v. 58, p. 82-115, 2020. Available at: https://doi.org/10.1016/j.inffus.2019.12.012. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 62
+    },
+    {
+        "id": 65,
+        "referencia": "PANDIT, Harshvardhan J.; ESTEVES, Beatriz; KROG, Georg P.; RYAN, Paul; GOLPAYEGANI, Delaram; FLAKE, Julian. Data Privacy Vocabulary (DPV) - Version 2.0. v. 15233, p. 171-193, 2025. Available at: https://doi.org/10.1007/978-3-031-77847-6_10. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 41
+    },
+    {
+        "id": 69,
+        "referencia": "KLAINE, Paulo Valente; XU, Hao; ZHANG, Lei; IMRAN, Muhammad; ZHU, Ziming. A Privacy-Preserving Blockchain Platform for a Data Marketplace. Distrib. Ledger Technol., v. 2, 2023. Available at: https://doi.org/10.1145/3573894. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 6
+    },
+    {
+        "id": 70,
+        "referencia": "HOWISON, Mark; ANGELL, Mintaka; HASTINGS, Justine S.. Protecting Sensitive Data with Secure Data Enclaves. Digit. Gov.: Res. Pract., v. 5, 2024. Available at: https://doi.org/10.1145/3643686. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 103
+    },
+    {
+        "id": 71,
+        "referencia": "GORSKI, Lukasz; KUZNIACKI, Blazej; ALMADA, Marco; TYLINSKI, Kamil; CALVO, Madalena; ASNAGHI, Pablo Matias; ALMADA, Luciano; INIGUEZ, Hilario; RUBIANES, Fernando; PERA, Octavio; NIGRELLI, Juan Ignacio. Exploring explainable AI in the tax domain. ARTIFICIAL INTELLIGENCE AND LAW, vol. 33, pp. 551-579, 2025. https://doi.org/10.1007/s10506-024-09395-w. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 66
+    },
+    {
+        "id": 72,
+        "referencia": "HENDRICKS-STURRUP, Rachele; SIMMONS, Malaika; ANDERS, Shilo; ANENI, Kammarauche; WRIGHT CLAYTON, Ellen; COCO, Joseph; COLLINS, Benjamin; HEITMAN, Elizabeth; HUSSAIN, Sajid; JOSHI, Karuna; LEMIEUX, Josh; LOVETT NOVAK, Laurie; RUBIN, Daniel J; SHANKER, Anil; WASHINGTON, Talitha; WATERS, Gabriella; WEBB HARRIS, Joyce; YIN, Rui; WAGNER, Teresa; YIN, Zhijun; MALIN, Bradley. Developing Ethics and Equity Principles, Terms, and Engagement Tools to Advance Health Equity and Researcher Diversity in AI and Machine Learning: Modified Delphi Approach. JMIR AI, v. 2, 2023. Available at: https://doi.org/10.2196/52888. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 48
+    },
+    {
+        "id": 78,
+        "referencia": "PIRMANI, Ashkan; DE BROUWER, Edward; GEYS, Lotte; PARCIAK, Tina; MOREAU, Yves; PEETERS, Liesbet M. The Journey of Data Within a Global Data Sharing Initiative: A Federated 3-Layer Data Analysis Pipeline to Scale Up Multiple Sclerosis Research. JMIR Medical Informatics, v. 11, 2023. Available at: https://doi.org/10.2196/48030. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 116
+    },
+    {
+        "id": 79,
+        "referencia": "CHA, Dongchul; SUNG, MinDong; PARK, Yu-Rang. Implementing Vertical Federated Learning Using Autoencoders: Practical Application, Generalizability, and Utility Study. JMIR Medical Informatics, v. 9, 2021. Available at: https://doi.org/10.2196/26598. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 86
+    },
+    {
+        "id": 84,
+        "referencia": "OSONUGA, Ayokunle; OSONUGA, Adewoyin A.; FIDELIS, Sandra Chinaza; OSONUGA, Gloria C.; JUCKES, Jack; OLAWADE, David B.. Bridging the digital divide: artificial intelligence as a catalyst for health equity in primary care settings. International Journal of Medical Informatics, v. 204, p. 106051, 2025. Available at: https://doi.org/10.1016/j.ijmedinf.2025.106051. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 33
+    },
+    {
+        "id": 85,
+        "referencia": "SEWPERSADH, Navitha Singh. Adaptive structural audit processes as shaped by emerging technologies. International Journal of Accounting Information Systems, vol. 56, pp. 100735, 2025. https://doi.org/10.1016/j.accinf.2025.100735. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 14
+    },
+    {
+        "id": 91,
+        "referencia": "FEDELE, Andrea; PUNZI, Clara; TRAMACERE, Stefano. The ALTAI checklist as a tool to assess ethical and legal implications for a trustworthy AI development in education. Computer Law & Security Review, v. 53, p. 105986, 2024. Available at: https://doi.org/10.1016/j.clsr.2024.105986. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 115
+    },
+    {
+        "id": 95,
+        "referencia": "FRITCHMAN, Kyle; SAMINATHAN, Keerthanaa; DOWSLEY, Rafael; HUGHES, Tyler; DE COCK, Martine; NASCIMENTO, Anderson; TEREDESAI, Ankur. Privacy-Preserving Scoring of Tree Ensembles: A Novel Framework for AI in Healthcare. p. 2413-2422, 2018. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 102
+    },
+    {
+        "id": 99,
+        "referencia": "AOUEDI, Ons; PIAMRAT, Kandaraj. F-BIDS: Federated-Blending based Intrusion Detection System. Pervasive and Mobile Computing, vol. 89, pp. 101750, 2023. https://doi.org/10.1016/j.pmcj.2023.101750. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 69
+    },
+    {
+        "id": 100,
+        "referencia": "HANEEF, Romana; DELNORD, Marie; VERNAY, Michel; BAUCHET, Emmanuelle; GAIDELYTE, Rita; VAN OYEN, Herman; OR, Zeynep; PEREZ-GOMEZ, Beatriz; PALMIERI, Luigi; ACHTERBERG, Peter; TIJHUIS, Mariken; ZALETEL, Metka; MATHIS-EDENHOFER, Stefan; MAJEK, Ondrej; HAAHEIM, Hakon; TOLONEN, Hanna; GALLAY, Anne. Innovative use of data sources: a cross-sectional study of data linkage and artificial intelligence practices across European countries. ARCHIVES OF PUBLIC HEALTH, v. 78, 2020. Available at: https://doi.org/10.1186/s13690-020-00436-9. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 89
+    },
+    {
+        "id": 107,
+        "referencia": "BIRCAN, Tuba; ÖZBILGIN, Mustafa F.. Unmasking inequalities of the code: Disentangling the nexus of AI and inequality. Technological Forecasting and Social Change, v. 211, p. 123925, 2025. Disponível em: https://doi.org/10.1016/j.techfore.2024.123925. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 126
+    },
+    {
+        "id": 111,
+        "referencia": "FOTHERGILL, B. Tyr; KNIGHT, William; STAHL, Bernd Carsten; ULNICANE, Inge. Responsible Data Governance of Neuroscience Big Data. FRONTIERS IN NEUROINFORMATICS, v. 13, 2019. Available at: https://doi.org/10.3389/fninf.2019.00028. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 107
+    },
+    {
+        "id": 112,
+        "referencia": "KUZIEMSKI, Maciej; MISURACA, Gianluca. AI governance in the public sector: Three tales from the frontiers of automated decision-making in democratic settings. Telecommunications Policy, vol. 44, pp. 101976, 2020. https://doi.org/10.1016/j.telpol.2020.101976. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 16
+    },
+    {
+        "id": 114,
+        "referencia": "HINIDUMA, Kaveen; BYNA, Suren; BEZ, Jean Luca. Data Readiness for AI: A 360-Degree Survey. ACM Comput. Surv., v. 57, 2025. Available at: https://doi.org/10.1145/3722214. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 42
+    },
+    {
+        "id": 116,
+        "referencia": "PEUKERT, Christian; BECHTOLD, Stefan; BATIKAS, Michail; KRETSCHMER, Tobias. Regulatory Spillovers and Data Governance: Evidence from the GDPR. MARKETING SCIENCE, v. 41, p. 318-340, 2022. Available at: https://doi.org/10.1287/mksc.2021.1339. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 106
+    },
+    {
+        "id": 118,
+        "referencia": "LU, Qinghua; ZHAO, Dehai; LIU, Yue; ZHANG, Hao; ZHU, Liming; XU, Xiwei; SHI, Angela; TAN, Tristan; KAZMAN, Rick. AgentArcEval: An architecture evaluation method for foundation model based agents. Journal of Systems and Software, vol. 232, pp. 112656, 2026. https://doi.org/10.1016/j.jss.2025.112656. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 15
+    },
+    {
+        "id": 123,
+        "referencia": "HABCHI, Yassine; KHEDDAR, Hamza; HIMEUR, Yassine; GHANEM, Mohamed Chahine. Machine learning and transformers for thyroid carcinoma diagnosis. Journal of Visual Communication and Image Representation, v. 115, p. 104668, 2026. Available at: https://doi.org/10.1016/j.jvcir.2025.104668. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 92
+    },
+    {
+        "id": 126,
+        "referencia": "KARAKACHOFF, Matilde; GORONFLOT, Thomas; COUDOL, Sandrine; TOUBLANT, Delphine; BAZOGE, Adrien; CONSTANT DIT BEAUFILS, Pacôme; VAREY, Emilie; LEUX, Christophe; MAUDUIT, Nicolas; WARGNY, Matthieu; GOURRAUD, Pierre-Antoine. Implementing a Biomedical Data Warehouse From Blueprint to Bedside in a Regional French University Hospital Setting: Unveiling Processes, Overcoming Challenges, and Extracting Clinical Insight. JMIR Medical Informatics, v. 12, 2024. Available at: https://doi.org/10.2196/50194. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 84
+    },
+    {
+        "id": 127,
+        "referencia": "CARBONARO, Antonella; GIORGETTI, Luca; RIDOLFI, Lorenzo; PASOLINI, Roberto; PAGLIARANI, Andrea; CAVALLUCCI, Martina; ANDALÒ, Alice; GAUDIO, Livia Del; ANGELIS, Paolo De; VESPIGNANI, Roberto; GENTILI, Nicola. From raw data to research-ready: A FHIR-based transformation pipeline in a real-world oncology setting. Computers in Biology and Medicine, vol. 197, pp. 111051, 2025. https://doi.org/10.1016/j.compbiomed.2025.111051. Accessed on: 10 Jul. 2025.",
+        "id_rsl": 74
+    }
+]
